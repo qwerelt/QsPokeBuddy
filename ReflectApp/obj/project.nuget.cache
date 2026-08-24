@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNcz7PFltmg=",
+  "success": true,
+  "projectFilePath": "Q:\\Code\\Qs Poke Buddy\\ReflectApp\\ReflectApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\pkhex.core\\24.11.11\\pkhex.core.24.11.11.nupkg.sha512"
+  ],
+  "logs": []
+}

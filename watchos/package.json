@@ -1,0 +1,19 @@
+{
+  "name": "qs-poke-buddy-watchos",
+  "version": "1.0.0",
+  "description": "Zepp OS Companion Mini-Program for Qs Poke Buddy",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "build": "zeus build --target bip-6",
+    "preview": "zeus preview --target bip-6",
+    "dev": "zeus dev --target bip-6"
+  },
+  "dependencies": {
+    "@zeppos/zml": "^0.0.43"
+  },
+  "devDependencies": {
+    "@zeppos/device-types": "^3.0.0"
+  },
+  "license": "MIT"
+}

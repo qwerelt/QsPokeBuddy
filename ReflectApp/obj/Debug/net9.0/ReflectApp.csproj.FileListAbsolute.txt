@@ -1,0 +1,17 @@
+Q:\Code\Qs Poke Buddy\ReflectApp\bin\Debug\net9.0\ReflectApp.exe
+Q:\Code\Qs Poke Buddy\ReflectApp\bin\Debug\net9.0\ReflectApp.deps.json
+Q:\Code\Qs Poke Buddy\ReflectApp\bin\Debug\net9.0\ReflectApp.runtimeconfig.json
+Q:\Code\Qs Poke Buddy\ReflectApp\bin\Debug\net9.0\ReflectApp.dll
+Q:\Code\Qs Poke Buddy\ReflectApp\bin\Debug\net9.0\ReflectApp.pdb
+Q:\Code\Qs Poke Buddy\ReflectApp\bin\Debug\net9.0\PKHeX.Core.dll
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.csproj.AssemblyReference.cache
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.AssemblyInfoInputs.cache
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.AssemblyInfo.cs
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.csproj.CoreCompileInputs.cache
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.csproj.Up2Date
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.dll
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\refint\ReflectApp.dll
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.pdb
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ReflectApp.genruntimeconfig.cache
+Q:\Code\Qs Poke Buddy\ReflectApp\obj\Debug\net9.0\ref\ReflectApp.dll

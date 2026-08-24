@@ -1,0 +1,93 @@
+@page "/"
+@using PKHeX.Core
+@using System.IO
+@using QRCoder
+@inject IJSRuntime JSRuntime
+
+<PageTitle>Qs Poke Buddy</PageTitle>
+
+<h1>Upload Pokémon Save File</h1>
+
+<InputFile OnChange="LoadFiles" />
+
+@if (saveFile != null)
+{
+    <div>
+        <h3>Save File Details</h3>
+        <p>Game: @saveFile.Version</p>
+        <p>Trainer: @saveFile.OT</p>
+
+        <h4>Party Pokémon</h4>
+        <ul>
+            @for (int i = 0; i < party.Count; i++)
+            {
+                var pkm = party[i];
+                var index = i;
+                if (pkm.Species > 0)
+                {
+                    <li>
+                        @((Species)pkm.Species) - Lvl @pkm.CurrentLevel
+                        <button @onclick="() => SelectPokemon(pkm, index)">Select</button>
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+}
+
+@if (selectedPkm != null)
+{
+    <div>
+        <h3>Selected Pokémon: @((Species)selectedPkm.Species)</h3>
+        <img src="@qrCodeBase64" alt="QR Code" style="max-width:300px;"/>
+    </div>
+}
+
+@code {
+    private SaveFile? saveFile;
+    private IList<PKM> party = new List<PKM>();
+    private PKM? selectedPkm;
+    private string qrCodeBase64 = "";
+
+    protected override void OnInitialized()
+    {
+        // PKHeX initialization if needed
+    }
+
+    private async Task LoadFiles(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        using var stream = file.OpenReadStream(maxAllowedSize: 10 * 1024 * 1024);
+        using var ms = new MemoryStream();
+        await stream.CopyToAsync(ms);
+        byte[] data = ms.ToArray();
+
+        saveFile = SaveUtil.GetVariantSAV(data);
+        if (saveFile != null)
+        {
+            party = saveFile.PartyData;
+            selectedPkm = null;
+        }
+    }
+
+    private async Task SelectPokemon(PKM pkm, int index)
+    {
+        selectedPkm = pkm;
+        byte[] pkmBytes = pkm.DecryptedPartyData;
+        string b64 = Convert.ToBase64String(pkmBytes);
+        string payload = $"pkm:{(int)saveFile!.Version}:{b64}";
+
+        using var qrGenerator = new QRCodeGenerator();
+        using var qrCodeData = qrGenerator.CreateQrCode(payload, QRCodeGenerator.ECCLevel.Q);
+        using var qrCode = new PngByteQRCode(qrCodeData);
+        byte[] qrCodeImage = qrCode.GetGraphic(20);
+        qrCodeBase64 = $"data:image/png;base64,{Convert.ToBase64String(qrCodeImage)}";
+
+        // Remove the Pokemon from the party
+        saveFile.DeletePartySlot(index);
+        
+        byte[] newSaveData = saveFile.Write();
+        string b64Save = Convert.ToBase64String(newSaveData);
+        await JSRuntime.InvokeVoidAsync("downloadFile", "modified.sav", "application/octet-stream", b64Save);
+    }
+}

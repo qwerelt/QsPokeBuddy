@@ -1,0 +1,161 @@
+{
+  "$schema": "https://docs.zepp.com/assets/app.schema.json",
+  "configVersion": "v2",
+  "app": {
+    "appType": "app",
+    "appName": "PokeBuddy",
+    "appId": 1008888,
+    "version": {
+      "code": 1,
+      "name": "1.0.0"
+    },
+    "icon": "icon.png",
+    "vender": "QsPokeBuddy",
+    "description": "Companion Tamagotchi Pokéwalker mini-program for Zepp OS"
+  },
+  "permissions": [
+    "device:os.sensor",
+    "device:os.bg_sensor",
+    "device:os.local_storage",
+    "device:os.screen",
+    "device:os.ble"
+  ],
+  "defaultLanguage": "en-US",
+  "runtime": {
+    "apiVersion": {
+      "minVersion": "2.0.0",
+      "compatible": "3.0.0",
+      "target": "3.0.0"
+    }
+  },
+  "targets": {
+    "bip-6": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/index",
+            "page/tasks"
+          ]
+        },
+        "secondary-widget": {
+          "widgets": [
+            {
+              "icon": "icon.png",
+              "preview": "icon.png",
+              "path": "secondary-widget/index",
+              "name": "PokeBuddy"
+            }
+          ]
+        },
+        "app-widget": {
+          "widgets": [
+            {
+              "icon": "icon.png",
+              "path": "app-widget/index",
+              "name": "PokeBuddy"
+            }
+          ]
+        },
+        "app-side": {
+          "path": "app-side/index"
+        }
+      },
+      "platforms": [
+        {
+          "name": "bip-6",
+          "deviceSource": 9765120,
+          "designWidth": 390,
+          "designHeight": 450
+        },
+        {
+          "name": "bip-6-w",
+          "deviceSource": 9765121,
+          "designWidth": 390,
+          "designHeight": 450
+        },
+        {
+          "name": "bip-6-w64",
+          "deviceSource": 10158337,
+          "designWidth": 390,
+          "designHeight": 450
+        }
+      ]
+    },
+    "bip-5": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/index",
+            "page/tasks"
+          ]
+        },
+        "secondary-widget": {
+          "widgets": [
+            {
+              "icon": "icon.png",
+              "preview": "icon.png",
+              "path": "secondary-widget/index",
+              "name": "PokeBuddy"
+            }
+          ]
+        },
+        "app-widget": {
+          "widgets": [
+            {
+              "icon": "icon.png",
+              "path": "app-widget/index",
+              "name": "PokeBuddy"
+            }
+          ]
+        },
+        "app-side": {
+          "path": "app-side/index"
+        }
+      },
+      "platforms": [
+        {
+          "name": "bip-5",
+          "deviceSource": 8454400,
+          "designWidth": 320,
+          "designHeight": 380
+        },
+        {
+          "name": "bip-5-unity",
+          "deviceSource": 8782081,
+          "designWidth": 320,
+          "designHeight": 380
+        }
+      ]
+    }
+  },
+  "module": {
+    "page": {
+      "pages": [
+        "page/index",
+        "page/tasks"
+      ]
+    },
+    "secondary-widget": {
+      "widgets": [
+        {
+          "icon": "icon.png",
+          "preview": "icon.png",
+          "path": "secondary-widget/index",
+          "name": "PokeBuddy"
+        }
+      ]
+    },
+    "app-widget": {
+      "widgets": [
+        {
+          "icon": "icon.png",
+          "path": "app-widget/index",
+          "name": "PokeBuddy"
+        }
+      ]
+    },
+    "app-side": {
+      "path": "app-side/index"
+    }
+  }
+}
