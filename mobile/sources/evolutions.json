@@ -1,0 +1,5168 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Bulbasaur",
+    "chainId": 1,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      2
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Ivysaur",
+    "chainId": 1,
+    "evolvesFromId": 1,
+    "evolvesTo": [
+      3
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Venusaur",
+    "chainId": 1,
+    "evolvesFromId": 2,
+    "evolvesTo": []
+  },
+  "4": {
+    "id": 4,
+    "name": "Charmander",
+    "chainId": 2,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      5
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Charmeleon",
+    "chainId": 2,
+    "evolvesFromId": 4,
+    "evolvesTo": [
+      6
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Charizard",
+    "chainId": 2,
+    "evolvesFromId": 5,
+    "evolvesTo": []
+  },
+  "7": {
+    "id": 7,
+    "name": "Squirtle",
+    "chainId": 3,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      8
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Wartortle",
+    "chainId": 3,
+    "evolvesFromId": 7,
+    "evolvesTo": [
+      9
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Blastoise",
+    "chainId": 3,
+    "evolvesFromId": 8,
+    "evolvesTo": []
+  },
+  "10": {
+    "id": 10,
+    "name": "Caterpie",
+    "chainId": 4,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      11
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Metapod",
+    "chainId": 4,
+    "evolvesFromId": 10,
+    "evolvesTo": [
+      12
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Butterfree",
+    "chainId": 4,
+    "evolvesFromId": 11,
+    "evolvesTo": []
+  },
+  "13": {
+    "id": 13,
+    "name": "Weedle",
+    "chainId": 5,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      14
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Kakuna",
+    "chainId": 5,
+    "evolvesFromId": 13,
+    "evolvesTo": [
+      15
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Beedrill",
+    "chainId": 5,
+    "evolvesFromId": 14,
+    "evolvesTo": []
+  },
+  "16": {
+    "id": 16,
+    "name": "Pidgey",
+    "chainId": 6,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      17
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "Pidgeotto",
+    "chainId": 6,
+    "evolvesFromId": 16,
+    "evolvesTo": [
+      18
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "Pidgeot",
+    "chainId": 6,
+    "evolvesFromId": 17,
+    "evolvesTo": []
+  },
+  "19": {
+    "id": 19,
+    "name": "Rattata",
+    "chainId": 7,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      20
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "Raticate",
+    "chainId": 7,
+    "evolvesFromId": 19,
+    "evolvesTo": []
+  },
+  "21": {
+    "id": 21,
+    "name": "Spearow",
+    "chainId": 8,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      22
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "Fearow",
+    "chainId": 8,
+    "evolvesFromId": 21,
+    "evolvesTo": []
+  },
+  "23": {
+    "id": 23,
+    "name": "Ekans",
+    "chainId": 9,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      24
+    ]
+  },
+  "24": {
+    "id": 24,
+    "name": "Arbok",
+    "chainId": 9,
+    "evolvesFromId": 23,
+    "evolvesTo": []
+  },
+  "25": {
+    "id": 25,
+    "name": "Pikachu",
+    "chainId": 10,
+    "evolvesFromId": 172,
+    "evolvesTo": [
+      26
+    ]
+  },
+  "26": {
+    "id": 26,
+    "name": "Raichu",
+    "chainId": 10,
+    "evolvesFromId": 25,
+    "evolvesTo": []
+  },
+  "27": {
+    "id": 27,
+    "name": "Sandshrew",
+    "chainId": 11,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      28
+    ]
+  },
+  "28": {
+    "id": 28,
+    "name": "Sandslash",
+    "chainId": 11,
+    "evolvesFromId": 27,
+    "evolvesTo": []
+  },
+  "29": {
+    "id": 29,
+    "name": "Nidoran F",
+    "chainId": 12,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      30
+    ]
+  },
+  "30": {
+    "id": 30,
+    "name": "Nidorina",
+    "chainId": 12,
+    "evolvesFromId": 29,
+    "evolvesTo": [
+      31
+    ]
+  },
+  "31": {
+    "id": 31,
+    "name": "Nidoqueen",
+    "chainId": 12,
+    "evolvesFromId": 30,
+    "evolvesTo": []
+  },
+  "32": {
+    "id": 32,
+    "name": "Nidoran M",
+    "chainId": 13,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      33
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "Nidorino",
+    "chainId": 13,
+    "evolvesFromId": 32,
+    "evolvesTo": [
+      34
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "Nidoking",
+    "chainId": 13,
+    "evolvesFromId": 33,
+    "evolvesTo": []
+  },
+  "35": {
+    "id": 35,
+    "name": "Clefairy",
+    "chainId": 14,
+    "evolvesFromId": 173,
+    "evolvesTo": [
+      36
+    ]
+  },
+  "36": {
+    "id": 36,
+    "name": "Clefable",
+    "chainId": 14,
+    "evolvesFromId": 35,
+    "evolvesTo": []
+  },
+  "37": {
+    "id": 37,
+    "name": "Vulpix",
+    "chainId": 15,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      38
+    ]
+  },
+  "38": {
+    "id": 38,
+    "name": "Ninetales",
+    "chainId": 15,
+    "evolvesFromId": 37,
+    "evolvesTo": []
+  },
+  "39": {
+    "id": 39,
+    "name": "Jigglypuff",
+    "chainId": 16,
+    "evolvesFromId": 174,
+    "evolvesTo": [
+      40
+    ]
+  },
+  "40": {
+    "id": 40,
+    "name": "Wigglytuff",
+    "chainId": 16,
+    "evolvesFromId": 39,
+    "evolvesTo": []
+  },
+  "41": {
+    "id": 41,
+    "name": "Zubat",
+    "chainId": 17,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      42
+    ]
+  },
+  "42": {
+    "id": 42,
+    "name": "Golbat",
+    "chainId": 17,
+    "evolvesFromId": 41,
+    "evolvesTo": [
+      169
+    ]
+  },
+  "43": {
+    "id": 43,
+    "name": "Oddish",
+    "chainId": 18,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      44
+    ]
+  },
+  "44": {
+    "id": 44,
+    "name": "Gloom",
+    "chainId": 18,
+    "evolvesFromId": 43,
+    "evolvesTo": [
+      45,
+      182
+    ]
+  },
+  "45": {
+    "id": 45,
+    "name": "Vileplume",
+    "chainId": 18,
+    "evolvesFromId": 44,
+    "evolvesTo": []
+  },
+  "46": {
+    "id": 46,
+    "name": "Paras",
+    "chainId": 19,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      47
+    ]
+  },
+  "47": {
+    "id": 47,
+    "name": "Parasect",
+    "chainId": 19,
+    "evolvesFromId": 46,
+    "evolvesTo": []
+  },
+  "48": {
+    "id": 48,
+    "name": "Venonat",
+    "chainId": 20,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      49
+    ]
+  },
+  "49": {
+    "id": 49,
+    "name": "Venomoth",
+    "chainId": 20,
+    "evolvesFromId": 48,
+    "evolvesTo": []
+  },
+  "50": {
+    "id": 50,
+    "name": "Diglett",
+    "chainId": 21,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      51
+    ]
+  },
+  "51": {
+    "id": 51,
+    "name": "Dugtrio",
+    "chainId": 21,
+    "evolvesFromId": 50,
+    "evolvesTo": []
+  },
+  "52": {
+    "id": 52,
+    "name": "Meowth",
+    "chainId": 22,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      53
+    ]
+  },
+  "53": {
+    "id": 53,
+    "name": "Persian",
+    "chainId": 22,
+    "evolvesFromId": 52,
+    "evolvesTo": []
+  },
+  "54": {
+    "id": 54,
+    "name": "Psyduck",
+    "chainId": 23,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      55
+    ]
+  },
+  "55": {
+    "id": 55,
+    "name": "Golduck",
+    "chainId": 23,
+    "evolvesFromId": 54,
+    "evolvesTo": []
+  },
+  "56": {
+    "id": 56,
+    "name": "Mankey",
+    "chainId": 24,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      57
+    ]
+  },
+  "57": {
+    "id": 57,
+    "name": "Primeape",
+    "chainId": 24,
+    "evolvesFromId": 56,
+    "evolvesTo": []
+  },
+  "58": {
+    "id": 58,
+    "name": "Growlithe",
+    "chainId": 25,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      59
+    ]
+  },
+  "59": {
+    "id": 59,
+    "name": "Arcanine",
+    "chainId": 25,
+    "evolvesFromId": 58,
+    "evolvesTo": []
+  },
+  "60": {
+    "id": 60,
+    "name": "Poliwag",
+    "chainId": 26,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      61
+    ]
+  },
+  "61": {
+    "id": 61,
+    "name": "Poliwhirl",
+    "chainId": 26,
+    "evolvesFromId": 60,
+    "evolvesTo": [
+      62,
+      186
+    ]
+  },
+  "62": {
+    "id": 62,
+    "name": "Poliwrath",
+    "chainId": 26,
+    "evolvesFromId": 61,
+    "evolvesTo": []
+  },
+  "63": {
+    "id": 63,
+    "name": "Abra",
+    "chainId": 27,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      64
+    ]
+  },
+  "64": {
+    "id": 64,
+    "name": "Kadabra",
+    "chainId": 27,
+    "evolvesFromId": 63,
+    "evolvesTo": [
+      65
+    ]
+  },
+  "65": {
+    "id": 65,
+    "name": "Alakazam",
+    "chainId": 27,
+    "evolvesFromId": 64,
+    "evolvesTo": []
+  },
+  "66": {
+    "id": 66,
+    "name": "Machop",
+    "chainId": 28,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      67
+    ]
+  },
+  "67": {
+    "id": 67,
+    "name": "Machoke",
+    "chainId": 28,
+    "evolvesFromId": 66,
+    "evolvesTo": [
+      68
+    ]
+  },
+  "68": {
+    "id": 68,
+    "name": "Machamp",
+    "chainId": 28,
+    "evolvesFromId": 67,
+    "evolvesTo": []
+  },
+  "69": {
+    "id": 69,
+    "name": "Bellsprout",
+    "chainId": 29,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      70
+    ]
+  },
+  "70": {
+    "id": 70,
+    "name": "Weepinbell",
+    "chainId": 29,
+    "evolvesFromId": 69,
+    "evolvesTo": [
+      71
+    ]
+  },
+  "71": {
+    "id": 71,
+    "name": "Victreebel",
+    "chainId": 29,
+    "evolvesFromId": 70,
+    "evolvesTo": []
+  },
+  "72": {
+    "id": 72,
+    "name": "Tentacool",
+    "chainId": 30,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      73
+    ]
+  },
+  "73": {
+    "id": 73,
+    "name": "Tentacruel",
+    "chainId": 30,
+    "evolvesFromId": 72,
+    "evolvesTo": []
+  },
+  "74": {
+    "id": 74,
+    "name": "Geodude",
+    "chainId": 31,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      75
+    ]
+  },
+  "75": {
+    "id": 75,
+    "name": "Graveler",
+    "chainId": 31,
+    "evolvesFromId": 74,
+    "evolvesTo": [
+      76
+    ]
+  },
+  "76": {
+    "id": 76,
+    "name": "Golem",
+    "chainId": 31,
+    "evolvesFromId": 75,
+    "evolvesTo": []
+  },
+  "77": {
+    "id": 77,
+    "name": "Ponyta",
+    "chainId": 32,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      78
+    ]
+  },
+  "78": {
+    "id": 78,
+    "name": "Rapidash",
+    "chainId": 32,
+    "evolvesFromId": 77,
+    "evolvesTo": []
+  },
+  "79": {
+    "id": 79,
+    "name": "Slowpoke",
+    "chainId": 33,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      80,
+      199
+    ]
+  },
+  "80": {
+    "id": 80,
+    "name": "Slowbro",
+    "chainId": 33,
+    "evolvesFromId": 79,
+    "evolvesTo": []
+  },
+  "81": {
+    "id": 81,
+    "name": "Magnemite",
+    "chainId": 34,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      82
+    ]
+  },
+  "82": {
+    "id": 82,
+    "name": "Magneton",
+    "chainId": 34,
+    "evolvesFromId": 81,
+    "evolvesTo": [
+      462
+    ]
+  },
+  "83": {
+    "id": 83,
+    "name": "Farfetchd",
+    "chainId": 35,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "84": {
+    "id": 84,
+    "name": "Doduo",
+    "chainId": 36,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      85
+    ]
+  },
+  "85": {
+    "id": 85,
+    "name": "Dodrio",
+    "chainId": 36,
+    "evolvesFromId": 84,
+    "evolvesTo": []
+  },
+  "86": {
+    "id": 86,
+    "name": "Seel",
+    "chainId": 37,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      87
+    ]
+  },
+  "87": {
+    "id": 87,
+    "name": "Dewgong",
+    "chainId": 37,
+    "evolvesFromId": 86,
+    "evolvesTo": []
+  },
+  "88": {
+    "id": 88,
+    "name": "Grimer",
+    "chainId": 38,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      89
+    ]
+  },
+  "89": {
+    "id": 89,
+    "name": "Muk",
+    "chainId": 38,
+    "evolvesFromId": 88,
+    "evolvesTo": []
+  },
+  "90": {
+    "id": 90,
+    "name": "Shellder",
+    "chainId": 39,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      91
+    ]
+  },
+  "91": {
+    "id": 91,
+    "name": "Cloyster",
+    "chainId": 39,
+    "evolvesFromId": 90,
+    "evolvesTo": []
+  },
+  "92": {
+    "id": 92,
+    "name": "Gastly",
+    "chainId": 40,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      93
+    ]
+  },
+  "93": {
+    "id": 93,
+    "name": "Haunter",
+    "chainId": 40,
+    "evolvesFromId": 92,
+    "evolvesTo": [
+      94
+    ]
+  },
+  "94": {
+    "id": 94,
+    "name": "Gengar",
+    "chainId": 40,
+    "evolvesFromId": 93,
+    "evolvesTo": []
+  },
+  "95": {
+    "id": 95,
+    "name": "Onix",
+    "chainId": 41,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      208
+    ]
+  },
+  "96": {
+    "id": 96,
+    "name": "Drowzee",
+    "chainId": 42,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      97
+    ]
+  },
+  "97": {
+    "id": 97,
+    "name": "Hypno",
+    "chainId": 42,
+    "evolvesFromId": 96,
+    "evolvesTo": []
+  },
+  "98": {
+    "id": 98,
+    "name": "Krabby",
+    "chainId": 43,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      99
+    ]
+  },
+  "99": {
+    "id": 99,
+    "name": "Kingler",
+    "chainId": 43,
+    "evolvesFromId": 98,
+    "evolvesTo": []
+  },
+  "100": {
+    "id": 100,
+    "name": "Voltorb",
+    "chainId": 44,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      101
+    ]
+  },
+  "101": {
+    "id": 101,
+    "name": "Electrode",
+    "chainId": 44,
+    "evolvesFromId": 100,
+    "evolvesTo": []
+  },
+  "102": {
+    "id": 102,
+    "name": "Exeggcute",
+    "chainId": 45,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      103
+    ]
+  },
+  "103": {
+    "id": 103,
+    "name": "Exeggutor",
+    "chainId": 45,
+    "evolvesFromId": 102,
+    "evolvesTo": []
+  },
+  "104": {
+    "id": 104,
+    "name": "Cubone",
+    "chainId": 46,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      105
+    ]
+  },
+  "105": {
+    "id": 105,
+    "name": "Marowak",
+    "chainId": 46,
+    "evolvesFromId": 104,
+    "evolvesTo": []
+  },
+  "106": {
+    "id": 106,
+    "name": "Hitmonlee",
+    "chainId": 47,
+    "evolvesFromId": 236,
+    "evolvesTo": []
+  },
+  "107": {
+    "id": 107,
+    "name": "Hitmonchan",
+    "chainId": 47,
+    "evolvesFromId": 236,
+    "evolvesTo": []
+  },
+  "108": {
+    "id": 108,
+    "name": "Lickitung",
+    "chainId": 48,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      463
+    ]
+  },
+  "109": {
+    "id": 109,
+    "name": "Koffing",
+    "chainId": 49,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      110
+    ]
+  },
+  "110": {
+    "id": 110,
+    "name": "Weezing",
+    "chainId": 49,
+    "evolvesFromId": 109,
+    "evolvesTo": []
+  },
+  "111": {
+    "id": 111,
+    "name": "Rhyhorn",
+    "chainId": 50,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      112
+    ]
+  },
+  "112": {
+    "id": 112,
+    "name": "Rhydon",
+    "chainId": 50,
+    "evolvesFromId": 111,
+    "evolvesTo": [
+      464
+    ]
+  },
+  "113": {
+    "id": 113,
+    "name": "Chansey",
+    "chainId": 51,
+    "evolvesFromId": 440,
+    "evolvesTo": [
+      242
+    ]
+  },
+  "114": {
+    "id": 114,
+    "name": "Tangela",
+    "chainId": 52,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      465
+    ]
+  },
+  "115": {
+    "id": 115,
+    "name": "Kangaskhan",
+    "chainId": 53,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "116": {
+    "id": 116,
+    "name": "Horsea",
+    "chainId": 54,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      117
+    ]
+  },
+  "117": {
+    "id": 117,
+    "name": "Seadra",
+    "chainId": 54,
+    "evolvesFromId": 116,
+    "evolvesTo": [
+      230
+    ]
+  },
+  "118": {
+    "id": 118,
+    "name": "Goldeen",
+    "chainId": 55,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      119
+    ]
+  },
+  "119": {
+    "id": 119,
+    "name": "Seaking",
+    "chainId": 55,
+    "evolvesFromId": 118,
+    "evolvesTo": []
+  },
+  "120": {
+    "id": 120,
+    "name": "Staryu",
+    "chainId": 56,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      121
+    ]
+  },
+  "121": {
+    "id": 121,
+    "name": "Starmie",
+    "chainId": 56,
+    "evolvesFromId": 120,
+    "evolvesTo": []
+  },
+  "122": {
+    "id": 122,
+    "name": "Mr Mime",
+    "chainId": 57,
+    "evolvesFromId": 439,
+    "evolvesTo": []
+  },
+  "123": {
+    "id": 123,
+    "name": "Scyther",
+    "chainId": 58,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      212
+    ]
+  },
+  "124": {
+    "id": 124,
+    "name": "Jynx",
+    "chainId": 59,
+    "evolvesFromId": 238,
+    "evolvesTo": []
+  },
+  "125": {
+    "id": 125,
+    "name": "Electabuzz",
+    "chainId": 60,
+    "evolvesFromId": 239,
+    "evolvesTo": [
+      466
+    ]
+  },
+  "126": {
+    "id": 126,
+    "name": "Magmar",
+    "chainId": 61,
+    "evolvesFromId": 240,
+    "evolvesTo": [
+      467
+    ]
+  },
+  "127": {
+    "id": 127,
+    "name": "Pinsir",
+    "chainId": 62,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "128": {
+    "id": 128,
+    "name": "Tauros",
+    "chainId": 63,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "129": {
+    "id": 129,
+    "name": "Magikarp",
+    "chainId": 64,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      130
+    ]
+  },
+  "130": {
+    "id": 130,
+    "name": "Gyarados",
+    "chainId": 64,
+    "evolvesFromId": 129,
+    "evolvesTo": []
+  },
+  "131": {
+    "id": 131,
+    "name": "Lapras",
+    "chainId": 65,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "132": {
+    "id": 132,
+    "name": "Ditto",
+    "chainId": 66,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "133": {
+    "id": 133,
+    "name": "Eevee",
+    "chainId": 67,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      134,
+      135,
+      136,
+      196,
+      197,
+      470,
+      471
+    ]
+  },
+  "134": {
+    "id": 134,
+    "name": "Vaporeon",
+    "chainId": 67,
+    "evolvesFromId": 133,
+    "evolvesTo": []
+  },
+  "135": {
+    "id": 135,
+    "name": "Jolteon",
+    "chainId": 67,
+    "evolvesFromId": 133,
+    "evolvesTo": []
+  },
+  "136": {
+    "id": 136,
+    "name": "Flareon",
+    "chainId": 67,
+    "evolvesFromId": 133,
+    "evolvesTo": []
+  },
+  "137": {
+    "id": 137,
+    "name": "Porygon",
+    "chainId": 68,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      233
+    ]
+  },
+  "138": {
+    "id": 138,
+    "name": "Omanyte",
+    "chainId": 69,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      139
+    ]
+  },
+  "139": {
+    "id": 139,
+    "name": "Omastar",
+    "chainId": 69,
+    "evolvesFromId": 138,
+    "evolvesTo": []
+  },
+  "140": {
+    "id": 140,
+    "name": "Kabuto",
+    "chainId": 70,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      141
+    ]
+  },
+  "141": {
+    "id": 141,
+    "name": "Kabutops",
+    "chainId": 70,
+    "evolvesFromId": 140,
+    "evolvesTo": []
+  },
+  "142": {
+    "id": 142,
+    "name": "Aerodactyl",
+    "chainId": 71,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "143": {
+    "id": 143,
+    "name": "Snorlax",
+    "chainId": 72,
+    "evolvesFromId": 446,
+    "evolvesTo": []
+  },
+  "144": {
+    "id": 144,
+    "name": "Articuno",
+    "chainId": 73,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "145": {
+    "id": 145,
+    "name": "Zapdos",
+    "chainId": 74,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "146": {
+    "id": 146,
+    "name": "Moltres",
+    "chainId": 75,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "147": {
+    "id": 147,
+    "name": "Dratini",
+    "chainId": 76,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      148
+    ]
+  },
+  "148": {
+    "id": 148,
+    "name": "Dragonair",
+    "chainId": 76,
+    "evolvesFromId": 147,
+    "evolvesTo": [
+      149
+    ]
+  },
+  "149": {
+    "id": 149,
+    "name": "Dragonite",
+    "chainId": 76,
+    "evolvesFromId": 148,
+    "evolvesTo": []
+  },
+  "150": {
+    "id": 150,
+    "name": "Mewtwo",
+    "chainId": 77,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "151": {
+    "id": 151,
+    "name": "Mew",
+    "chainId": 78,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "152": {
+    "id": 152,
+    "name": "Chikorita",
+    "chainId": 79,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      153
+    ]
+  },
+  "153": {
+    "id": 153,
+    "name": "Bayleef",
+    "chainId": 79,
+    "evolvesFromId": 152,
+    "evolvesTo": [
+      154
+    ]
+  },
+  "154": {
+    "id": 154,
+    "name": "Meganium",
+    "chainId": 79,
+    "evolvesFromId": 153,
+    "evolvesTo": []
+  },
+  "155": {
+    "id": 155,
+    "name": "Cyndaquil",
+    "chainId": 80,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      156
+    ]
+  },
+  "156": {
+    "id": 156,
+    "name": "Quilava",
+    "chainId": 80,
+    "evolvesFromId": 155,
+    "evolvesTo": [
+      157
+    ]
+  },
+  "157": {
+    "id": 157,
+    "name": "Typhlosion",
+    "chainId": 80,
+    "evolvesFromId": 156,
+    "evolvesTo": []
+  },
+  "158": {
+    "id": 158,
+    "name": "Totodile",
+    "chainId": 81,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      159
+    ]
+  },
+  "159": {
+    "id": 159,
+    "name": "Croconaw",
+    "chainId": 81,
+    "evolvesFromId": 158,
+    "evolvesTo": [
+      160
+    ]
+  },
+  "160": {
+    "id": 160,
+    "name": "Feraligatr",
+    "chainId": 81,
+    "evolvesFromId": 159,
+    "evolvesTo": []
+  },
+  "161": {
+    "id": 161,
+    "name": "Sentret",
+    "chainId": 82,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      162
+    ]
+  },
+  "162": {
+    "id": 162,
+    "name": "Furret",
+    "chainId": 82,
+    "evolvesFromId": 161,
+    "evolvesTo": []
+  },
+  "163": {
+    "id": 163,
+    "name": "Hoothoot",
+    "chainId": 83,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      164
+    ]
+  },
+  "164": {
+    "id": 164,
+    "name": "Noctowl",
+    "chainId": 83,
+    "evolvesFromId": 163,
+    "evolvesTo": []
+  },
+  "165": {
+    "id": 165,
+    "name": "Ledyba",
+    "chainId": 84,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      166
+    ]
+  },
+  "166": {
+    "id": 166,
+    "name": "Ledian",
+    "chainId": 84,
+    "evolvesFromId": 165,
+    "evolvesTo": []
+  },
+  "167": {
+    "id": 167,
+    "name": "Spinarak",
+    "chainId": 85,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      168
+    ]
+  },
+  "168": {
+    "id": 168,
+    "name": "Ariados",
+    "chainId": 85,
+    "evolvesFromId": 167,
+    "evolvesTo": []
+  },
+  "169": {
+    "id": 169,
+    "name": "Crobat",
+    "chainId": 17,
+    "evolvesFromId": 42,
+    "evolvesTo": []
+  },
+  "170": {
+    "id": 170,
+    "name": "Chinchou",
+    "chainId": 86,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      171
+    ]
+  },
+  "171": {
+    "id": 171,
+    "name": "Lanturn",
+    "chainId": 86,
+    "evolvesFromId": 170,
+    "evolvesTo": []
+  },
+  "172": {
+    "id": 172,
+    "name": "Pichu",
+    "chainId": 10,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      25
+    ]
+  },
+  "173": {
+    "id": 173,
+    "name": "Cleffa",
+    "chainId": 14,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      35
+    ]
+  },
+  "174": {
+    "id": 174,
+    "name": "Igglybuff",
+    "chainId": 16,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      39
+    ]
+  },
+  "175": {
+    "id": 175,
+    "name": "Togepi",
+    "chainId": 87,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      176
+    ]
+  },
+  "176": {
+    "id": 176,
+    "name": "Togetic",
+    "chainId": 87,
+    "evolvesFromId": 175,
+    "evolvesTo": [
+      468
+    ]
+  },
+  "177": {
+    "id": 177,
+    "name": "Natu",
+    "chainId": 88,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      178
+    ]
+  },
+  "178": {
+    "id": 178,
+    "name": "Xatu",
+    "chainId": 88,
+    "evolvesFromId": 177,
+    "evolvesTo": []
+  },
+  "179": {
+    "id": 179,
+    "name": "Mareep",
+    "chainId": 89,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      180
+    ]
+  },
+  "180": {
+    "id": 180,
+    "name": "Flaaffy",
+    "chainId": 89,
+    "evolvesFromId": 179,
+    "evolvesTo": [
+      181
+    ]
+  },
+  "181": {
+    "id": 181,
+    "name": "Ampharos",
+    "chainId": 89,
+    "evolvesFromId": 180,
+    "evolvesTo": []
+  },
+  "182": {
+    "id": 182,
+    "name": "Bellossom",
+    "chainId": 18,
+    "evolvesFromId": 44,
+    "evolvesTo": []
+  },
+  "183": {
+    "id": 183,
+    "name": "Marill",
+    "chainId": 90,
+    "evolvesFromId": 298,
+    "evolvesTo": [
+      184
+    ]
+  },
+  "184": {
+    "id": 184,
+    "name": "Azumarill",
+    "chainId": 90,
+    "evolvesFromId": 183,
+    "evolvesTo": []
+  },
+  "185": {
+    "id": 185,
+    "name": "Sudowoodo",
+    "chainId": 91,
+    "evolvesFromId": 438,
+    "evolvesTo": []
+  },
+  "186": {
+    "id": 186,
+    "name": "Politoed",
+    "chainId": 26,
+    "evolvesFromId": 61,
+    "evolvesTo": []
+  },
+  "187": {
+    "id": 187,
+    "name": "Hoppip",
+    "chainId": 92,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      188
+    ]
+  },
+  "188": {
+    "id": 188,
+    "name": "Skiploom",
+    "chainId": 92,
+    "evolvesFromId": 187,
+    "evolvesTo": [
+      189
+    ]
+  },
+  "189": {
+    "id": 189,
+    "name": "Jumpluff",
+    "chainId": 92,
+    "evolvesFromId": 188,
+    "evolvesTo": []
+  },
+  "190": {
+    "id": 190,
+    "name": "Aipom",
+    "chainId": 93,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      424
+    ]
+  },
+  "191": {
+    "id": 191,
+    "name": "Sunkern",
+    "chainId": 94,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      192
+    ]
+  },
+  "192": {
+    "id": 192,
+    "name": "Sunflora",
+    "chainId": 94,
+    "evolvesFromId": 191,
+    "evolvesTo": []
+  },
+  "193": {
+    "id": 193,
+    "name": "Yanma",
+    "chainId": 95,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      469
+    ]
+  },
+  "194": {
+    "id": 194,
+    "name": "Wooper",
+    "chainId": 96,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      195
+    ]
+  },
+  "195": {
+    "id": 195,
+    "name": "Quagsire",
+    "chainId": 96,
+    "evolvesFromId": 194,
+    "evolvesTo": []
+  },
+  "196": {
+    "id": 196,
+    "name": "Espeon",
+    "chainId": 67,
+    "evolvesFromId": 133,
+    "evolvesTo": []
+  },
+  "197": {
+    "id": 197,
+    "name": "Umbreon",
+    "chainId": 67,
+    "evolvesFromId": 133,
+    "evolvesTo": []
+  },
+  "198": {
+    "id": 198,
+    "name": "Murkrow",
+    "chainId": 97,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      430
+    ]
+  },
+  "199": {
+    "id": 199,
+    "name": "Slowking",
+    "chainId": 33,
+    "evolvesFromId": 79,
+    "evolvesTo": []
+  },
+  "200": {
+    "id": 200,
+    "name": "Misdreavus",
+    "chainId": 98,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      429
+    ]
+  },
+  "201": {
+    "id": 201,
+    "name": "Unown",
+    "chainId": 99,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "202": {
+    "id": 202,
+    "name": "Wobbuffet",
+    "chainId": 100,
+    "evolvesFromId": 360,
+    "evolvesTo": []
+  },
+  "203": {
+    "id": 203,
+    "name": "Girafarig",
+    "chainId": 101,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "204": {
+    "id": 204,
+    "name": "Pineco",
+    "chainId": 102,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      205
+    ]
+  },
+  "205": {
+    "id": 205,
+    "name": "Forretress",
+    "chainId": 102,
+    "evolvesFromId": 204,
+    "evolvesTo": []
+  },
+  "206": {
+    "id": 206,
+    "name": "Dunsparce",
+    "chainId": 103,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "207": {
+    "id": 207,
+    "name": "Gligar",
+    "chainId": 104,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      472
+    ]
+  },
+  "208": {
+    "id": 208,
+    "name": "Steelix",
+    "chainId": 41,
+    "evolvesFromId": 95,
+    "evolvesTo": []
+  },
+  "209": {
+    "id": 209,
+    "name": "Snubbull",
+    "chainId": 105,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      210
+    ]
+  },
+  "210": {
+    "id": 210,
+    "name": "Granbull",
+    "chainId": 105,
+    "evolvesFromId": 209,
+    "evolvesTo": []
+  },
+  "211": {
+    "id": 211,
+    "name": "Qwilfish",
+    "chainId": 106,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "212": {
+    "id": 212,
+    "name": "Scizor",
+    "chainId": 58,
+    "evolvesFromId": 123,
+    "evolvesTo": []
+  },
+  "213": {
+    "id": 213,
+    "name": "Shuckle",
+    "chainId": 107,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "214": {
+    "id": 214,
+    "name": "Heracross",
+    "chainId": 108,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "215": {
+    "id": 215,
+    "name": "Sneasel",
+    "chainId": 109,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      461
+    ]
+  },
+  "216": {
+    "id": 216,
+    "name": "Teddiursa",
+    "chainId": 110,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      217
+    ]
+  },
+  "217": {
+    "id": 217,
+    "name": "Ursaring",
+    "chainId": 110,
+    "evolvesFromId": 216,
+    "evolvesTo": []
+  },
+  "218": {
+    "id": 218,
+    "name": "Slugma",
+    "chainId": 111,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      219
+    ]
+  },
+  "219": {
+    "id": 219,
+    "name": "Magcargo",
+    "chainId": 111,
+    "evolvesFromId": 218,
+    "evolvesTo": []
+  },
+  "220": {
+    "id": 220,
+    "name": "Swinub",
+    "chainId": 112,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      221
+    ]
+  },
+  "221": {
+    "id": 221,
+    "name": "Piloswine",
+    "chainId": 112,
+    "evolvesFromId": 220,
+    "evolvesTo": [
+      473
+    ]
+  },
+  "222": {
+    "id": 222,
+    "name": "Corsola",
+    "chainId": 113,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "223": {
+    "id": 223,
+    "name": "Remoraid",
+    "chainId": 114,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      224
+    ]
+  },
+  "224": {
+    "id": 224,
+    "name": "Octillery",
+    "chainId": 114,
+    "evolvesFromId": 223,
+    "evolvesTo": []
+  },
+  "225": {
+    "id": 225,
+    "name": "Delibird",
+    "chainId": 115,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "226": {
+    "id": 226,
+    "name": "Mantine",
+    "chainId": 116,
+    "evolvesFromId": 458,
+    "evolvesTo": []
+  },
+  "227": {
+    "id": 227,
+    "name": "Skarmory",
+    "chainId": 117,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "228": {
+    "id": 228,
+    "name": "Houndour",
+    "chainId": 118,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      229
+    ]
+  },
+  "229": {
+    "id": 229,
+    "name": "Houndoom",
+    "chainId": 118,
+    "evolvesFromId": 228,
+    "evolvesTo": []
+  },
+  "230": {
+    "id": 230,
+    "name": "Kingdra",
+    "chainId": 54,
+    "evolvesFromId": 117,
+    "evolvesTo": []
+  },
+  "231": {
+    "id": 231,
+    "name": "Phanpy",
+    "chainId": 119,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      232
+    ]
+  },
+  "232": {
+    "id": 232,
+    "name": "Donphan",
+    "chainId": 119,
+    "evolvesFromId": 231,
+    "evolvesTo": []
+  },
+  "233": {
+    "id": 233,
+    "name": "Porygon2",
+    "chainId": 68,
+    "evolvesFromId": 137,
+    "evolvesTo": [
+      474
+    ]
+  },
+  "234": {
+    "id": 234,
+    "name": "Stantler",
+    "chainId": 120,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "235": {
+    "id": 235,
+    "name": "Smeargle",
+    "chainId": 121,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "236": {
+    "id": 236,
+    "name": "Tyrogue",
+    "chainId": 47,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      106,
+      107,
+      237
+    ]
+  },
+  "237": {
+    "id": 237,
+    "name": "Hitmontop",
+    "chainId": 47,
+    "evolvesFromId": 236,
+    "evolvesTo": []
+  },
+  "238": {
+    "id": 238,
+    "name": "Smoochum",
+    "chainId": 59,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      124
+    ]
+  },
+  "239": {
+    "id": 239,
+    "name": "Elekid",
+    "chainId": 60,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      125
+    ]
+  },
+  "240": {
+    "id": 240,
+    "name": "Magby",
+    "chainId": 61,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      126
+    ]
+  },
+  "241": {
+    "id": 241,
+    "name": "Miltank",
+    "chainId": 122,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "242": {
+    "id": 242,
+    "name": "Blissey",
+    "chainId": 51,
+    "evolvesFromId": 113,
+    "evolvesTo": []
+  },
+  "243": {
+    "id": 243,
+    "name": "Raikou",
+    "chainId": 123,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "244": {
+    "id": 244,
+    "name": "Entei",
+    "chainId": 124,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "245": {
+    "id": 245,
+    "name": "Suicune",
+    "chainId": 125,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "246": {
+    "id": 246,
+    "name": "Larvitar",
+    "chainId": 126,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      247
+    ]
+  },
+  "247": {
+    "id": 247,
+    "name": "Pupitar",
+    "chainId": 126,
+    "evolvesFromId": 246,
+    "evolvesTo": [
+      248
+    ]
+  },
+  "248": {
+    "id": 248,
+    "name": "Tyranitar",
+    "chainId": 126,
+    "evolvesFromId": 247,
+    "evolvesTo": []
+  },
+  "249": {
+    "id": 249,
+    "name": "Lugia",
+    "chainId": 127,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "250": {
+    "id": 250,
+    "name": "Ho Oh",
+    "chainId": 128,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "251": {
+    "id": 251,
+    "name": "Celebi",
+    "chainId": 129,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "252": {
+    "id": 252,
+    "name": "Treecko",
+    "chainId": 130,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      253
+    ]
+  },
+  "253": {
+    "id": 253,
+    "name": "Grovyle",
+    "chainId": 130,
+    "evolvesFromId": 252,
+    "evolvesTo": [
+      254
+    ]
+  },
+  "254": {
+    "id": 254,
+    "name": "Sceptile",
+    "chainId": 130,
+    "evolvesFromId": 253,
+    "evolvesTo": []
+  },
+  "255": {
+    "id": 255,
+    "name": "Torchic",
+    "chainId": 131,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      256
+    ]
+  },
+  "256": {
+    "id": 256,
+    "name": "Combusken",
+    "chainId": 131,
+    "evolvesFromId": 255,
+    "evolvesTo": [
+      257
+    ]
+  },
+  "257": {
+    "id": 257,
+    "name": "Blaziken",
+    "chainId": 131,
+    "evolvesFromId": 256,
+    "evolvesTo": []
+  },
+  "258": {
+    "id": 258,
+    "name": "Mudkip",
+    "chainId": 132,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      259
+    ]
+  },
+  "259": {
+    "id": 259,
+    "name": "Marshtomp",
+    "chainId": 132,
+    "evolvesFromId": 258,
+    "evolvesTo": [
+      260
+    ]
+  },
+  "260": {
+    "id": 260,
+    "name": "Swampert",
+    "chainId": 132,
+    "evolvesFromId": 259,
+    "evolvesTo": []
+  },
+  "261": {
+    "id": 261,
+    "name": "Poochyena",
+    "chainId": 133,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      262
+    ]
+  },
+  "262": {
+    "id": 262,
+    "name": "Mightyena",
+    "chainId": 133,
+    "evolvesFromId": 261,
+    "evolvesTo": []
+  },
+  "263": {
+    "id": 263,
+    "name": "Zigzagoon",
+    "chainId": 134,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      264
+    ]
+  },
+  "264": {
+    "id": 264,
+    "name": "Linoone",
+    "chainId": 134,
+    "evolvesFromId": 263,
+    "evolvesTo": []
+  },
+  "265": {
+    "id": 265,
+    "name": "Wurmple",
+    "chainId": 135,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      266,
+      268
+    ]
+  },
+  "266": {
+    "id": 266,
+    "name": "Silcoon",
+    "chainId": 135,
+    "evolvesFromId": 265,
+    "evolvesTo": [
+      267
+    ]
+  },
+  "267": {
+    "id": 267,
+    "name": "Beautifly",
+    "chainId": 135,
+    "evolvesFromId": 266,
+    "evolvesTo": []
+  },
+  "268": {
+    "id": 268,
+    "name": "Cascoon",
+    "chainId": 135,
+    "evolvesFromId": 265,
+    "evolvesTo": [
+      269
+    ]
+  },
+  "269": {
+    "id": 269,
+    "name": "Dustox",
+    "chainId": 135,
+    "evolvesFromId": 268,
+    "evolvesTo": []
+  },
+  "270": {
+    "id": 270,
+    "name": "Lotad",
+    "chainId": 136,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      271
+    ]
+  },
+  "271": {
+    "id": 271,
+    "name": "Lombre",
+    "chainId": 136,
+    "evolvesFromId": 270,
+    "evolvesTo": [
+      272
+    ]
+  },
+  "272": {
+    "id": 272,
+    "name": "Ludicolo",
+    "chainId": 136,
+    "evolvesFromId": 271,
+    "evolvesTo": []
+  },
+  "273": {
+    "id": 273,
+    "name": "Seedot",
+    "chainId": 137,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      274
+    ]
+  },
+  "274": {
+    "id": 274,
+    "name": "Nuzleaf",
+    "chainId": 137,
+    "evolvesFromId": 273,
+    "evolvesTo": [
+      275
+    ]
+  },
+  "275": {
+    "id": 275,
+    "name": "Shiftry",
+    "chainId": 137,
+    "evolvesFromId": 274,
+    "evolvesTo": []
+  },
+  "276": {
+    "id": 276,
+    "name": "Taillow",
+    "chainId": 138,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      277
+    ]
+  },
+  "277": {
+    "id": 277,
+    "name": "Swellow",
+    "chainId": 138,
+    "evolvesFromId": 276,
+    "evolvesTo": []
+  },
+  "278": {
+    "id": 278,
+    "name": "Wingull",
+    "chainId": 139,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      279
+    ]
+  },
+  "279": {
+    "id": 279,
+    "name": "Pelipper",
+    "chainId": 139,
+    "evolvesFromId": 278,
+    "evolvesTo": []
+  },
+  "280": {
+    "id": 280,
+    "name": "Ralts",
+    "chainId": 140,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      281
+    ]
+  },
+  "281": {
+    "id": 281,
+    "name": "Kirlia",
+    "chainId": 140,
+    "evolvesFromId": 280,
+    "evolvesTo": [
+      282,
+      475
+    ]
+  },
+  "282": {
+    "id": 282,
+    "name": "Gardevoir",
+    "chainId": 140,
+    "evolvesFromId": 281,
+    "evolvesTo": []
+  },
+  "283": {
+    "id": 283,
+    "name": "Surskit",
+    "chainId": 141,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      284
+    ]
+  },
+  "284": {
+    "id": 284,
+    "name": "Masquerain",
+    "chainId": 141,
+    "evolvesFromId": 283,
+    "evolvesTo": []
+  },
+  "285": {
+    "id": 285,
+    "name": "Shroomish",
+    "chainId": 142,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      286
+    ]
+  },
+  "286": {
+    "id": 286,
+    "name": "Breloom",
+    "chainId": 142,
+    "evolvesFromId": 285,
+    "evolvesTo": []
+  },
+  "287": {
+    "id": 287,
+    "name": "Slakoth",
+    "chainId": 143,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      288
+    ]
+  },
+  "288": {
+    "id": 288,
+    "name": "Vigoroth",
+    "chainId": 143,
+    "evolvesFromId": 287,
+    "evolvesTo": [
+      289
+    ]
+  },
+  "289": {
+    "id": 289,
+    "name": "Slaking",
+    "chainId": 143,
+    "evolvesFromId": 288,
+    "evolvesTo": []
+  },
+  "290": {
+    "id": 290,
+    "name": "Nincada",
+    "chainId": 144,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      291,
+      292
+    ]
+  },
+  "291": {
+    "id": 291,
+    "name": "Ninjask",
+    "chainId": 144,
+    "evolvesFromId": 290,
+    "evolvesTo": []
+  },
+  "292": {
+    "id": 292,
+    "name": "Shedinja",
+    "chainId": 144,
+    "evolvesFromId": 290,
+    "evolvesTo": []
+  },
+  "293": {
+    "id": 293,
+    "name": "Whismur",
+    "chainId": 145,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      294
+    ]
+  },
+  "294": {
+    "id": 294,
+    "name": "Loudred",
+    "chainId": 145,
+    "evolvesFromId": 293,
+    "evolvesTo": [
+      295
+    ]
+  },
+  "295": {
+    "id": 295,
+    "name": "Exploud",
+    "chainId": 145,
+    "evolvesFromId": 294,
+    "evolvesTo": []
+  },
+  "296": {
+    "id": 296,
+    "name": "Makuhita",
+    "chainId": 146,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      297
+    ]
+  },
+  "297": {
+    "id": 297,
+    "name": "Hariyama",
+    "chainId": 146,
+    "evolvesFromId": 296,
+    "evolvesTo": []
+  },
+  "298": {
+    "id": 298,
+    "name": "Azurill",
+    "chainId": 90,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      183
+    ]
+  },
+  "299": {
+    "id": 299,
+    "name": "Nosepass",
+    "chainId": 147,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      476
+    ]
+  },
+  "300": {
+    "id": 300,
+    "name": "Skitty",
+    "chainId": 148,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      301
+    ]
+  },
+  "301": {
+    "id": 301,
+    "name": "Delcatty",
+    "chainId": 148,
+    "evolvesFromId": 300,
+    "evolvesTo": []
+  },
+  "302": {
+    "id": 302,
+    "name": "Sableye",
+    "chainId": 149,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "303": {
+    "id": 303,
+    "name": "Mawile",
+    "chainId": 150,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "304": {
+    "id": 304,
+    "name": "Aron",
+    "chainId": 151,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      305
+    ]
+  },
+  "305": {
+    "id": 305,
+    "name": "Lairon",
+    "chainId": 151,
+    "evolvesFromId": 304,
+    "evolvesTo": [
+      306
+    ]
+  },
+  "306": {
+    "id": 306,
+    "name": "Aggron",
+    "chainId": 151,
+    "evolvesFromId": 305,
+    "evolvesTo": []
+  },
+  "307": {
+    "id": 307,
+    "name": "Meditite",
+    "chainId": 152,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      308
+    ]
+  },
+  "308": {
+    "id": 308,
+    "name": "Medicham",
+    "chainId": 152,
+    "evolvesFromId": 307,
+    "evolvesTo": []
+  },
+  "309": {
+    "id": 309,
+    "name": "Electrike",
+    "chainId": 153,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      310
+    ]
+  },
+  "310": {
+    "id": 310,
+    "name": "Manectric",
+    "chainId": 153,
+    "evolvesFromId": 309,
+    "evolvesTo": []
+  },
+  "311": {
+    "id": 311,
+    "name": "Plusle",
+    "chainId": 154,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "312": {
+    "id": 312,
+    "name": "Minun",
+    "chainId": 155,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "313": {
+    "id": 313,
+    "name": "Volbeat",
+    "chainId": 156,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "314": {
+    "id": 314,
+    "name": "Illumise",
+    "chainId": 157,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "315": {
+    "id": 315,
+    "name": "Roselia",
+    "chainId": 158,
+    "evolvesFromId": 406,
+    "evolvesTo": [
+      407
+    ]
+  },
+  "316": {
+    "id": 316,
+    "name": "Gulpin",
+    "chainId": 159,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      317
+    ]
+  },
+  "317": {
+    "id": 317,
+    "name": "Swalot",
+    "chainId": 159,
+    "evolvesFromId": 316,
+    "evolvesTo": []
+  },
+  "318": {
+    "id": 318,
+    "name": "Carvanha",
+    "chainId": 160,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      319
+    ]
+  },
+  "319": {
+    "id": 319,
+    "name": "Sharpedo",
+    "chainId": 160,
+    "evolvesFromId": 318,
+    "evolvesTo": []
+  },
+  "320": {
+    "id": 320,
+    "name": "Wailmer",
+    "chainId": 161,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      321
+    ]
+  },
+  "321": {
+    "id": 321,
+    "name": "Wailord",
+    "chainId": 161,
+    "evolvesFromId": 320,
+    "evolvesTo": []
+  },
+  "322": {
+    "id": 322,
+    "name": "Numel",
+    "chainId": 162,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      323
+    ]
+  },
+  "323": {
+    "id": 323,
+    "name": "Camerupt",
+    "chainId": 162,
+    "evolvesFromId": 322,
+    "evolvesTo": []
+  },
+  "324": {
+    "id": 324,
+    "name": "Torkoal",
+    "chainId": 163,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "325": {
+    "id": 325,
+    "name": "Spoink",
+    "chainId": 164,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      326
+    ]
+  },
+  "326": {
+    "id": 326,
+    "name": "Grumpig",
+    "chainId": 164,
+    "evolvesFromId": 325,
+    "evolvesTo": []
+  },
+  "327": {
+    "id": 327,
+    "name": "Spinda",
+    "chainId": 165,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "328": {
+    "id": 328,
+    "name": "Trapinch",
+    "chainId": 166,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      329
+    ]
+  },
+  "329": {
+    "id": 329,
+    "name": "Vibrava",
+    "chainId": 166,
+    "evolvesFromId": 328,
+    "evolvesTo": [
+      330
+    ]
+  },
+  "330": {
+    "id": 330,
+    "name": "Flygon",
+    "chainId": 166,
+    "evolvesFromId": 329,
+    "evolvesTo": []
+  },
+  "331": {
+    "id": 331,
+    "name": "Cacnea",
+    "chainId": 167,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      332
+    ]
+  },
+  "332": {
+    "id": 332,
+    "name": "Cacturne",
+    "chainId": 167,
+    "evolvesFromId": 331,
+    "evolvesTo": []
+  },
+  "333": {
+    "id": 333,
+    "name": "Swablu",
+    "chainId": 168,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      334
+    ]
+  },
+  "334": {
+    "id": 334,
+    "name": "Altaria",
+    "chainId": 168,
+    "evolvesFromId": 333,
+    "evolvesTo": []
+  },
+  "335": {
+    "id": 335,
+    "name": "Zangoose",
+    "chainId": 169,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "336": {
+    "id": 336,
+    "name": "Seviper",
+    "chainId": 170,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "337": {
+    "id": 337,
+    "name": "Lunatone",
+    "chainId": 171,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "338": {
+    "id": 338,
+    "name": "Solrock",
+    "chainId": 172,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "339": {
+    "id": 339,
+    "name": "Barboach",
+    "chainId": 173,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      340
+    ]
+  },
+  "340": {
+    "id": 340,
+    "name": "Whiscash",
+    "chainId": 173,
+    "evolvesFromId": 339,
+    "evolvesTo": []
+  },
+  "341": {
+    "id": 341,
+    "name": "Corphish",
+    "chainId": 174,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      342
+    ]
+  },
+  "342": {
+    "id": 342,
+    "name": "Crawdaunt",
+    "chainId": 174,
+    "evolvesFromId": 341,
+    "evolvesTo": []
+  },
+  "343": {
+    "id": 343,
+    "name": "Baltoy",
+    "chainId": 175,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      344
+    ]
+  },
+  "344": {
+    "id": 344,
+    "name": "Claydol",
+    "chainId": 175,
+    "evolvesFromId": 343,
+    "evolvesTo": []
+  },
+  "345": {
+    "id": 345,
+    "name": "Lileep",
+    "chainId": 176,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      346
+    ]
+  },
+  "346": {
+    "id": 346,
+    "name": "Cradily",
+    "chainId": 176,
+    "evolvesFromId": 345,
+    "evolvesTo": []
+  },
+  "347": {
+    "id": 347,
+    "name": "Anorith",
+    "chainId": 177,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      348
+    ]
+  },
+  "348": {
+    "id": 348,
+    "name": "Armaldo",
+    "chainId": 177,
+    "evolvesFromId": 347,
+    "evolvesTo": []
+  },
+  "349": {
+    "id": 349,
+    "name": "Feebas",
+    "chainId": 178,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      350
+    ]
+  },
+  "350": {
+    "id": 350,
+    "name": "Milotic",
+    "chainId": 178,
+    "evolvesFromId": 349,
+    "evolvesTo": []
+  },
+  "351": {
+    "id": 351,
+    "name": "Castform",
+    "chainId": 179,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "352": {
+    "id": 352,
+    "name": "Kecleon",
+    "chainId": 180,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "353": {
+    "id": 353,
+    "name": "Shuppet",
+    "chainId": 181,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      354
+    ]
+  },
+  "354": {
+    "id": 354,
+    "name": "Banette",
+    "chainId": 181,
+    "evolvesFromId": 353,
+    "evolvesTo": []
+  },
+  "355": {
+    "id": 355,
+    "name": "Duskull",
+    "chainId": 182,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      356
+    ]
+  },
+  "356": {
+    "id": 356,
+    "name": "Dusclops",
+    "chainId": 182,
+    "evolvesFromId": 355,
+    "evolvesTo": [
+      477
+    ]
+  },
+  "357": {
+    "id": 357,
+    "name": "Tropius",
+    "chainId": 183,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "358": {
+    "id": 358,
+    "name": "Chimecho",
+    "chainId": 184,
+    "evolvesFromId": 433,
+    "evolvesTo": []
+  },
+  "359": {
+    "id": 359,
+    "name": "Absol",
+    "chainId": 185,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "360": {
+    "id": 360,
+    "name": "Wynaut",
+    "chainId": 100,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      202
+    ]
+  },
+  "361": {
+    "id": 361,
+    "name": "Snorunt",
+    "chainId": 186,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      362,
+      478
+    ]
+  },
+  "362": {
+    "id": 362,
+    "name": "Glalie",
+    "chainId": 186,
+    "evolvesFromId": 361,
+    "evolvesTo": []
+  },
+  "363": {
+    "id": 363,
+    "name": "Spheal",
+    "chainId": 187,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      364
+    ]
+  },
+  "364": {
+    "id": 364,
+    "name": "Sealeo",
+    "chainId": 187,
+    "evolvesFromId": 363,
+    "evolvesTo": [
+      365
+    ]
+  },
+  "365": {
+    "id": 365,
+    "name": "Walrein",
+    "chainId": 187,
+    "evolvesFromId": 364,
+    "evolvesTo": []
+  },
+  "366": {
+    "id": 366,
+    "name": "Clamperl",
+    "chainId": 188,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      367,
+      368
+    ]
+  },
+  "367": {
+    "id": 367,
+    "name": "Huntail",
+    "chainId": 188,
+    "evolvesFromId": 366,
+    "evolvesTo": []
+  },
+  "368": {
+    "id": 368,
+    "name": "Gorebyss",
+    "chainId": 188,
+    "evolvesFromId": 366,
+    "evolvesTo": []
+  },
+  "369": {
+    "id": 369,
+    "name": "Relicanth",
+    "chainId": 189,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "370": {
+    "id": 370,
+    "name": "Luvdisc",
+    "chainId": 190,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "371": {
+    "id": 371,
+    "name": "Bagon",
+    "chainId": 191,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      372
+    ]
+  },
+  "372": {
+    "id": 372,
+    "name": "Shelgon",
+    "chainId": 191,
+    "evolvesFromId": 371,
+    "evolvesTo": [
+      373
+    ]
+  },
+  "373": {
+    "id": 373,
+    "name": "Salamence",
+    "chainId": 191,
+    "evolvesFromId": 372,
+    "evolvesTo": []
+  },
+  "374": {
+    "id": 374,
+    "name": "Beldum",
+    "chainId": 192,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      375
+    ]
+  },
+  "375": {
+    "id": 375,
+    "name": "Metang",
+    "chainId": 192,
+    "evolvesFromId": 374,
+    "evolvesTo": [
+      376
+    ]
+  },
+  "376": {
+    "id": 376,
+    "name": "Metagross",
+    "chainId": 192,
+    "evolvesFromId": 375,
+    "evolvesTo": []
+  },
+  "377": {
+    "id": 377,
+    "name": "Regirock",
+    "chainId": 193,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "378": {
+    "id": 378,
+    "name": "Regice",
+    "chainId": 194,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "379": {
+    "id": 379,
+    "name": "Registeel",
+    "chainId": 195,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "380": {
+    "id": 380,
+    "name": "Latias",
+    "chainId": 196,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "381": {
+    "id": 381,
+    "name": "Latios",
+    "chainId": 197,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "382": {
+    "id": 382,
+    "name": "Kyogre",
+    "chainId": 198,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "383": {
+    "id": 383,
+    "name": "Groudon",
+    "chainId": 199,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "384": {
+    "id": 384,
+    "name": "Rayquaza",
+    "chainId": 200,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "385": {
+    "id": 385,
+    "name": "Jirachi",
+    "chainId": 201,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "386": {
+    "id": 386,
+    "name": "Deoxys",
+    "chainId": 202,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "387": {
+    "id": 387,
+    "name": "Turtwig",
+    "chainId": 203,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      388
+    ]
+  },
+  "388": {
+    "id": 388,
+    "name": "Grotle",
+    "chainId": 203,
+    "evolvesFromId": 387,
+    "evolvesTo": [
+      389
+    ]
+  },
+  "389": {
+    "id": 389,
+    "name": "Torterra",
+    "chainId": 203,
+    "evolvesFromId": 388,
+    "evolvesTo": []
+  },
+  "390": {
+    "id": 390,
+    "name": "Chimchar",
+    "chainId": 204,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      391
+    ]
+  },
+  "391": {
+    "id": 391,
+    "name": "Monferno",
+    "chainId": 204,
+    "evolvesFromId": 390,
+    "evolvesTo": [
+      392
+    ]
+  },
+  "392": {
+    "id": 392,
+    "name": "Infernape",
+    "chainId": 204,
+    "evolvesFromId": 391,
+    "evolvesTo": []
+  },
+  "393": {
+    "id": 393,
+    "name": "Piplup",
+    "chainId": 205,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      394
+    ]
+  },
+  "394": {
+    "id": 394,
+    "name": "Prinplup",
+    "chainId": 205,
+    "evolvesFromId": 393,
+    "evolvesTo": [
+      395
+    ]
+  },
+  "395": {
+    "id": 395,
+    "name": "Empoleon",
+    "chainId": 205,
+    "evolvesFromId": 394,
+    "evolvesTo": []
+  },
+  "396": {
+    "id": 396,
+    "name": "Starly",
+    "chainId": 206,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      397
+    ]
+  },
+  "397": {
+    "id": 397,
+    "name": "Staravia",
+    "chainId": 206,
+    "evolvesFromId": 396,
+    "evolvesTo": [
+      398
+    ]
+  },
+  "398": {
+    "id": 398,
+    "name": "Staraptor",
+    "chainId": 206,
+    "evolvesFromId": 397,
+    "evolvesTo": []
+  },
+  "399": {
+    "id": 399,
+    "name": "Bidoof",
+    "chainId": 207,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      400
+    ]
+  },
+  "400": {
+    "id": 400,
+    "name": "Bibarel",
+    "chainId": 207,
+    "evolvesFromId": 399,
+    "evolvesTo": []
+  },
+  "401": {
+    "id": 401,
+    "name": "Kricketot",
+    "chainId": 208,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      402
+    ]
+  },
+  "402": {
+    "id": 402,
+    "name": "Kricketune",
+    "chainId": 208,
+    "evolvesFromId": 401,
+    "evolvesTo": []
+  },
+  "403": {
+    "id": 403,
+    "name": "Shinx",
+    "chainId": 209,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      404
+    ]
+  },
+  "404": {
+    "id": 404,
+    "name": "Luxio",
+    "chainId": 209,
+    "evolvesFromId": 403,
+    "evolvesTo": [
+      405
+    ]
+  },
+  "405": {
+    "id": 405,
+    "name": "Luxray",
+    "chainId": 209,
+    "evolvesFromId": 404,
+    "evolvesTo": []
+  },
+  "406": {
+    "id": 406,
+    "name": "Budew",
+    "chainId": 158,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      315
+    ]
+  },
+  "407": {
+    "id": 407,
+    "name": "Roserade",
+    "chainId": 158,
+    "evolvesFromId": 315,
+    "evolvesTo": []
+  },
+  "408": {
+    "id": 408,
+    "name": "Cranidos",
+    "chainId": 211,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      409
+    ]
+  },
+  "409": {
+    "id": 409,
+    "name": "Rampardos",
+    "chainId": 211,
+    "evolvesFromId": 408,
+    "evolvesTo": []
+  },
+  "410": {
+    "id": 410,
+    "name": "Shieldon",
+    "chainId": 212,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      411
+    ]
+  },
+  "411": {
+    "id": 411,
+    "name": "Bastiodon",
+    "chainId": 212,
+    "evolvesFromId": 410,
+    "evolvesTo": []
+  },
+  "412": {
+    "id": 412,
+    "name": "Burmy",
+    "chainId": 213,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      413,
+      414
+    ]
+  },
+  "413": {
+    "id": 413,
+    "name": "Wormadam",
+    "chainId": 213,
+    "evolvesFromId": 412,
+    "evolvesTo": []
+  },
+  "414": {
+    "id": 414,
+    "name": "Mothim",
+    "chainId": 213,
+    "evolvesFromId": 412,
+    "evolvesTo": []
+  },
+  "415": {
+    "id": 415,
+    "name": "Combee",
+    "chainId": 214,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      416
+    ]
+  },
+  "416": {
+    "id": 416,
+    "name": "Vespiquen",
+    "chainId": 214,
+    "evolvesFromId": 415,
+    "evolvesTo": []
+  },
+  "417": {
+    "id": 417,
+    "name": "Pachirisu",
+    "chainId": 215,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "418": {
+    "id": 418,
+    "name": "Buizel",
+    "chainId": 216,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      419
+    ]
+  },
+  "419": {
+    "id": 419,
+    "name": "Floatzel",
+    "chainId": 216,
+    "evolvesFromId": 418,
+    "evolvesTo": []
+  },
+  "420": {
+    "id": 420,
+    "name": "Cherubi",
+    "chainId": 217,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      421
+    ]
+  },
+  "421": {
+    "id": 421,
+    "name": "Cherrim",
+    "chainId": 217,
+    "evolvesFromId": 420,
+    "evolvesTo": []
+  },
+  "422": {
+    "id": 422,
+    "name": "Shellos",
+    "chainId": 218,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      423
+    ]
+  },
+  "423": {
+    "id": 423,
+    "name": "Gastrodon",
+    "chainId": 218,
+    "evolvesFromId": 422,
+    "evolvesTo": []
+  },
+  "424": {
+    "id": 424,
+    "name": "Ambipom",
+    "chainId": 93,
+    "evolvesFromId": 190,
+    "evolvesTo": []
+  },
+  "425": {
+    "id": 425,
+    "name": "Drifloon",
+    "chainId": 219,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      426
+    ]
+  },
+  "426": {
+    "id": 426,
+    "name": "Drifblim",
+    "chainId": 219,
+    "evolvesFromId": 425,
+    "evolvesTo": []
+  },
+  "427": {
+    "id": 427,
+    "name": "Buneary",
+    "chainId": 220,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      428
+    ]
+  },
+  "428": {
+    "id": 428,
+    "name": "Lopunny",
+    "chainId": 220,
+    "evolvesFromId": 427,
+    "evolvesTo": []
+  },
+  "429": {
+    "id": 429,
+    "name": "Mismagius",
+    "chainId": 98,
+    "evolvesFromId": 200,
+    "evolvesTo": []
+  },
+  "430": {
+    "id": 430,
+    "name": "Honchkrow",
+    "chainId": 97,
+    "evolvesFromId": 198,
+    "evolvesTo": []
+  },
+  "431": {
+    "id": 431,
+    "name": "Glameow",
+    "chainId": 221,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      432
+    ]
+  },
+  "432": {
+    "id": 432,
+    "name": "Purugly",
+    "chainId": 221,
+    "evolvesFromId": 431,
+    "evolvesTo": []
+  },
+  "433": {
+    "id": 433,
+    "name": "Chingling",
+    "chainId": 184,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      358
+    ]
+  },
+  "434": {
+    "id": 434,
+    "name": "Stunky",
+    "chainId": 223,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      435
+    ]
+  },
+  "435": {
+    "id": 435,
+    "name": "Skuntank",
+    "chainId": 223,
+    "evolvesFromId": 434,
+    "evolvesTo": []
+  },
+  "436": {
+    "id": 436,
+    "name": "Bronzor",
+    "chainId": 224,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      437
+    ]
+  },
+  "437": {
+    "id": 437,
+    "name": "Bronzong",
+    "chainId": 224,
+    "evolvesFromId": 436,
+    "evolvesTo": []
+  },
+  "438": {
+    "id": 438,
+    "name": "Bonsly",
+    "chainId": 91,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      185
+    ]
+  },
+  "439": {
+    "id": 439,
+    "name": "Mime Jr",
+    "chainId": 57,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      122
+    ]
+  },
+  "440": {
+    "id": 440,
+    "name": "Happiny",
+    "chainId": 51,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      113
+    ]
+  },
+  "441": {
+    "id": 441,
+    "name": "Chatot",
+    "chainId": 228,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "442": {
+    "id": 442,
+    "name": "Spiritomb",
+    "chainId": 229,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "443": {
+    "id": 443,
+    "name": "Gible",
+    "chainId": 230,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      444
+    ]
+  },
+  "444": {
+    "id": 444,
+    "name": "Gabite",
+    "chainId": 230,
+    "evolvesFromId": 443,
+    "evolvesTo": [
+      445
+    ]
+  },
+  "445": {
+    "id": 445,
+    "name": "Garchomp",
+    "chainId": 230,
+    "evolvesFromId": 444,
+    "evolvesTo": []
+  },
+  "446": {
+    "id": 446,
+    "name": "Munchlax",
+    "chainId": 72,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      143
+    ]
+  },
+  "447": {
+    "id": 447,
+    "name": "Riolu",
+    "chainId": 232,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      448
+    ]
+  },
+  "448": {
+    "id": 448,
+    "name": "Lucario",
+    "chainId": 232,
+    "evolvesFromId": 447,
+    "evolvesTo": []
+  },
+  "449": {
+    "id": 449,
+    "name": "Hippopotas",
+    "chainId": 233,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      450
+    ]
+  },
+  "450": {
+    "id": 450,
+    "name": "Hippowdon",
+    "chainId": 233,
+    "evolvesFromId": 449,
+    "evolvesTo": []
+  },
+  "451": {
+    "id": 451,
+    "name": "Skorupi",
+    "chainId": 234,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      452
+    ]
+  },
+  "452": {
+    "id": 452,
+    "name": "Drapion",
+    "chainId": 234,
+    "evolvesFromId": 451,
+    "evolvesTo": []
+  },
+  "453": {
+    "id": 453,
+    "name": "Croagunk",
+    "chainId": 235,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      454
+    ]
+  },
+  "454": {
+    "id": 454,
+    "name": "Toxicroak",
+    "chainId": 235,
+    "evolvesFromId": 453,
+    "evolvesTo": []
+  },
+  "455": {
+    "id": 455,
+    "name": "Carnivine",
+    "chainId": 236,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "456": {
+    "id": 456,
+    "name": "Finneon",
+    "chainId": 237,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      457
+    ]
+  },
+  "457": {
+    "id": 457,
+    "name": "Lumineon",
+    "chainId": 237,
+    "evolvesFromId": 456,
+    "evolvesTo": []
+  },
+  "458": {
+    "id": 458,
+    "name": "Mantyke",
+    "chainId": 116,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      226
+    ]
+  },
+  "459": {
+    "id": 459,
+    "name": "Snover",
+    "chainId": 239,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      460
+    ]
+  },
+  "460": {
+    "id": 460,
+    "name": "Abomasnow",
+    "chainId": 239,
+    "evolvesFromId": 459,
+    "evolvesTo": []
+  },
+  "461": {
+    "id": 461,
+    "name": "Weavile",
+    "chainId": 109,
+    "evolvesFromId": 215,
+    "evolvesTo": []
+  },
+  "462": {
+    "id": 462,
+    "name": "Magnezone",
+    "chainId": 34,
+    "evolvesFromId": 82,
+    "evolvesTo": []
+  },
+  "463": {
+    "id": 463,
+    "name": "Lickilicky",
+    "chainId": 48,
+    "evolvesFromId": 108,
+    "evolvesTo": []
+  },
+  "464": {
+    "id": 464,
+    "name": "Rhyperior",
+    "chainId": 50,
+    "evolvesFromId": 112,
+    "evolvesTo": []
+  },
+  "465": {
+    "id": 465,
+    "name": "Tangrowth",
+    "chainId": 52,
+    "evolvesFromId": 114,
+    "evolvesTo": []
+  },
+  "466": {
+    "id": 466,
+    "name": "Electivire",
+    "chainId": 60,
+    "evolvesFromId": 125,
+    "evolvesTo": []
+  },
+  "467": {
+    "id": 467,
+    "name": "Magmortar",
+    "chainId": 61,
+    "evolvesFromId": 126,
+    "evolvesTo": []
+  },
+  "468": {
+    "id": 468,
+    "name": "Togekiss",
+    "chainId": 87,
+    "evolvesFromId": 176,
+    "evolvesTo": []
+  },
+  "469": {
+    "id": 469,
+    "name": "Yanmega",
+    "chainId": 95,
+    "evolvesFromId": 193,
+    "evolvesTo": []
+  },
+  "470": {
+    "id": 470,
+    "name": "Leafeon",
+    "chainId": 67,
+    "evolvesFromId": 133,
+    "evolvesTo": []
+  },
+  "471": {
+    "id": 471,
+    "name": "Glaceon",
+    "chainId": 67,
+    "evolvesFromId": 133,
+    "evolvesTo": []
+  },
+  "472": {
+    "id": 472,
+    "name": "Gliscor",
+    "chainId": 104,
+    "evolvesFromId": 207,
+    "evolvesTo": []
+  },
+  "473": {
+    "id": 473,
+    "name": "Mamoswine",
+    "chainId": 112,
+    "evolvesFromId": 221,
+    "evolvesTo": []
+  },
+  "474": {
+    "id": 474,
+    "name": "Porygon Z",
+    "chainId": 68,
+    "evolvesFromId": 233,
+    "evolvesTo": []
+  },
+  "475": {
+    "id": 475,
+    "name": "Gallade",
+    "chainId": 140,
+    "evolvesFromId": 281,
+    "evolvesTo": []
+  },
+  "476": {
+    "id": 476,
+    "name": "Probopass",
+    "chainId": 147,
+    "evolvesFromId": 299,
+    "evolvesTo": []
+  },
+  "477": {
+    "id": 477,
+    "name": "Dusknoir",
+    "chainId": 182,
+    "evolvesFromId": 356,
+    "evolvesTo": []
+  },
+  "478": {
+    "id": 478,
+    "name": "Froslass",
+    "chainId": 186,
+    "evolvesFromId": 361,
+    "evolvesTo": []
+  },
+  "479": {
+    "id": 479,
+    "name": "Rotom",
+    "chainId": 240,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "480": {
+    "id": 480,
+    "name": "Uxie",
+    "chainId": 241,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "481": {
+    "id": 481,
+    "name": "Mesprit",
+    "chainId": 242,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "482": {
+    "id": 482,
+    "name": "Azelf",
+    "chainId": 243,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "483": {
+    "id": 483,
+    "name": "Dialga",
+    "chainId": 244,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "484": {
+    "id": 484,
+    "name": "Palkia",
+    "chainId": 245,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "485": {
+    "id": 485,
+    "name": "Heatran",
+    "chainId": 246,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "486": {
+    "id": 486,
+    "name": "Regigigas",
+    "chainId": 247,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "487": {
+    "id": 487,
+    "name": "Giratina",
+    "chainId": 248,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "488": {
+    "id": 488,
+    "name": "Cresselia",
+    "chainId": 249,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "489": {
+    "id": 489,
+    "name": "Phione",
+    "chainId": 250,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "490": {
+    "id": 490,
+    "name": "Manaphy",
+    "chainId": 250,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "491": {
+    "id": 491,
+    "name": "Darkrai",
+    "chainId": 252,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "492": {
+    "id": 492,
+    "name": "Shaymin",
+    "chainId": 253,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "493": {
+    "id": 493,
+    "name": "Arceus",
+    "chainId": 254,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "494": {
+    "id": 494,
+    "name": "Victini",
+    "chainId": 255,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "495": {
+    "id": 495,
+    "name": "Snivy",
+    "chainId": 256,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      496
+    ]
+  },
+  "496": {
+    "id": 496,
+    "name": "Servine",
+    "chainId": 256,
+    "evolvesFromId": 495,
+    "evolvesTo": [
+      497
+    ]
+  },
+  "497": {
+    "id": 497,
+    "name": "Serperior",
+    "chainId": 256,
+    "evolvesFromId": 496,
+    "evolvesTo": []
+  },
+  "498": {
+    "id": 498,
+    "name": "Tepig",
+    "chainId": 257,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      499
+    ]
+  },
+  "499": {
+    "id": 499,
+    "name": "Pignite",
+    "chainId": 257,
+    "evolvesFromId": 498,
+    "evolvesTo": [
+      500
+    ]
+  },
+  "500": {
+    "id": 500,
+    "name": "Emboar",
+    "chainId": 257,
+    "evolvesFromId": 499,
+    "evolvesTo": []
+  },
+  "501": {
+    "id": 501,
+    "name": "Oshawott",
+    "chainId": 258,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      502
+    ]
+  },
+  "502": {
+    "id": 502,
+    "name": "Dewott",
+    "chainId": 258,
+    "evolvesFromId": 501,
+    "evolvesTo": [
+      503
+    ]
+  },
+  "503": {
+    "id": 503,
+    "name": "Samurott",
+    "chainId": 258,
+    "evolvesFromId": 502,
+    "evolvesTo": []
+  },
+  "504": {
+    "id": 504,
+    "name": "Patrat",
+    "chainId": 259,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      505
+    ]
+  },
+  "505": {
+    "id": 505,
+    "name": "Watchog",
+    "chainId": 259,
+    "evolvesFromId": 504,
+    "evolvesTo": []
+  },
+  "506": {
+    "id": 506,
+    "name": "Lillipup",
+    "chainId": 260,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      507
+    ]
+  },
+  "507": {
+    "id": 507,
+    "name": "Herdier",
+    "chainId": 260,
+    "evolvesFromId": 506,
+    "evolvesTo": [
+      508
+    ]
+  },
+  "508": {
+    "id": 508,
+    "name": "Stoutland",
+    "chainId": 260,
+    "evolvesFromId": 507,
+    "evolvesTo": []
+  },
+  "509": {
+    "id": 509,
+    "name": "Purrloin",
+    "chainId": 261,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      510
+    ]
+  },
+  "510": {
+    "id": 510,
+    "name": "Liepard",
+    "chainId": 261,
+    "evolvesFromId": 509,
+    "evolvesTo": []
+  },
+  "511": {
+    "id": 511,
+    "name": "Pansage",
+    "chainId": 262,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      512
+    ]
+  },
+  "512": {
+    "id": 512,
+    "name": "Simisage",
+    "chainId": 262,
+    "evolvesFromId": 511,
+    "evolvesTo": []
+  },
+  "513": {
+    "id": 513,
+    "name": "Pansear",
+    "chainId": 263,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      514
+    ]
+  },
+  "514": {
+    "id": 514,
+    "name": "Simisear",
+    "chainId": 263,
+    "evolvesFromId": 513,
+    "evolvesTo": []
+  },
+  "515": {
+    "id": 515,
+    "name": "Panpour",
+    "chainId": 264,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      516
+    ]
+  },
+  "516": {
+    "id": 516,
+    "name": "Simipour",
+    "chainId": 264,
+    "evolvesFromId": 515,
+    "evolvesTo": []
+  },
+  "517": {
+    "id": 517,
+    "name": "Munna",
+    "chainId": 265,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      518
+    ]
+  },
+  "518": {
+    "id": 518,
+    "name": "Musharna",
+    "chainId": 265,
+    "evolvesFromId": 517,
+    "evolvesTo": []
+  },
+  "519": {
+    "id": 519,
+    "name": "Pidove",
+    "chainId": 266,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      520
+    ]
+  },
+  "520": {
+    "id": 520,
+    "name": "Tranquill",
+    "chainId": 266,
+    "evolvesFromId": 519,
+    "evolvesTo": [
+      521
+    ]
+  },
+  "521": {
+    "id": 521,
+    "name": "Unfezant",
+    "chainId": 266,
+    "evolvesFromId": 520,
+    "evolvesTo": []
+  },
+  "522": {
+    "id": 522,
+    "name": "Blitzle",
+    "chainId": 267,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      523
+    ]
+  },
+  "523": {
+    "id": 523,
+    "name": "Zebstrika",
+    "chainId": 267,
+    "evolvesFromId": 522,
+    "evolvesTo": []
+  },
+  "524": {
+    "id": 524,
+    "name": "Roggenrola",
+    "chainId": 268,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      525
+    ]
+  },
+  "525": {
+    "id": 525,
+    "name": "Boldore",
+    "chainId": 268,
+    "evolvesFromId": 524,
+    "evolvesTo": [
+      526
+    ]
+  },
+  "526": {
+    "id": 526,
+    "name": "Gigalith",
+    "chainId": 268,
+    "evolvesFromId": 525,
+    "evolvesTo": []
+  },
+  "527": {
+    "id": 527,
+    "name": "Woobat",
+    "chainId": 269,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      528
+    ]
+  },
+  "528": {
+    "id": 528,
+    "name": "Swoobat",
+    "chainId": 269,
+    "evolvesFromId": 527,
+    "evolvesTo": []
+  },
+  "529": {
+    "id": 529,
+    "name": "Drilbur",
+    "chainId": 270,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      530
+    ]
+  },
+  "530": {
+    "id": 530,
+    "name": "Excadrill",
+    "chainId": 270,
+    "evolvesFromId": 529,
+    "evolvesTo": []
+  },
+  "531": {
+    "id": 531,
+    "name": "Audino",
+    "chainId": 271,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "532": {
+    "id": 532,
+    "name": "Timburr",
+    "chainId": 272,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      533
+    ]
+  },
+  "533": {
+    "id": 533,
+    "name": "Gurdurr",
+    "chainId": 272,
+    "evolvesFromId": 532,
+    "evolvesTo": [
+      534
+    ]
+  },
+  "534": {
+    "id": 534,
+    "name": "Conkeldurr",
+    "chainId": 272,
+    "evolvesFromId": 533,
+    "evolvesTo": []
+  },
+  "535": {
+    "id": 535,
+    "name": "Tympole",
+    "chainId": 273,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      536
+    ]
+  },
+  "536": {
+    "id": 536,
+    "name": "Palpitoad",
+    "chainId": 273,
+    "evolvesFromId": 535,
+    "evolvesTo": [
+      537
+    ]
+  },
+  "537": {
+    "id": 537,
+    "name": "Seismitoad",
+    "chainId": 273,
+    "evolvesFromId": 536,
+    "evolvesTo": []
+  },
+  "538": {
+    "id": 538,
+    "name": "Throh",
+    "chainId": 274,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "539": {
+    "id": 539,
+    "name": "Sawk",
+    "chainId": 275,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "540": {
+    "id": 540,
+    "name": "Sewaddle",
+    "chainId": 276,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      541
+    ]
+  },
+  "541": {
+    "id": 541,
+    "name": "Swadloon",
+    "chainId": 276,
+    "evolvesFromId": 540,
+    "evolvesTo": [
+      542
+    ]
+  },
+  "542": {
+    "id": 542,
+    "name": "Leavanny",
+    "chainId": 276,
+    "evolvesFromId": 541,
+    "evolvesTo": []
+  },
+  "543": {
+    "id": 543,
+    "name": "Venipede",
+    "chainId": 277,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      544
+    ]
+  },
+  "544": {
+    "id": 544,
+    "name": "Whirlipede",
+    "chainId": 277,
+    "evolvesFromId": 543,
+    "evolvesTo": [
+      545
+    ]
+  },
+  "545": {
+    "id": 545,
+    "name": "Scolipede",
+    "chainId": 277,
+    "evolvesFromId": 544,
+    "evolvesTo": []
+  },
+  "546": {
+    "id": 546,
+    "name": "Cottonee",
+    "chainId": 278,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      547
+    ]
+  },
+  "547": {
+    "id": 547,
+    "name": "Whimsicott",
+    "chainId": 278,
+    "evolvesFromId": 546,
+    "evolvesTo": []
+  },
+  "548": {
+    "id": 548,
+    "name": "Petilil",
+    "chainId": 279,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      549
+    ]
+  },
+  "549": {
+    "id": 549,
+    "name": "Lilligant",
+    "chainId": 279,
+    "evolvesFromId": 548,
+    "evolvesTo": []
+  },
+  "550": {
+    "id": 550,
+    "name": "Basculin",
+    "chainId": 280,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "551": {
+    "id": 551,
+    "name": "Sandile",
+    "chainId": 281,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      552
+    ]
+  },
+  "552": {
+    "id": 552,
+    "name": "Krokorok",
+    "chainId": 281,
+    "evolvesFromId": 551,
+    "evolvesTo": [
+      553
+    ]
+  },
+  "553": {
+    "id": 553,
+    "name": "Krookodile",
+    "chainId": 281,
+    "evolvesFromId": 552,
+    "evolvesTo": []
+  },
+  "554": {
+    "id": 554,
+    "name": "Darumaka",
+    "chainId": 282,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      555
+    ]
+  },
+  "555": {
+    "id": 555,
+    "name": "Darmanitan",
+    "chainId": 282,
+    "evolvesFromId": 554,
+    "evolvesTo": []
+  },
+  "556": {
+    "id": 556,
+    "name": "Maractus",
+    "chainId": 283,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "557": {
+    "id": 557,
+    "name": "Dwebble",
+    "chainId": 284,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      558
+    ]
+  },
+  "558": {
+    "id": 558,
+    "name": "Crustle",
+    "chainId": 284,
+    "evolvesFromId": 557,
+    "evolvesTo": []
+  },
+  "559": {
+    "id": 559,
+    "name": "Scraggy",
+    "chainId": 285,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      560
+    ]
+  },
+  "560": {
+    "id": 560,
+    "name": "Scrafty",
+    "chainId": 285,
+    "evolvesFromId": 559,
+    "evolvesTo": []
+  },
+  "561": {
+    "id": 561,
+    "name": "Sigilyph",
+    "chainId": 286,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "562": {
+    "id": 562,
+    "name": "Yamask",
+    "chainId": 287,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      563
+    ]
+  },
+  "563": {
+    "id": 563,
+    "name": "Cofagrigus",
+    "chainId": 287,
+    "evolvesFromId": 562,
+    "evolvesTo": []
+  },
+  "564": {
+    "id": 564,
+    "name": "Tirtouga",
+    "chainId": 288,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      565
+    ]
+  },
+  "565": {
+    "id": 565,
+    "name": "Carracosta",
+    "chainId": 288,
+    "evolvesFromId": 564,
+    "evolvesTo": []
+  },
+  "566": {
+    "id": 566,
+    "name": "Archen",
+    "chainId": 289,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      567
+    ]
+  },
+  "567": {
+    "id": 567,
+    "name": "Archeops",
+    "chainId": 289,
+    "evolvesFromId": 566,
+    "evolvesTo": []
+  },
+  "568": {
+    "id": 568,
+    "name": "Trubbish",
+    "chainId": 290,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      569
+    ]
+  },
+  "569": {
+    "id": 569,
+    "name": "Garbodor",
+    "chainId": 290,
+    "evolvesFromId": 568,
+    "evolvesTo": []
+  },
+  "570": {
+    "id": 570,
+    "name": "Zorua",
+    "chainId": 291,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      571
+    ]
+  },
+  "571": {
+    "id": 571,
+    "name": "Zoroark",
+    "chainId": 291,
+    "evolvesFromId": 570,
+    "evolvesTo": []
+  },
+  "572": {
+    "id": 572,
+    "name": "Minccino",
+    "chainId": 292,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      573
+    ]
+  },
+  "573": {
+    "id": 573,
+    "name": "Cinccino",
+    "chainId": 292,
+    "evolvesFromId": 572,
+    "evolvesTo": []
+  },
+  "574": {
+    "id": 574,
+    "name": "Gothita",
+    "chainId": 293,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      575
+    ]
+  },
+  "575": {
+    "id": 575,
+    "name": "Gothorita",
+    "chainId": 293,
+    "evolvesFromId": 574,
+    "evolvesTo": [
+      576
+    ]
+  },
+  "576": {
+    "id": 576,
+    "name": "Gothitelle",
+    "chainId": 293,
+    "evolvesFromId": 575,
+    "evolvesTo": []
+  },
+  "577": {
+    "id": 577,
+    "name": "Solosis",
+    "chainId": 294,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      578
+    ]
+  },
+  "578": {
+    "id": 578,
+    "name": "Duosion",
+    "chainId": 294,
+    "evolvesFromId": 577,
+    "evolvesTo": [
+      579
+    ]
+  },
+  "579": {
+    "id": 579,
+    "name": "Reuniclus",
+    "chainId": 294,
+    "evolvesFromId": 578,
+    "evolvesTo": []
+  },
+  "580": {
+    "id": 580,
+    "name": "Ducklett",
+    "chainId": 295,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      581
+    ]
+  },
+  "581": {
+    "id": 581,
+    "name": "Swanna",
+    "chainId": 295,
+    "evolvesFromId": 580,
+    "evolvesTo": []
+  },
+  "582": {
+    "id": 582,
+    "name": "Vanillite",
+    "chainId": 296,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      583
+    ]
+  },
+  "583": {
+    "id": 583,
+    "name": "Vanillish",
+    "chainId": 296,
+    "evolvesFromId": 582,
+    "evolvesTo": [
+      584
+    ]
+  },
+  "584": {
+    "id": 584,
+    "name": "Vanilluxe",
+    "chainId": 296,
+    "evolvesFromId": 583,
+    "evolvesTo": []
+  },
+  "585": {
+    "id": 585,
+    "name": "Deerling",
+    "chainId": 297,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      586
+    ]
+  },
+  "586": {
+    "id": 586,
+    "name": "Sawsbuck",
+    "chainId": 297,
+    "evolvesFromId": 585,
+    "evolvesTo": []
+  },
+  "587": {
+    "id": 587,
+    "name": "Emolga",
+    "chainId": 298,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "588": {
+    "id": 588,
+    "name": "Karrablast",
+    "chainId": 299,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      589
+    ]
+  },
+  "589": {
+    "id": 589,
+    "name": "Escavalier",
+    "chainId": 299,
+    "evolvesFromId": 588,
+    "evolvesTo": []
+  },
+  "590": {
+    "id": 590,
+    "name": "Foongus",
+    "chainId": 300,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      591
+    ]
+  },
+  "591": {
+    "id": 591,
+    "name": "Amoonguss",
+    "chainId": 300,
+    "evolvesFromId": 590,
+    "evolvesTo": []
+  },
+  "592": {
+    "id": 592,
+    "name": "Frillish",
+    "chainId": 301,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      593
+    ]
+  },
+  "593": {
+    "id": 593,
+    "name": "Jellicent",
+    "chainId": 301,
+    "evolvesFromId": 592,
+    "evolvesTo": []
+  },
+  "594": {
+    "id": 594,
+    "name": "Alomomola",
+    "chainId": 302,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "595": {
+    "id": 595,
+    "name": "Joltik",
+    "chainId": 303,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      596
+    ]
+  },
+  "596": {
+    "id": 596,
+    "name": "Galvantula",
+    "chainId": 303,
+    "evolvesFromId": 595,
+    "evolvesTo": []
+  },
+  "597": {
+    "id": 597,
+    "name": "Ferroseed",
+    "chainId": 304,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      598
+    ]
+  },
+  "598": {
+    "id": 598,
+    "name": "Ferrothorn",
+    "chainId": 304,
+    "evolvesFromId": 597,
+    "evolvesTo": []
+  },
+  "599": {
+    "id": 599,
+    "name": "Klink",
+    "chainId": 305,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      600
+    ]
+  },
+  "600": {
+    "id": 600,
+    "name": "Klang",
+    "chainId": 305,
+    "evolvesFromId": 599,
+    "evolvesTo": [
+      601
+    ]
+  },
+  "601": {
+    "id": 601,
+    "name": "Klinklang",
+    "chainId": 305,
+    "evolvesFromId": 600,
+    "evolvesTo": []
+  },
+  "602": {
+    "id": 602,
+    "name": "Tynamo",
+    "chainId": 306,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      603
+    ]
+  },
+  "603": {
+    "id": 603,
+    "name": "Eelektrik",
+    "chainId": 306,
+    "evolvesFromId": 602,
+    "evolvesTo": [
+      604
+    ]
+  },
+  "604": {
+    "id": 604,
+    "name": "Eelektross",
+    "chainId": 306,
+    "evolvesFromId": 603,
+    "evolvesTo": []
+  },
+  "605": {
+    "id": 605,
+    "name": "Elgyem",
+    "chainId": 307,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      606
+    ]
+  },
+  "606": {
+    "id": 606,
+    "name": "Beheeyem",
+    "chainId": 307,
+    "evolvesFromId": 605,
+    "evolvesTo": []
+  },
+  "607": {
+    "id": 607,
+    "name": "Litwick",
+    "chainId": 308,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      608
+    ]
+  },
+  "608": {
+    "id": 608,
+    "name": "Lampent",
+    "chainId": 308,
+    "evolvesFromId": 607,
+    "evolvesTo": [
+      609
+    ]
+  },
+  "609": {
+    "id": 609,
+    "name": "Chandelure",
+    "chainId": 308,
+    "evolvesFromId": 608,
+    "evolvesTo": []
+  },
+  "610": {
+    "id": 610,
+    "name": "Axew",
+    "chainId": 309,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      611
+    ]
+  },
+  "611": {
+    "id": 611,
+    "name": "Fraxure",
+    "chainId": 309,
+    "evolvesFromId": 610,
+    "evolvesTo": [
+      612
+    ]
+  },
+  "612": {
+    "id": 612,
+    "name": "Haxorus",
+    "chainId": 309,
+    "evolvesFromId": 611,
+    "evolvesTo": []
+  },
+  "613": {
+    "id": 613,
+    "name": "Cubchoo",
+    "chainId": 310,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      614
+    ]
+  },
+  "614": {
+    "id": 614,
+    "name": "Beartic",
+    "chainId": 310,
+    "evolvesFromId": 613,
+    "evolvesTo": []
+  },
+  "615": {
+    "id": 615,
+    "name": "Cryogonal",
+    "chainId": 311,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "616": {
+    "id": 616,
+    "name": "Shelmet",
+    "chainId": 312,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      617
+    ]
+  },
+  "617": {
+    "id": 617,
+    "name": "Accelgor",
+    "chainId": 312,
+    "evolvesFromId": 616,
+    "evolvesTo": []
+  },
+  "618": {
+    "id": 618,
+    "name": "Stunfisk",
+    "chainId": 313,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "619": {
+    "id": 619,
+    "name": "Mienfoo",
+    "chainId": 314,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      620
+    ]
+  },
+  "620": {
+    "id": 620,
+    "name": "Mienshao",
+    "chainId": 314,
+    "evolvesFromId": 619,
+    "evolvesTo": []
+  },
+  "621": {
+    "id": 621,
+    "name": "Druddigon",
+    "chainId": 315,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "622": {
+    "id": 622,
+    "name": "Golett",
+    "chainId": 316,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      623
+    ]
+  },
+  "623": {
+    "id": 623,
+    "name": "Golurk",
+    "chainId": 316,
+    "evolvesFromId": 622,
+    "evolvesTo": []
+  },
+  "624": {
+    "id": 624,
+    "name": "Pawniard",
+    "chainId": 317,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      625
+    ]
+  },
+  "625": {
+    "id": 625,
+    "name": "Bisharp",
+    "chainId": 317,
+    "evolvesFromId": 624,
+    "evolvesTo": []
+  },
+  "626": {
+    "id": 626,
+    "name": "Bouffalant",
+    "chainId": 318,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "627": {
+    "id": 627,
+    "name": "Rufflet",
+    "chainId": 319,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      628
+    ]
+  },
+  "628": {
+    "id": 628,
+    "name": "Braviary",
+    "chainId": 319,
+    "evolvesFromId": 627,
+    "evolvesTo": []
+  },
+  "629": {
+    "id": 629,
+    "name": "Vullaby",
+    "chainId": 320,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      630
+    ]
+  },
+  "630": {
+    "id": 630,
+    "name": "Mandibuzz",
+    "chainId": 320,
+    "evolvesFromId": 629,
+    "evolvesTo": []
+  },
+  "631": {
+    "id": 631,
+    "name": "Heatmor",
+    "chainId": 321,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "632": {
+    "id": 632,
+    "name": "Durant",
+    "chainId": 322,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "633": {
+    "id": 633,
+    "name": "Deino",
+    "chainId": 323,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      634
+    ]
+  },
+  "634": {
+    "id": 634,
+    "name": "Zweilous",
+    "chainId": 323,
+    "evolvesFromId": 633,
+    "evolvesTo": [
+      635
+    ]
+  },
+  "635": {
+    "id": 635,
+    "name": "Hydreigon",
+    "chainId": 323,
+    "evolvesFromId": 634,
+    "evolvesTo": []
+  },
+  "636": {
+    "id": 636,
+    "name": "Larvesta",
+    "chainId": 324,
+    "evolvesFromId": null,
+    "evolvesTo": [
+      637
+    ]
+  },
+  "637": {
+    "id": 637,
+    "name": "Volcarona",
+    "chainId": 324,
+    "evolvesFromId": 636,
+    "evolvesTo": []
+  },
+  "638": {
+    "id": 638,
+    "name": "Cobalion",
+    "chainId": 325,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "639": {
+    "id": 639,
+    "name": "Terrakion",
+    "chainId": 326,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "640": {
+    "id": 640,
+    "name": "Virizion",
+    "chainId": 327,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "641": {
+    "id": 641,
+    "name": "Tornadus",
+    "chainId": 328,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "642": {
+    "id": 642,
+    "name": "Thundurus",
+    "chainId": 329,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "643": {
+    "id": 643,
+    "name": "Reshiram",
+    "chainId": 330,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "644": {
+    "id": 644,
+    "name": "Zekrom",
+    "chainId": 331,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "645": {
+    "id": 645,
+    "name": "Landorus",
+    "chainId": 332,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "646": {
+    "id": 646,
+    "name": "Kyurem",
+    "chainId": 333,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "647": {
+    "id": 647,
+    "name": "Keldeo",
+    "chainId": 334,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "648": {
+    "id": 648,
+    "name": "Meloetta",
+    "chainId": 335,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  },
+  "649": {
+    "id": 649,
+    "name": "Genesect",
+    "chainId": 336,
+    "evolvesFromId": null,
+    "evolvesTo": []
+  }
+}

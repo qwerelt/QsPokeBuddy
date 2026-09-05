@@ -1,0 +1,9448 @@
+{
+  "1": {
+    "id": 1,
+    "identifier": "bulbasaur",
+    "name": "Bulbasaur",
+    "height": 7,
+    "weight": 69,
+    "base_experience": 64,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "2": {
+    "id": 2,
+    "identifier": "ivysaur",
+    "name": "Ivysaur",
+    "height": 10,
+    "weight": 130,
+    "base_experience": 142,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "3": {
+    "id": 3,
+    "identifier": "venusaur",
+    "name": "Venusaur",
+    "height": 20,
+    "weight": 1000,
+    "base_experience": 236,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "special_attack": 100,
+      "special_defense": 100,
+      "speed": 80
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "4": {
+    "id": 4,
+    "identifier": "charmander",
+    "name": "Charmander",
+    "height": 6,
+    "weight": 85,
+    "base_experience": 62,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "special_attack": 60,
+      "special_defense": 50,
+      "speed": 65
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "5": {
+    "id": 5,
+    "identifier": "charmeleon",
+    "name": "Charmeleon",
+    "height": 11,
+    "weight": 190,
+    "base_experience": 142,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "special_attack": 80,
+      "special_defense": 65,
+      "speed": 80
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "6": {
+    "id": 6,
+    "identifier": "charizard",
+    "name": "Charizard",
+    "height": 17,
+    "weight": 905,
+    "base_experience": 240,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special_attack": 109,
+      "special_defense": 85,
+      "speed": 100
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "7": {
+    "id": 7,
+    "identifier": "squirtle",
+    "name": "Squirtle",
+    "height": 5,
+    "weight": 90,
+    "base_experience": 63,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "special_attack": 50,
+      "special_defense": 64,
+      "speed": 43
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "8": {
+    "id": 8,
+    "identifier": "wartortle",
+    "name": "Wartortle",
+    "height": 10,
+    "weight": 225,
+    "base_experience": 142,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 59,
+      "attack": 63,
+      "defense": 80,
+      "special_attack": 65,
+      "special_defense": 80,
+      "speed": 58
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "9": {
+    "id": 9,
+    "identifier": "blastoise",
+    "name": "Blastoise",
+    "height": 16,
+    "weight": 855,
+    "base_experience": 239,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "special_attack": 85,
+      "special_defense": 105,
+      "speed": 78
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "10": {
+    "id": 10,
+    "identifier": "caterpie",
+    "name": "Caterpie",
+    "height": 3,
+    "weight": 29,
+    "base_experience": 39,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "special_attack": 20,
+      "special_defense": 20,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "11": {
+    "id": 11,
+    "identifier": "metapod",
+    "name": "Metapod",
+    "height": 7,
+    "weight": 99,
+    "base_experience": 72,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 55,
+      "special_attack": 25,
+      "special_defense": 25,
+      "speed": 30
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "12": {
+    "id": 12,
+    "identifier": "butterfree",
+    "name": "Butterfree",
+    "height": 11,
+    "weight": 320,
+    "base_experience": 178,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "special_attack": 90,
+      "special_defense": 80,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "13": {
+    "id": 13,
+    "identifier": "weedle",
+    "name": "Weedle",
+    "height": 3,
+    "weight": 32,
+    "base_experience": 39,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "special_attack": 20,
+      "special_defense": 20,
+      "speed": 50
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "14": {
+    "id": 14,
+    "identifier": "kakuna",
+    "name": "Kakuna",
+    "height": 6,
+    "weight": 100,
+    "base_experience": 72,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 25,
+      "defense": 50,
+      "special_attack": 25,
+      "special_defense": 25,
+      "speed": 35
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "15": {
+    "id": 15,
+    "identifier": "beedrill",
+    "name": "Beedrill",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 178,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "special_attack": 45,
+      "special_defense": 80,
+      "speed": 75
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "16": {
+    "id": 16,
+    "identifier": "pidgey",
+    "name": "Pidgey",
+    "height": 3,
+    "weight": 18,
+    "base_experience": 50,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 56
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "17": {
+    "id": 17,
+    "identifier": "pidgeotto",
+    "name": "Pidgeotto",
+    "height": 11,
+    "weight": 300,
+    "base_experience": 122,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 63,
+      "attack": 60,
+      "defense": 55,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 71
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "18": {
+    "id": 18,
+    "identifier": "pidgeot",
+    "name": "Pidgeot",
+    "height": 15,
+    "weight": 395,
+    "base_experience": 216,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "special_attack": 70,
+      "special_defense": 70,
+      "speed": 101
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "19": {
+    "id": 19,
+    "identifier": "rattata",
+    "name": "Rattata",
+    "height": 3,
+    "weight": 35,
+    "base_experience": 51,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 56,
+      "defense": 35,
+      "special_attack": 25,
+      "special_defense": 35,
+      "speed": 72
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "20": {
+    "id": 20,
+    "identifier": "raticate",
+    "name": "Raticate",
+    "height": 7,
+    "weight": 185,
+    "base_experience": 145,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 81,
+      "defense": 60,
+      "special_attack": 50,
+      "special_defense": 70,
+      "speed": 97
+    },
+    "generation": 1,
+    "capture_rate": 127,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "21": {
+    "id": 21,
+    "identifier": "spearow",
+    "name": "Spearow",
+    "height": 3,
+    "weight": 20,
+    "base_experience": 52,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 60,
+      "defense": 30,
+      "special_attack": 31,
+      "special_defense": 31,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "22": {
+    "id": 22,
+    "identifier": "fearow",
+    "name": "Fearow",
+    "height": 12,
+    "weight": 380,
+    "base_experience": 155,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 65,
+      "special_attack": 61,
+      "special_defense": 61,
+      "speed": 100
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "23": {
+    "id": 23,
+    "identifier": "ekans",
+    "name": "Ekans",
+    "height": 20,
+    "weight": 69,
+    "base_experience": 58,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 60,
+      "defense": 44,
+      "special_attack": 40,
+      "special_defense": 54,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "24": {
+    "id": 24,
+    "identifier": "arbok",
+    "name": "Arbok",
+    "height": 35,
+    "weight": 650,
+    "base_experience": 157,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 69,
+      "special_attack": 65,
+      "special_defense": 79,
+      "speed": 80
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "25": {
+    "id": 25,
+    "identifier": "pikachu",
+    "name": "Pikachu",
+    "height": 4,
+    "weight": 60,
+    "base_experience": 112,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "26": {
+    "id": 26,
+    "identifier": "raichu",
+    "name": "Raichu",
+    "height": 8,
+    "weight": 300,
+    "base_experience": 218,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 55,
+      "special_attack": 90,
+      "special_defense": 80,
+      "speed": 110
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "27": {
+    "id": 27,
+    "identifier": "sandshrew",
+    "name": "Sandshrew",
+    "height": 6,
+    "weight": 120,
+    "base_experience": 60,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 85,
+      "special_attack": 20,
+      "special_defense": 30,
+      "speed": 40
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "28": {
+    "id": 28,
+    "identifier": "sandslash",
+    "name": "Sandslash",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 158,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 110,
+      "special_attack": 45,
+      "special_defense": 55,
+      "speed": 65
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "29": {
+    "id": 29,
+    "identifier": "nidoran-f",
+    "name": "Nidoran F",
+    "height": 4,
+    "weight": 70,
+    "base_experience": 55,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 47,
+      "defense": 52,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 41
+    },
+    "generation": 1,
+    "capture_rate": 235,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 8
+  },
+  "30": {
+    "id": 30,
+    "identifier": "nidorina",
+    "name": "Nidorina",
+    "height": 8,
+    "weight": 200,
+    "base_experience": 128,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 62,
+      "defense": 67,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 56
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 8
+  },
+  "31": {
+    "id": 31,
+    "identifier": "nidoqueen",
+    "name": "Nidoqueen",
+    "height": 13,
+    "weight": 600,
+    "base_experience": 227,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 92,
+      "defense": 87,
+      "special_attack": 75,
+      "special_defense": 85,
+      "speed": 76
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 8
+  },
+  "32": {
+    "id": 32,
+    "identifier": "nidoran-m",
+    "name": "Nidoran M",
+    "height": 5,
+    "weight": 90,
+    "base_experience": 55,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 46,
+      "attack": 57,
+      "defense": 40,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 50
+    },
+    "generation": 1,
+    "capture_rate": 235,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 0
+  },
+  "33": {
+    "id": 33,
+    "identifier": "nidorino",
+    "name": "Nidorino",
+    "height": 9,
+    "weight": 195,
+    "base_experience": 128,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 72,
+      "defense": 57,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 65
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 0
+  },
+  "34": {
+    "id": 34,
+    "identifier": "nidoking",
+    "name": "Nidoking",
+    "height": 14,
+    "weight": 620,
+    "base_experience": 227,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "stats": {
+      "hp": 81,
+      "attack": 102,
+      "defense": 77,
+      "special_attack": 85,
+      "special_defense": 75,
+      "speed": 85
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 0
+  },
+  "35": {
+    "id": 35,
+    "identifier": "clefairy",
+    "name": "Clefairy",
+    "height": 6,
+    "weight": 75,
+    "base_experience": 113,
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 45,
+      "defense": 48,
+      "special_attack": 60,
+      "special_defense": 65,
+      "speed": 35
+    },
+    "generation": 1,
+    "capture_rate": 150,
+    "base_happiness": 140,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "36": {
+    "id": 36,
+    "identifier": "clefable",
+    "name": "Clefable",
+    "height": 13,
+    "weight": 400,
+    "base_experience": 217,
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "special_attack": 95,
+      "special_defense": 90,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 25,
+    "base_happiness": 140,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "37": {
+    "id": 37,
+    "identifier": "vulpix",
+    "name": "Vulpix",
+    "height": 6,
+    "weight": 99,
+    "base_experience": 60,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "special_attack": 50,
+      "special_defense": 65,
+      "speed": 65
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 6
+  },
+  "38": {
+    "id": 38,
+    "identifier": "ninetales",
+    "name": "Ninetales",
+    "height": 11,
+    "weight": 199,
+    "base_experience": 177,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 76,
+      "defense": 75,
+      "special_attack": 81,
+      "special_defense": 100,
+      "speed": 100
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 6
+  },
+  "39": {
+    "id": 39,
+    "identifier": "jigglypuff",
+    "name": "Jigglypuff",
+    "height": 5,
+    "weight": 55,
+    "base_experience": 95,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "special_attack": 45,
+      "special_defense": 25,
+      "speed": 20
+    },
+    "generation": 1,
+    "capture_rate": 170,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "40": {
+    "id": 40,
+    "identifier": "wigglytuff",
+    "name": "Wigglytuff",
+    "height": 10,
+    "weight": 120,
+    "base_experience": 196,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": 70,
+      "defense": 45,
+      "special_attack": 85,
+      "special_defense": 50,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 50,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "41": {
+    "id": 41,
+    "identifier": "zubat",
+    "name": "Zubat",
+    "height": 8,
+    "weight": 75,
+    "base_experience": 49,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special_attack": 30,
+      "special_defense": 40,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "42": {
+    "id": 42,
+    "identifier": "golbat",
+    "name": "Golbat",
+    "height": 16,
+    "weight": 550,
+    "base_experience": 159,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 70,
+      "special_attack": 65,
+      "special_defense": 75,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "43": {
+    "id": 43,
+    "identifier": "oddish",
+    "name": "Oddish",
+    "height": 5,
+    "weight": 54,
+    "base_experience": 64,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 55,
+      "special_attack": 75,
+      "special_defense": 65,
+      "speed": 30
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "44": {
+    "id": 44,
+    "identifier": "gloom",
+    "name": "Gloom",
+    "height": 8,
+    "weight": 86,
+    "base_experience": 138,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 70,
+      "special_attack": 85,
+      "special_defense": 75,
+      "speed": 40
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "45": {
+    "id": 45,
+    "identifier": "vileplume",
+    "name": "Vileplume",
+    "height": 12,
+    "weight": 186,
+    "base_experience": 221,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 85,
+      "special_attack": 110,
+      "special_defense": 90,
+      "speed": 50
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "46": {
+    "id": 46,
+    "identifier": "paras",
+    "name": "Paras",
+    "height": 3,
+    "weight": 54,
+    "base_experience": 57,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 70,
+      "defense": 55,
+      "special_attack": 45,
+      "special_defense": 55,
+      "speed": 25
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "47": {
+    "id": 47,
+    "identifier": "parasect",
+    "name": "Parasect",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 142,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 80,
+      "special_attack": 60,
+      "special_defense": 80,
+      "speed": 30
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "48": {
+    "id": 48,
+    "identifier": "venonat",
+    "name": "Venonat",
+    "height": 10,
+    "weight": 300,
+    "base_experience": 61,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 50,
+      "special_attack": 40,
+      "special_defense": 55,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "49": {
+    "id": 49,
+    "identifier": "venomoth",
+    "name": "Venomoth",
+    "height": 15,
+    "weight": 125,
+    "base_experience": 158,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 90,
+      "special_defense": 75,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "50": {
+    "id": 50,
+    "identifier": "diglett",
+    "name": "Diglett",
+    "height": 2,
+    "weight": 8,
+    "base_experience": 53,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 10,
+      "attack": 55,
+      "defense": 25,
+      "special_attack": 35,
+      "special_defense": 45,
+      "speed": 95
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "51": {
+    "id": 51,
+    "identifier": "dugtrio",
+    "name": "Dugtrio",
+    "height": 7,
+    "weight": 333,
+    "base_experience": 149,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 100,
+      "defense": 50,
+      "special_attack": 50,
+      "special_defense": 70,
+      "speed": 120
+    },
+    "generation": 1,
+    "capture_rate": 50,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "52": {
+    "id": 52,
+    "identifier": "meowth",
+    "name": "Meowth",
+    "height": 4,
+    "weight": 42,
+    "base_experience": 58,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "53": {
+    "id": 53,
+    "identifier": "persian",
+    "name": "Persian",
+    "height": 10,
+    "weight": 320,
+    "base_experience": 154,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 70,
+      "defense": 60,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 115
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "54": {
+    "id": 54,
+    "identifier": "psyduck",
+    "name": "Psyduck",
+    "height": 8,
+    "weight": 196,
+    "base_experience": 64,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 52,
+      "defense": 48,
+      "special_attack": 65,
+      "special_defense": 50,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "55": {
+    "id": 55,
+    "identifier": "golduck",
+    "name": "Golduck",
+    "height": 17,
+    "weight": 766,
+    "base_experience": 175,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 78,
+      "special_attack": 95,
+      "special_defense": 80,
+      "speed": 85
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "56": {
+    "id": 56,
+    "identifier": "mankey",
+    "name": "Mankey",
+    "height": 5,
+    "weight": 280,
+    "base_experience": 61,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 35,
+      "special_attack": 35,
+      "special_defense": 45,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "57": {
+    "id": 57,
+    "identifier": "primeape",
+    "name": "Primeape",
+    "height": 10,
+    "weight": 320,
+    "base_experience": 159,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 105,
+      "defense": 60,
+      "special_attack": 60,
+      "special_defense": 70,
+      "speed": 95
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "58": {
+    "id": 58,
+    "identifier": "growlithe",
+    "name": "Growlithe",
+    "height": 7,
+    "weight": 190,
+    "base_experience": 70,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 70,
+      "defense": 45,
+      "special_attack": 70,
+      "special_defense": 50,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 2
+  },
+  "59": {
+    "id": 59,
+    "identifier": "arcanine",
+    "name": "Arcanine",
+    "height": 19,
+    "weight": 1550,
+    "base_experience": 194,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 110,
+      "defense": 80,
+      "special_attack": 100,
+      "special_defense": 80,
+      "speed": 95
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 2
+  },
+  "60": {
+    "id": 60,
+    "identifier": "poliwag",
+    "name": "Poliwag",
+    "height": 6,
+    "weight": 124,
+    "base_experience": 60,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50,
+      "defense": 40,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "61": {
+    "id": 61,
+    "identifier": "poliwhirl",
+    "name": "Poliwhirl",
+    "height": 10,
+    "weight": 200,
+    "base_experience": 135,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 65,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "62": {
+    "id": 62,
+    "identifier": "poliwrath",
+    "name": "Poliwrath",
+    "height": 13,
+    "weight": 540,
+    "base_experience": 230,
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 70,
+      "special_defense": 90,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "63": {
+    "id": 63,
+    "identifier": "abra",
+    "name": "Abra",
+    "height": 9,
+    "weight": 195,
+    "base_experience": 62,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 20,
+      "defense": 15,
+      "special_attack": 105,
+      "special_defense": 55,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 2
+  },
+  "64": {
+    "id": 64,
+    "identifier": "kadabra",
+    "name": "Kadabra",
+    "height": 13,
+    "weight": 565,
+    "base_experience": 140,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "special_attack": 120,
+      "special_defense": 70,
+      "speed": 105
+    },
+    "generation": 1,
+    "capture_rate": 100,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 2
+  },
+  "65": {
+    "id": 65,
+    "identifier": "alakazam",
+    "name": "Alakazam",
+    "height": 15,
+    "weight": 480,
+    "base_experience": 225,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 45,
+      "special_attack": 135,
+      "special_defense": 95,
+      "speed": 120
+    },
+    "generation": 1,
+    "capture_rate": 50,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 2
+  },
+  "66": {
+    "id": 66,
+    "identifier": "machop",
+    "name": "Machop",
+    "height": 8,
+    "weight": 195,
+    "base_experience": 61,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 50,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 35
+    },
+    "generation": 1,
+    "capture_rate": 180,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 2
+  },
+  "67": {
+    "id": 67,
+    "identifier": "machoke",
+    "name": "Machoke",
+    "height": 15,
+    "weight": 705,
+    "base_experience": 142,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 70,
+      "special_attack": 50,
+      "special_defense": 60,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 2
+  },
+  "68": {
+    "id": 68,
+    "identifier": "machamp",
+    "name": "Machamp",
+    "height": 16,
+    "weight": 1300,
+    "base_experience": 227,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 80,
+      "special_attack": 65,
+      "special_defense": 85,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 2
+  },
+  "69": {
+    "id": 69,
+    "identifier": "bellsprout",
+    "name": "Bellsprout",
+    "height": 7,
+    "weight": 40,
+    "base_experience": 60,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 35,
+      "special_attack": 70,
+      "special_defense": 30,
+      "speed": 40
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "70": {
+    "id": 70,
+    "identifier": "weepinbell",
+    "name": "Weepinbell",
+    "height": 10,
+    "weight": 64,
+    "base_experience": 137,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 50,
+      "special_attack": 85,
+      "special_defense": 45,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "71": {
+    "id": 71,
+    "identifier": "victreebel",
+    "name": "Victreebel",
+    "height": 17,
+    "weight": 155,
+    "base_experience": 221,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "special_attack": 100,
+      "special_defense": 70,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "72": {
+    "id": 72,
+    "identifier": "tentacool",
+    "name": "Tentacool",
+    "height": 9,
+    "weight": 455,
+    "base_experience": 67,
+    "types": [
+      "water",
+      "poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 35,
+      "special_attack": 50,
+      "special_defense": 100,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "73": {
+    "id": 73,
+    "identifier": "tentacruel",
+    "name": "Tentacruel",
+    "height": 16,
+    "weight": 550,
+    "base_experience": 180,
+    "types": [
+      "water",
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 70,
+      "defense": 65,
+      "special_attack": 80,
+      "special_defense": 120,
+      "speed": 100
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "74": {
+    "id": 74,
+    "identifier": "geodude",
+    "name": "Geodude",
+    "height": 4,
+    "weight": 200,
+    "base_experience": 60,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 100,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 20
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "75": {
+    "id": 75,
+    "identifier": "graveler",
+    "name": "Graveler",
+    "height": 10,
+    "weight": 1050,
+    "base_experience": 137,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 115,
+      "special_attack": 45,
+      "special_defense": 45,
+      "speed": 35
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "76": {
+    "id": 76,
+    "identifier": "golem",
+    "name": "Golem",
+    "height": 14,
+    "weight": 3000,
+    "base_experience": 223,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 130,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "77": {
+    "id": 77,
+    "identifier": "ponyta",
+    "name": "Ponyta",
+    "height": 10,
+    "weight": 300,
+    "base_experience": 82,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 55,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "78": {
+    "id": 78,
+    "identifier": "rapidash",
+    "name": "Rapidash",
+    "height": 17,
+    "weight": 950,
+    "base_experience": 175,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 105
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "79": {
+    "id": 79,
+    "identifier": "slowpoke",
+    "name": "Slowpoke",
+    "height": 12,
+    "weight": 360,
+    "base_experience": 63,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 65,
+      "defense": 65,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 15
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "80": {
+    "id": 80,
+    "identifier": "slowbro",
+    "name": "Slowbro",
+    "height": 16,
+    "weight": 785,
+    "base_experience": 172,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 110,
+      "special_attack": 100,
+      "special_defense": 80,
+      "speed": 30
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "81": {
+    "id": 81,
+    "identifier": "magnemite",
+    "name": "Magnemite",
+    "height": 3,
+    "weight": 60,
+    "base_experience": 65,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 35,
+      "defense": 70,
+      "special_attack": 95,
+      "special_defense": 55,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "82": {
+    "id": 82,
+    "identifier": "magneton",
+    "name": "Magneton",
+    "height": 10,
+    "weight": 600,
+    "base_experience": 163,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 95,
+      "special_attack": 120,
+      "special_defense": 70,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "83": {
+    "id": 83,
+    "identifier": "farfetchd",
+    "name": "Farfetchd",
+    "height": 8,
+    "weight": 150,
+    "base_experience": 132,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 52,
+      "attack": 90,
+      "defense": 55,
+      "special_attack": 58,
+      "special_defense": 62,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "84": {
+    "id": 84,
+    "identifier": "doduo",
+    "name": "Doduo",
+    "height": 14,
+    "weight": 392,
+    "base_experience": 62,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 85,
+      "defense": 45,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 75
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "85": {
+    "id": 85,
+    "identifier": "dodrio",
+    "name": "Dodrio",
+    "height": 18,
+    "weight": 852,
+    "base_experience": 165,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 110,
+      "defense": 70,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 110
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "86": {
+    "id": 86,
+    "identifier": "seel",
+    "name": "Seel",
+    "height": 11,
+    "weight": 900,
+    "base_experience": 65,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 45,
+      "defense": 55,
+      "special_attack": 45,
+      "special_defense": 70,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "87": {
+    "id": 87,
+    "identifier": "dewgong",
+    "name": "Dewgong",
+    "height": 17,
+    "weight": 1200,
+    "base_experience": 166,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 70,
+      "defense": 80,
+      "special_attack": 70,
+      "special_defense": 95,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "88": {
+    "id": 88,
+    "identifier": "grimer",
+    "name": "Grimer",
+    "height": 9,
+    "weight": 300,
+    "base_experience": 65,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 50,
+      "special_attack": 40,
+      "special_defense": 50,
+      "speed": 25
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "89": {
+    "id": 89,
+    "identifier": "muk",
+    "name": "Muk",
+    "height": 12,
+    "weight": 300,
+    "base_experience": 175,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 105,
+      "defense": 75,
+      "special_attack": 65,
+      "special_defense": 100,
+      "speed": 50
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "90": {
+    "id": 90,
+    "identifier": "shellder",
+    "name": "Shellder",
+    "height": 3,
+    "weight": 40,
+    "base_experience": 61,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 65,
+      "defense": 100,
+      "special_attack": 45,
+      "special_defense": 25,
+      "speed": 40
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "91": {
+    "id": 91,
+    "identifier": "cloyster",
+    "name": "Cloyster",
+    "height": 15,
+    "weight": 1325,
+    "base_experience": 184,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 95,
+      "defense": 180,
+      "special_attack": 85,
+      "special_defense": 45,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "92": {
+    "id": 92,
+    "identifier": "gastly",
+    "name": "Gastly",
+    "height": 13,
+    "weight": 1,
+    "base_experience": 62,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 35,
+      "defense": 30,
+      "special_attack": 100,
+      "special_defense": 35,
+      "speed": 80
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "93": {
+    "id": 93,
+    "identifier": "haunter",
+    "name": "Haunter",
+    "height": 16,
+    "weight": 1,
+    "base_experience": 142,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 45,
+      "special_attack": 115,
+      "special_defense": 55,
+      "speed": 95
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "94": {
+    "id": 94,
+    "identifier": "gengar",
+    "name": "Gengar",
+    "height": 15,
+    "weight": 405,
+    "base_experience": 225,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 130,
+      "special_defense": 75,
+      "speed": 110
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "95": {
+    "id": 95,
+    "identifier": "onix",
+    "name": "Onix",
+    "height": 88,
+    "weight": 2100,
+    "base_experience": 77,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 45,
+      "defense": 160,
+      "special_attack": 30,
+      "special_defense": 45,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "96": {
+    "id": 96,
+    "identifier": "drowzee",
+    "name": "Drowzee",
+    "height": 10,
+    "weight": 324,
+    "base_experience": 66,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 48,
+      "defense": 45,
+      "special_attack": 43,
+      "special_defense": 90,
+      "speed": 42
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "97": {
+    "id": 97,
+    "identifier": "hypno",
+    "name": "Hypno",
+    "height": 16,
+    "weight": 756,
+    "base_experience": 169,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 73,
+      "defense": 70,
+      "special_attack": 73,
+      "special_defense": 115,
+      "speed": 67
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "98": {
+    "id": 98,
+    "identifier": "krabby",
+    "name": "Krabby",
+    "height": 4,
+    "weight": 65,
+    "base_experience": 65,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 105,
+      "defense": 90,
+      "special_attack": 25,
+      "special_defense": 25,
+      "speed": 50
+    },
+    "generation": 1,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "99": {
+    "id": 99,
+    "identifier": "kingler",
+    "name": "Kingler",
+    "height": 13,
+    "weight": 600,
+    "base_experience": 166,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 130,
+      "defense": 115,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 75
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "100": {
+    "id": 100,
+    "identifier": "voltorb",
+    "name": "Voltorb",
+    "height": 5,
+    "weight": 104,
+    "base_experience": 66,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 50,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 100
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "101": {
+    "id": 101,
+    "identifier": "electrode",
+    "name": "Electrode",
+    "height": 12,
+    "weight": 666,
+    "base_experience": 172,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 70,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 150
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "102": {
+    "id": 102,
+    "identifier": "exeggcute",
+    "name": "Exeggcute",
+    "height": 4,
+    "weight": 25,
+    "base_experience": 65,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 80,
+      "special_attack": 60,
+      "special_defense": 45,
+      "speed": 40
+    },
+    "generation": 1,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "103": {
+    "id": 103,
+    "identifier": "exeggutor",
+    "name": "Exeggutor",
+    "height": 20,
+    "weight": 1200,
+    "base_experience": 186,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 85,
+      "special_attack": 125,
+      "special_defense": 75,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "104": {
+    "id": 104,
+    "identifier": "cubone",
+    "name": "Cubone",
+    "height": 4,
+    "weight": 65,
+    "base_experience": 64,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 95,
+      "special_attack": 40,
+      "special_defense": 50,
+      "speed": 35
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "105": {
+    "id": 105,
+    "identifier": "marowak",
+    "name": "Marowak",
+    "height": 10,
+    "weight": 450,
+    "base_experience": 149,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 110,
+      "special_attack": 50,
+      "special_defense": 80,
+      "speed": 45
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "106": {
+    "id": 106,
+    "identifier": "hitmonlee",
+    "name": "Hitmonlee",
+    "height": 15,
+    "weight": 498,
+    "base_experience": 159,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 120,
+      "defense": 53,
+      "special_attack": 35,
+      "special_defense": 110,
+      "speed": 87
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 0
+  },
+  "107": {
+    "id": 107,
+    "identifier": "hitmonchan",
+    "name": "Hitmonchan",
+    "height": 14,
+    "weight": 502,
+    "base_experience": 159,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 79,
+      "special_attack": 35,
+      "special_defense": 110,
+      "speed": 76
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 0
+  },
+  "108": {
+    "id": 108,
+    "identifier": "lickitung",
+    "name": "Lickitung",
+    "height": 12,
+    "weight": 655,
+    "base_experience": 77,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 55,
+      "defense": 75,
+      "special_attack": 60,
+      "special_defense": 75,
+      "speed": 30
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "109": {
+    "id": 109,
+    "identifier": "koffing",
+    "name": "Koffing",
+    "height": 6,
+    "weight": 10,
+    "base_experience": 68,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 65,
+      "defense": 95,
+      "special_attack": 60,
+      "special_defense": 45,
+      "speed": 35
+    },
+    "generation": 1,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "110": {
+    "id": 110,
+    "identifier": "weezing",
+    "name": "Weezing",
+    "height": 12,
+    "weight": 95,
+    "base_experience": 172,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 120,
+      "special_attack": 85,
+      "special_defense": 70,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "111": {
+    "id": 111,
+    "identifier": "rhyhorn",
+    "name": "Rhyhorn",
+    "height": 10,
+    "weight": 1150,
+    "base_experience": 69,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 85,
+      "defense": 95,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 25
+    },
+    "generation": 1,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "112": {
+    "id": 112,
+    "identifier": "rhydon",
+    "name": "Rhydon",
+    "height": 19,
+    "weight": 1200,
+    "base_experience": 170,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 130,
+      "defense": 120,
+      "special_attack": 45,
+      "special_defense": 45,
+      "speed": 40
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "113": {
+    "id": 113,
+    "identifier": "chansey",
+    "name": "Chansey",
+    "height": 11,
+    "weight": 346,
+    "base_experience": 395,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 250,
+      "attack": 5,
+      "defense": 5,
+      "special_attack": 35,
+      "special_defense": 105,
+      "speed": 50
+    },
+    "generation": 1,
+    "capture_rate": 30,
+    "base_happiness": 140,
+    "growth_rate_id": 3,
+    "gender_rate": 8
+  },
+  "114": {
+    "id": 114,
+    "identifier": "tangela",
+    "name": "Tangela",
+    "height": 10,
+    "weight": 350,
+    "base_experience": 87,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 55,
+      "defense": 115,
+      "special_attack": 100,
+      "special_defense": 40,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "115": {
+    "id": 115,
+    "identifier": "kangaskhan",
+    "name": "Kangaskhan",
+    "height": 22,
+    "weight": 800,
+    "base_experience": 172,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 80,
+      "special_attack": 40,
+      "special_defense": 80,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 8
+  },
+  "116": {
+    "id": 116,
+    "identifier": "horsea",
+    "name": "Horsea",
+    "height": 4,
+    "weight": 80,
+    "base_experience": 59,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 70,
+      "special_attack": 70,
+      "special_defense": 25,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "117": {
+    "id": 117,
+    "identifier": "seadra",
+    "name": "Seadra",
+    "height": 12,
+    "weight": 250,
+    "base_experience": 154,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 65,
+      "defense": 95,
+      "special_attack": 95,
+      "special_defense": 45,
+      "speed": 85
+    },
+    "generation": 1,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "118": {
+    "id": 118,
+    "identifier": "goldeen",
+    "name": "Goldeen",
+    "height": 6,
+    "weight": 150,
+    "base_experience": 64,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 67,
+      "defense": 60,
+      "special_attack": 35,
+      "special_defense": 50,
+      "speed": 63
+    },
+    "generation": 1,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "119": {
+    "id": 119,
+    "identifier": "seaking",
+    "name": "Seaking",
+    "height": 13,
+    "weight": 390,
+    "base_experience": 158,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 92,
+      "defense": 65,
+      "special_attack": 65,
+      "special_defense": 80,
+      "speed": 68
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "120": {
+    "id": 120,
+    "identifier": "staryu",
+    "name": "Staryu",
+    "height": 8,
+    "weight": 345,
+    "base_experience": 68,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 55,
+      "special_attack": 70,
+      "special_defense": 55,
+      "speed": 85
+    },
+    "generation": 1,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "121": {
+    "id": 121,
+    "identifier": "starmie",
+    "name": "Starmie",
+    "height": 11,
+    "weight": 800,
+    "base_experience": 182,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 85,
+      "special_attack": 100,
+      "special_defense": 85,
+      "speed": 115
+    },
+    "generation": 1,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "122": {
+    "id": 122,
+    "identifier": "mr-mime",
+    "name": "Mr Mime",
+    "height": 13,
+    "weight": 545,
+    "base_experience": 161,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 65,
+      "special_attack": 100,
+      "special_defense": 120,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "123": {
+    "id": 123,
+    "identifier": "scyther",
+    "name": "Scyther",
+    "height": 15,
+    "weight": 560,
+    "base_experience": 100,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 105
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "124": {
+    "id": 124,
+    "identifier": "jynx",
+    "name": "Jynx",
+    "height": 14,
+    "weight": 406,
+    "base_experience": 159,
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 50,
+      "defense": 35,
+      "special_attack": 115,
+      "special_defense": 95,
+      "speed": 95
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 8
+  },
+  "125": {
+    "id": 125,
+    "identifier": "electabuzz",
+    "name": "Electabuzz",
+    "height": 11,
+    "weight": 300,
+    "base_experience": 172,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 83,
+      "defense": 57,
+      "special_attack": 95,
+      "special_defense": 85,
+      "speed": 105
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 2
+  },
+  "126": {
+    "id": 126,
+    "identifier": "magmar",
+    "name": "Magmar",
+    "height": 13,
+    "weight": 445,
+    "base_experience": 173,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 57,
+      "special_attack": 100,
+      "special_defense": 85,
+      "speed": 93
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 2
+  },
+  "127": {
+    "id": 127,
+    "identifier": "pinsir",
+    "name": "Pinsir",
+    "height": 15,
+    "weight": 550,
+    "base_experience": 175,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 100,
+      "special_attack": 55,
+      "special_defense": 70,
+      "speed": 85
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "128": {
+    "id": 128,
+    "identifier": "tauros",
+    "name": "Tauros",
+    "height": 14,
+    "weight": 884,
+    "base_experience": 172,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 95,
+      "special_attack": 40,
+      "special_defense": 70,
+      "speed": 110
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 0
+  },
+  "129": {
+    "id": 129,
+    "identifier": "magikarp",
+    "name": "Magikarp",
+    "height": 9,
+    "weight": 100,
+    "base_experience": 40,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 55,
+      "special_attack": 15,
+      "special_defense": 20,
+      "speed": 80
+    },
+    "generation": 1,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "130": {
+    "id": 130,
+    "identifier": "gyarados",
+    "name": "Gyarados",
+    "height": 65,
+    "weight": 2350,
+    "base_experience": 189,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 125,
+      "defense": 79,
+      "special_attack": 60,
+      "special_defense": 100,
+      "speed": 81
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "131": {
+    "id": 131,
+    "identifier": "lapras",
+    "name": "Lapras",
+    "height": 25,
+    "weight": 2200,
+    "base_experience": 187,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 85,
+      "defense": 80,
+      "special_attack": 85,
+      "special_defense": 95,
+      "speed": 60
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "132": {
+    "id": 132,
+    "identifier": "ditto",
+    "name": "Ditto",
+    "height": 3,
+    "weight": 40,
+    "base_experience": 101,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 48,
+      "defense": 48,
+      "special_attack": 48,
+      "special_defense": 48,
+      "speed": 48
+    },
+    "generation": 1,
+    "capture_rate": 35,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "133": {
+    "id": 133,
+    "identifier": "eevee",
+    "name": "Eevee",
+    "height": 3,
+    "weight": 65,
+    "base_experience": 65,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 50,
+      "special_attack": 45,
+      "special_defense": 65,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "134": {
+    "id": 134,
+    "identifier": "vaporeon",
+    "name": "Vaporeon",
+    "height": 10,
+    "weight": 290,
+    "base_experience": 184,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 110,
+      "special_defense": 95,
+      "speed": 65
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "135": {
+    "id": 135,
+    "identifier": "jolteon",
+    "name": "Jolteon",
+    "height": 8,
+    "weight": 245,
+    "base_experience": 184,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 110,
+      "special_defense": 95,
+      "speed": 130
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "136": {
+    "id": 136,
+    "identifier": "flareon",
+    "name": "Flareon",
+    "height": 9,
+    "weight": 250,
+    "base_experience": 184,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "special_attack": 95,
+      "special_defense": 110,
+      "speed": 65
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "137": {
+    "id": 137,
+    "identifier": "porygon",
+    "name": "Porygon",
+    "height": 8,
+    "weight": 365,
+    "base_experience": 79,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 70,
+      "special_attack": 85,
+      "special_defense": 75,
+      "speed": 40
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "138": {
+    "id": 138,
+    "identifier": "omanyte",
+    "name": "Omanyte",
+    "height": 4,
+    "weight": 75,
+    "base_experience": 71,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 40,
+      "defense": 100,
+      "special_attack": 90,
+      "special_defense": 55,
+      "speed": 35
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "139": {
+    "id": 139,
+    "identifier": "omastar",
+    "name": "Omastar",
+    "height": 10,
+    "weight": 350,
+    "base_experience": 173,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 125,
+      "special_attack": 115,
+      "special_defense": 70,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "140": {
+    "id": 140,
+    "identifier": "kabuto",
+    "name": "Kabuto",
+    "height": 5,
+    "weight": 115,
+    "base_experience": 71,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 80,
+      "defense": 90,
+      "special_attack": 55,
+      "special_defense": 45,
+      "speed": 55
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "141": {
+    "id": 141,
+    "identifier": "kabutops",
+    "name": "Kabutops",
+    "height": 13,
+    "weight": 405,
+    "base_experience": 173,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 115,
+      "defense": 105,
+      "special_attack": 65,
+      "special_defense": 70,
+      "speed": 80
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "142": {
+    "id": 142,
+    "identifier": "aerodactyl",
+    "name": "Aerodactyl",
+    "height": 18,
+    "weight": 590,
+    "base_experience": 180,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "special_attack": 60,
+      "special_defense": 75,
+      "speed": 130
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 1
+  },
+  "143": {
+    "id": 143,
+    "identifier": "snorlax",
+    "name": "Snorlax",
+    "height": 21,
+    "weight": 4600,
+    "base_experience": 189,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "special_attack": 65,
+      "special_defense": 110,
+      "speed": 30
+    },
+    "generation": 1,
+    "capture_rate": 25,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 1
+  },
+  "144": {
+    "id": 144,
+    "identifier": "articuno",
+    "name": "Articuno",
+    "height": 17,
+    "weight": 554,
+    "base_experience": 261,
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 100,
+      "special_attack": 95,
+      "special_defense": 125,
+      "speed": 85
+    },
+    "generation": 1,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "145": {
+    "id": 145,
+    "identifier": "zapdos",
+    "name": "Zapdos",
+    "height": 16,
+    "weight": 526,
+    "base_experience": 261,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 90,
+      "defense": 85,
+      "special_attack": 125,
+      "special_defense": 90,
+      "speed": 100
+    },
+    "generation": 1,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "146": {
+    "id": 146,
+    "identifier": "moltres",
+    "name": "Moltres",
+    "height": 20,
+    "weight": 600,
+    "base_experience": 261,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 90,
+      "special_attack": 125,
+      "special_defense": 85,
+      "speed": 90
+    },
+    "generation": 1,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "147": {
+    "id": 147,
+    "identifier": "dratini",
+    "name": "Dratini",
+    "height": 18,
+    "weight": 33,
+    "base_experience": 60,
+    "types": [
+      "dragon"
+    ],
+    "stats": {
+      "hp": 41,
+      "attack": 64,
+      "defense": 45,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 50
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "148": {
+    "id": 148,
+    "identifier": "dragonair",
+    "name": "Dragonair",
+    "height": 40,
+    "weight": 165,
+    "base_experience": 147,
+    "types": [
+      "dragon"
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 84,
+      "defense": 65,
+      "special_attack": 70,
+      "special_defense": 70,
+      "speed": 70
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "149": {
+    "id": 149,
+    "identifier": "dragonite",
+    "name": "Dragonite",
+    "height": 22,
+    "weight": 2100,
+    "base_experience": 270,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "special_attack": 100,
+      "special_defense": 100,
+      "speed": 80
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "150": {
+    "id": 150,
+    "identifier": "mewtwo",
+    "name": "Mewtwo",
+    "height": 20,
+    "weight": 1220,
+    "base_experience": 306,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 110,
+      "defense": 90,
+      "special_attack": 154,
+      "special_defense": 90,
+      "speed": 130
+    },
+    "generation": 1,
+    "capture_rate": 3,
+    "base_happiness": 0,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "151": {
+    "id": 151,
+    "identifier": "mew",
+    "name": "Mew",
+    "height": 4,
+    "weight": 40,
+    "base_experience": 270,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "special_attack": 100,
+      "special_defense": 100,
+      "speed": 100
+    },
+    "generation": 1,
+    "capture_rate": 45,
+    "base_happiness": 100,
+    "growth_rate_id": 4,
+    "gender_rate": -1
+  },
+  "152": {
+    "id": 152,
+    "identifier": "chikorita",
+    "name": "Chikorita",
+    "height": 9,
+    "weight": 64,
+    "base_experience": 64,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 65,
+      "special_attack": 49,
+      "special_defense": 65,
+      "speed": 45
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "153": {
+    "id": 153,
+    "identifier": "bayleef",
+    "name": "Bayleef",
+    "height": 12,
+    "weight": 158,
+    "base_experience": 142,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 80,
+      "special_attack": 63,
+      "special_defense": 80,
+      "speed": 60
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "154": {
+    "id": 154,
+    "identifier": "meganium",
+    "name": "Meganium",
+    "height": 18,
+    "weight": 1005,
+    "base_experience": 236,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 100,
+      "special_attack": 83,
+      "special_defense": 100,
+      "speed": 80
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "155": {
+    "id": 155,
+    "identifier": "cyndaquil",
+    "name": "Cyndaquil",
+    "height": 5,
+    "weight": 79,
+    "base_experience": 62,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "special_attack": 60,
+      "special_defense": 50,
+      "speed": 65
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "156": {
+    "id": 156,
+    "identifier": "quilava",
+    "name": "Quilava",
+    "height": 9,
+    "weight": 190,
+    "base_experience": 142,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "special_attack": 80,
+      "special_defense": 65,
+      "speed": 80
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "157": {
+    "id": 157,
+    "identifier": "typhlosion",
+    "name": "Typhlosion",
+    "height": 17,
+    "weight": 795,
+    "base_experience": 240,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special_attack": 109,
+      "special_defense": 85,
+      "speed": 100
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "158": {
+    "id": 158,
+    "identifier": "totodile",
+    "name": "Totodile",
+    "height": 6,
+    "weight": 95,
+    "base_experience": 63,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 64,
+      "special_attack": 44,
+      "special_defense": 48,
+      "speed": 43
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "159": {
+    "id": 159,
+    "identifier": "croconaw",
+    "name": "Croconaw",
+    "height": 11,
+    "weight": 250,
+    "base_experience": 142,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80,
+      "defense": 80,
+      "special_attack": 59,
+      "special_defense": 63,
+      "speed": 58
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "160": {
+    "id": 160,
+    "identifier": "feraligatr",
+    "name": "Feraligatr",
+    "height": 23,
+    "weight": 888,
+    "base_experience": 239,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105,
+      "defense": 100,
+      "special_attack": 79,
+      "special_defense": 83,
+      "speed": 78
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "161": {
+    "id": 161,
+    "identifier": "sentret",
+    "name": "Sentret",
+    "height": 8,
+    "weight": 60,
+    "base_experience": 43,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 46,
+      "defense": 34,
+      "special_attack": 35,
+      "special_defense": 45,
+      "speed": 20
+    },
+    "generation": 2,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "162": {
+    "id": 162,
+    "identifier": "furret",
+    "name": "Furret",
+    "height": 18,
+    "weight": 325,
+    "base_experience": 145,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 76,
+      "defense": 64,
+      "special_attack": 45,
+      "special_defense": 55,
+      "speed": 90
+    },
+    "generation": 2,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "163": {
+    "id": 163,
+    "identifier": "hoothoot",
+    "name": "Hoothoot",
+    "height": 7,
+    "weight": 212,
+    "base_experience": 52,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 30,
+      "defense": 30,
+      "special_attack": 36,
+      "special_defense": 56,
+      "speed": 50
+    },
+    "generation": 2,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "164": {
+    "id": 164,
+    "identifier": "noctowl",
+    "name": "Noctowl",
+    "height": 16,
+    "weight": 408,
+    "base_experience": 158,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 50,
+      "defense": 50,
+      "special_attack": 86,
+      "special_defense": 96,
+      "speed": 70
+    },
+    "generation": 2,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "165": {
+    "id": 165,
+    "identifier": "ledyba",
+    "name": "Ledyba",
+    "height": 10,
+    "weight": 108,
+    "base_experience": 53,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 20,
+      "defense": 30,
+      "special_attack": 40,
+      "special_defense": 80,
+      "speed": 55
+    },
+    "generation": 2,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "166": {
+    "id": 166,
+    "identifier": "ledian",
+    "name": "Ledian",
+    "height": 14,
+    "weight": 356,
+    "base_experience": 137,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 35,
+      "defense": 50,
+      "special_attack": 55,
+      "special_defense": 110,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "167": {
+    "id": 167,
+    "identifier": "spinarak",
+    "name": "Spinarak",
+    "height": 5,
+    "weight": 85,
+    "base_experience": 50,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 60,
+      "defense": 40,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "168": {
+    "id": 168,
+    "identifier": "ariados",
+    "name": "Ariados",
+    "height": 11,
+    "weight": 335,
+    "base_experience": 140,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 70,
+      "special_attack": 60,
+      "special_defense": 70,
+      "speed": 40
+    },
+    "generation": 2,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "169": {
+    "id": 169,
+    "identifier": "crobat",
+    "name": "Crobat",
+    "height": 18,
+    "weight": 750,
+    "base_experience": 241,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 90,
+      "defense": 80,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 130
+    },
+    "generation": 2,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "170": {
+    "id": 170,
+    "identifier": "chinchou",
+    "name": "Chinchou",
+    "height": 5,
+    "weight": 120,
+    "base_experience": 66,
+    "types": [
+      "water",
+      "electric"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 38,
+      "defense": 38,
+      "special_attack": 56,
+      "special_defense": 56,
+      "speed": 67
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "171": {
+    "id": 171,
+    "identifier": "lanturn",
+    "name": "Lanturn",
+    "height": 12,
+    "weight": 225,
+    "base_experience": 161,
+    "types": [
+      "water",
+      "electric"
+    ],
+    "stats": {
+      "hp": 125,
+      "attack": 58,
+      "defense": 58,
+      "special_attack": 76,
+      "special_defense": 76,
+      "speed": 67
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "172": {
+    "id": 172,
+    "identifier": "pichu",
+    "name": "Pichu",
+    "height": 3,
+    "weight": 20,
+    "base_experience": 41,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 40,
+      "defense": 15,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 60
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "173": {
+    "id": 173,
+    "identifier": "cleffa",
+    "name": "Cleffa",
+    "height": 3,
+    "weight": 30,
+    "base_experience": 44,
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 25,
+      "defense": 28,
+      "special_attack": 45,
+      "special_defense": 55,
+      "speed": 15
+    },
+    "generation": 2,
+    "capture_rate": 150,
+    "base_happiness": 140,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "174": {
+    "id": 174,
+    "identifier": "igglybuff",
+    "name": "Igglybuff",
+    "height": 3,
+    "weight": 10,
+    "base_experience": 42,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 30,
+      "defense": 15,
+      "special_attack": 40,
+      "special_defense": 20,
+      "speed": 15
+    },
+    "generation": 2,
+    "capture_rate": 170,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "175": {
+    "id": 175,
+    "identifier": "togepi",
+    "name": "Togepi",
+    "height": 3,
+    "weight": 15,
+    "base_experience": 49,
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 20,
+      "defense": 65,
+      "special_attack": 40,
+      "special_defense": 65,
+      "speed": 20
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 1
+  },
+  "176": {
+    "id": 176,
+    "identifier": "togetic",
+    "name": "Togetic",
+    "height": 6,
+    "weight": 32,
+    "base_experience": 142,
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 40,
+      "defense": 85,
+      "special_attack": 80,
+      "special_defense": 105,
+      "speed": 40
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 1
+  },
+  "177": {
+    "id": 177,
+    "identifier": "natu",
+    "name": "Natu",
+    "height": 2,
+    "weight": 20,
+    "base_experience": 64,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50,
+      "defense": 45,
+      "special_attack": 70,
+      "special_defense": 45,
+      "speed": 70
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "178": {
+    "id": 178,
+    "identifier": "xatu",
+    "name": "Xatu",
+    "height": 15,
+    "weight": 150,
+    "base_experience": 165,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 75,
+      "defense": 70,
+      "special_attack": 95,
+      "special_defense": 70,
+      "speed": 95
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "179": {
+    "id": 179,
+    "identifier": "mareep",
+    "name": "Mareep",
+    "height": 6,
+    "weight": 78,
+    "base_experience": 56,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 40,
+      "defense": 40,
+      "special_attack": 65,
+      "special_defense": 45,
+      "speed": 35
+    },
+    "generation": 2,
+    "capture_rate": 235,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "180": {
+    "id": 180,
+    "identifier": "flaaffy",
+    "name": "Flaaffy",
+    "height": 8,
+    "weight": 133,
+    "base_experience": 128,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 55,
+      "defense": 55,
+      "special_attack": 80,
+      "special_defense": 60,
+      "speed": 45
+    },
+    "generation": 2,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "181": {
+    "id": 181,
+    "identifier": "ampharos",
+    "name": "Ampharos",
+    "height": 14,
+    "weight": 615,
+    "base_experience": 230,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 75,
+      "defense": 85,
+      "special_attack": 115,
+      "special_defense": 90,
+      "speed": 55
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "182": {
+    "id": 182,
+    "identifier": "bellossom",
+    "name": "Bellossom",
+    "height": 4,
+    "weight": 58,
+    "base_experience": 221,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 95,
+      "special_attack": 90,
+      "special_defense": 100,
+      "speed": 50
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "183": {
+    "id": 183,
+    "identifier": "marill",
+    "name": "Marill",
+    "height": 4,
+    "weight": 85,
+    "base_experience": 88,
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 20,
+      "defense": 50,
+      "special_attack": 20,
+      "special_defense": 50,
+      "speed": 40
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "184": {
+    "id": 184,
+    "identifier": "azumarill",
+    "name": "Azumarill",
+    "height": 8,
+    "weight": 285,
+    "base_experience": 189,
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 50,
+      "defense": 80,
+      "special_attack": 60,
+      "special_defense": 80,
+      "speed": 50
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "185": {
+    "id": 185,
+    "identifier": "sudowoodo",
+    "name": "Sudowoodo",
+    "height": 12,
+    "weight": 380,
+    "base_experience": 144,
+    "types": [
+      "rock"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 100,
+      "defense": 115,
+      "special_attack": 30,
+      "special_defense": 65,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 65,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "186": {
+    "id": 186,
+    "identifier": "politoed",
+    "name": "Politoed",
+    "height": 11,
+    "weight": 339,
+    "base_experience": 225,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 75,
+      "defense": 75,
+      "special_attack": 90,
+      "special_defense": 100,
+      "speed": 70
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "187": {
+    "id": 187,
+    "identifier": "hoppip",
+    "name": "Hoppip",
+    "height": 4,
+    "weight": 5,
+    "base_experience": 50,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 35,
+      "defense": 40,
+      "special_attack": 35,
+      "special_defense": 55,
+      "speed": 50
+    },
+    "generation": 2,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "188": {
+    "id": 188,
+    "identifier": "skiploom",
+    "name": "Skiploom",
+    "height": 6,
+    "weight": 10,
+    "base_experience": 119,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 45,
+      "defense": 50,
+      "special_attack": 45,
+      "special_defense": 65,
+      "speed": 80
+    },
+    "generation": 2,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "189": {
+    "id": 189,
+    "identifier": "jumpluff",
+    "name": "Jumpluff",
+    "height": 8,
+    "weight": 30,
+    "base_experience": 207,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 55,
+      "defense": 70,
+      "special_attack": 55,
+      "special_defense": 95,
+      "speed": 110
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "190": {
+    "id": 190,
+    "identifier": "aipom",
+    "name": "Aipom",
+    "height": 8,
+    "weight": 115,
+    "base_experience": 72,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 70,
+      "defense": 55,
+      "special_attack": 40,
+      "special_defense": 55,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "191": {
+    "id": 191,
+    "identifier": "sunkern",
+    "name": "Sunkern",
+    "height": 3,
+    "weight": 18,
+    "base_experience": 36,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 30,
+      "defense": 30,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 235,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "192": {
+    "id": 192,
+    "identifier": "sunflora",
+    "name": "Sunflora",
+    "height": 8,
+    "weight": 85,
+    "base_experience": 149,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 75,
+      "defense": 55,
+      "special_attack": 105,
+      "special_defense": 85,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "193": {
+    "id": 193,
+    "identifier": "yanma",
+    "name": "Yanma",
+    "height": 12,
+    "weight": 380,
+    "base_experience": 78,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 45,
+      "special_attack": 75,
+      "special_defense": 45,
+      "speed": 95
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "194": {
+    "id": 194,
+    "identifier": "wooper",
+    "name": "Wooper",
+    "height": 4,
+    "weight": 85,
+    "base_experience": 42,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 45,
+      "defense": 45,
+      "special_attack": 25,
+      "special_defense": 25,
+      "speed": 15
+    },
+    "generation": 2,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "195": {
+    "id": 195,
+    "identifier": "quagsire",
+    "name": "Quagsire",
+    "height": 14,
+    "weight": 750,
+    "base_experience": 151,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 85,
+      "defense": 85,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 35
+    },
+    "generation": 2,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "196": {
+    "id": 196,
+    "identifier": "espeon",
+    "name": "Espeon",
+    "height": 9,
+    "weight": 265,
+    "base_experience": 184,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "special_attack": 130,
+      "special_defense": 95,
+      "speed": 110
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "197": {
+    "id": 197,
+    "identifier": "umbreon",
+    "name": "Umbreon",
+    "height": 10,
+    "weight": 270,
+    "base_experience": 184,
+    "types": [
+      "dark"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 65,
+      "defense": 110,
+      "special_attack": 60,
+      "special_defense": 130,
+      "speed": 65
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 2,
+    "gender_rate": 1
+  },
+  "198": {
+    "id": 198,
+    "identifier": "murkrow",
+    "name": "Murkrow",
+    "height": 5,
+    "weight": 21,
+    "base_experience": 81,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 42,
+      "special_attack": 85,
+      "special_defense": 42,
+      "speed": 91
+    },
+    "generation": 2,
+    "capture_rate": 30,
+    "base_happiness": 35,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "199": {
+    "id": 199,
+    "identifier": "slowking",
+    "name": "Slowking",
+    "height": 20,
+    "weight": 795,
+    "base_experience": 172,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 80,
+      "special_attack": 100,
+      "special_defense": 110,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 70,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "200": {
+    "id": 200,
+    "identifier": "misdreavus",
+    "name": "Misdreavus",
+    "height": 7,
+    "weight": 10,
+    "base_experience": 87,
+    "types": [
+      "ghost"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 60,
+      "special_attack": 85,
+      "special_defense": 85,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "201": {
+    "id": 201,
+    "identifier": "unown",
+    "name": "Unown",
+    "height": 5,
+    "weight": 50,
+    "base_experience": 118,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 72,
+      "defense": 48,
+      "special_attack": 72,
+      "special_defense": 48,
+      "speed": 48
+    },
+    "generation": 2,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "202": {
+    "id": 202,
+    "identifier": "wobbuffet",
+    "name": "Wobbuffet",
+    "height": 13,
+    "weight": 285,
+    "base_experience": 142,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 190,
+      "attack": 33,
+      "defense": 58,
+      "special_attack": 33,
+      "special_defense": 58,
+      "speed": 33
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "203": {
+    "id": 203,
+    "identifier": "girafarig",
+    "name": "Girafarig",
+    "height": 15,
+    "weight": 415,
+    "base_experience": 159,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 65,
+      "special_attack": 90,
+      "special_defense": 65,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "204": {
+    "id": 204,
+    "identifier": "pineco",
+    "name": "Pineco",
+    "height": 6,
+    "weight": 72,
+    "base_experience": 58,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 90,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 15
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "205": {
+    "id": 205,
+    "identifier": "forretress",
+    "name": "Forretress",
+    "height": 12,
+    "weight": 1258,
+    "base_experience": 163,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 140,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 40
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "206": {
+    "id": 206,
+    "identifier": "dunsparce",
+    "name": "Dunsparce",
+    "height": 15,
+    "weight": 140,
+    "base_experience": 145,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 70,
+      "defense": 70,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 45
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "207": {
+    "id": 207,
+    "identifier": "gligar",
+    "name": "Gligar",
+    "height": 11,
+    "weight": 648,
+    "base_experience": 86,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 75,
+      "defense": 105,
+      "special_attack": 35,
+      "special_defense": 65,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "208": {
+    "id": 208,
+    "identifier": "steelix",
+    "name": "Steelix",
+    "height": 92,
+    "weight": 4000,
+    "base_experience": 179,
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 85,
+      "defense": 200,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 25,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "209": {
+    "id": 209,
+    "identifier": "snubbull",
+    "name": "Snubbull",
+    "height": 6,
+    "weight": 78,
+    "base_experience": 60,
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 50,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "210": {
+    "id": 210,
+    "identifier": "granbull",
+    "name": "Granbull",
+    "height": 14,
+    "weight": 487,
+    "base_experience": 158,
+    "types": [
+      "fairy"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 120,
+      "defense": 75,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 45
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "211": {
+    "id": 211,
+    "identifier": "qwilfish",
+    "name": "Qwilfish",
+    "height": 5,
+    "weight": 39,
+    "base_experience": 88,
+    "types": [
+      "water",
+      "poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 85,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "212": {
+    "id": 212,
+    "identifier": "scizor",
+    "name": "Scizor",
+    "height": 18,
+    "weight": 1180,
+    "base_experience": 175,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 130,
+      "defense": 100,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 65
+    },
+    "generation": 2,
+    "capture_rate": 25,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "213": {
+    "id": 213,
+    "identifier": "shuckle",
+    "name": "Shuckle",
+    "height": 6,
+    "weight": 205,
+    "base_experience": 177,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 230,
+      "special_attack": 10,
+      "special_defense": 230,
+      "speed": 5
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "214": {
+    "id": 214,
+    "identifier": "heracross",
+    "name": "Heracross",
+    "height": 15,
+    "weight": 540,
+    "base_experience": 175,
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 125,
+      "defense": 75,
+      "special_attack": 40,
+      "special_defense": 95,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "215": {
+    "id": 215,
+    "identifier": "sneasel",
+    "name": "Sneasel",
+    "height": 9,
+    "weight": 280,
+    "base_experience": 86,
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 55,
+      "special_attack": 35,
+      "special_defense": 75,
+      "speed": 115
+    },
+    "generation": 2,
+    "capture_rate": 60,
+    "base_happiness": 35,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "216": {
+    "id": 216,
+    "identifier": "teddiursa",
+    "name": "Teddiursa",
+    "height": 6,
+    "weight": 88,
+    "base_experience": 66,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 50,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 40
+    },
+    "generation": 2,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "217": {
+    "id": 217,
+    "identifier": "ursaring",
+    "name": "Ursaring",
+    "height": 18,
+    "weight": 1258,
+    "base_experience": 175,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 75,
+      "special_attack": 75,
+      "special_defense": 75,
+      "speed": 55
+    },
+    "generation": 2,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "218": {
+    "id": 218,
+    "identifier": "slugma",
+    "name": "Slugma",
+    "height": 7,
+    "weight": 350,
+    "base_experience": 50,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 40,
+      "special_attack": 70,
+      "special_defense": 40,
+      "speed": 20
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "219": {
+    "id": 219,
+    "identifier": "magcargo",
+    "name": "Magcargo",
+    "height": 8,
+    "weight": 550,
+    "base_experience": 151,
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 120,
+      "special_attack": 90,
+      "special_defense": 80,
+      "speed": 30
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "220": {
+    "id": 220,
+    "identifier": "swinub",
+    "name": "Swinub",
+    "height": 4,
+    "weight": 65,
+    "base_experience": 50,
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 40,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 50
+    },
+    "generation": 2,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "221": {
+    "id": 221,
+    "identifier": "piloswine",
+    "name": "Piloswine",
+    "height": 11,
+    "weight": 558,
+    "base_experience": 158,
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 80,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 50
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "222": {
+    "id": 222,
+    "identifier": "corsola",
+    "name": "Corsola",
+    "height": 6,
+    "weight": 50,
+    "base_experience": 144,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 55,
+      "defense": 95,
+      "special_attack": 65,
+      "special_defense": 95,
+      "speed": 35
+    },
+    "generation": 2,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "223": {
+    "id": 223,
+    "identifier": "remoraid",
+    "name": "Remoraid",
+    "height": 6,
+    "weight": 120,
+    "base_experience": 60,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 65,
+      "defense": 35,
+      "special_attack": 65,
+      "special_defense": 35,
+      "speed": 65
+    },
+    "generation": 2,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "224": {
+    "id": 224,
+    "identifier": "octillery",
+    "name": "Octillery",
+    "height": 9,
+    "weight": 285,
+    "base_experience": 168,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 105,
+      "defense": 75,
+      "special_attack": 105,
+      "special_defense": 75,
+      "speed": 45
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "225": {
+    "id": 225,
+    "identifier": "delibird",
+    "name": "Delibird",
+    "height": 9,
+    "weight": 160,
+    "base_experience": 116,
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 55,
+      "defense": 45,
+      "special_attack": 65,
+      "special_defense": 45,
+      "speed": 75
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "226": {
+    "id": 226,
+    "identifier": "mantine",
+    "name": "Mantine",
+    "height": 21,
+    "weight": 2200,
+    "base_experience": 170,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 40,
+      "defense": 70,
+      "special_attack": 80,
+      "special_defense": 140,
+      "speed": 70
+    },
+    "generation": 2,
+    "capture_rate": 25,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "227": {
+    "id": 227,
+    "identifier": "skarmory",
+    "name": "Skarmory",
+    "height": 17,
+    "weight": 505,
+    "base_experience": 163,
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80,
+      "defense": 140,
+      "special_attack": 40,
+      "special_defense": 70,
+      "speed": 70
+    },
+    "generation": 2,
+    "capture_rate": 25,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "228": {
+    "id": 228,
+    "identifier": "houndour",
+    "name": "Houndour",
+    "height": 6,
+    "weight": 108,
+    "base_experience": 66,
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 60,
+      "defense": 30,
+      "special_attack": 80,
+      "special_defense": 50,
+      "speed": 65
+    },
+    "generation": 2,
+    "capture_rate": 120,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "229": {
+    "id": 229,
+    "identifier": "houndoom",
+    "name": "Houndoom",
+    "height": 14,
+    "weight": 350,
+    "base_experience": 175,
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 50,
+      "special_attack": 110,
+      "special_defense": 80,
+      "speed": 95
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "230": {
+    "id": 230,
+    "identifier": "kingdra",
+    "name": "Kingdra",
+    "height": 18,
+    "weight": 1520,
+    "base_experience": 243,
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 95,
+      "special_defense": 95,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "231": {
+    "id": 231,
+    "identifier": "phanpy",
+    "name": "Phanpy",
+    "height": 5,
+    "weight": 335,
+    "base_experience": 66,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 60,
+      "defense": 60,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 40
+    },
+    "generation": 2,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "232": {
+    "id": 232,
+    "identifier": "donphan",
+    "name": "Donphan",
+    "height": 11,
+    "weight": 1200,
+    "base_experience": 175,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 120,
+      "defense": 120,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 50
+    },
+    "generation": 2,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "233": {
+    "id": 233,
+    "identifier": "porygon2",
+    "name": "Porygon2",
+    "height": 6,
+    "weight": 325,
+    "base_experience": 180,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 80,
+      "defense": 90,
+      "special_attack": 105,
+      "special_defense": 95,
+      "speed": 60
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "234": {
+    "id": 234,
+    "identifier": "stantler",
+    "name": "Stantler",
+    "height": 14,
+    "weight": 712,
+    "base_experience": 163,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 95,
+      "defense": 62,
+      "special_attack": 85,
+      "special_defense": 65,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "235": {
+    "id": 235,
+    "identifier": "smeargle",
+    "name": "Smeargle",
+    "height": 12,
+    "weight": 580,
+    "base_experience": 88,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 20,
+      "defense": 35,
+      "special_attack": 20,
+      "special_defense": 45,
+      "speed": 75
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "236": {
+    "id": 236,
+    "identifier": "tyrogue",
+    "name": "Tyrogue",
+    "height": 7,
+    "weight": 210,
+    "base_experience": 42,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 35,
+      "defense": 35,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 35
+    },
+    "generation": 2,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 0
+  },
+  "237": {
+    "id": 237,
+    "identifier": "hitmontop",
+    "name": "Hitmontop",
+    "height": 14,
+    "weight": 480,
+    "base_experience": 159,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 95,
+      "defense": 95,
+      "special_attack": 35,
+      "special_defense": 110,
+      "speed": 70
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 0
+  },
+  "238": {
+    "id": 238,
+    "identifier": "smoochum",
+    "name": "Smoochum",
+    "height": 4,
+    "weight": 60,
+    "base_experience": 61,
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 15,
+      "special_attack": 85,
+      "special_defense": 65,
+      "speed": 65
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 8
+  },
+  "239": {
+    "id": 239,
+    "identifier": "elekid",
+    "name": "Elekid",
+    "height": 6,
+    "weight": 235,
+    "base_experience": 72,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 63,
+      "defense": 37,
+      "special_attack": 65,
+      "special_defense": 55,
+      "speed": 95
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 2
+  },
+  "240": {
+    "id": 240,
+    "identifier": "magby",
+    "name": "Magby",
+    "height": 7,
+    "weight": 214,
+    "base_experience": 73,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 75,
+      "defense": 37,
+      "special_attack": 70,
+      "special_defense": 55,
+      "speed": 83
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 2
+  },
+  "241": {
+    "id": 241,
+    "identifier": "miltank",
+    "name": "Miltank",
+    "height": 12,
+    "weight": 755,
+    "base_experience": 172,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 80,
+      "defense": 105,
+      "special_attack": 40,
+      "special_defense": 70,
+      "speed": 100
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 8
+  },
+  "242": {
+    "id": 242,
+    "identifier": "blissey",
+    "name": "Blissey",
+    "height": 15,
+    "weight": 468,
+    "base_experience": 608,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 255,
+      "attack": 10,
+      "defense": 10,
+      "special_attack": 75,
+      "special_defense": 135,
+      "speed": 55
+    },
+    "generation": 2,
+    "capture_rate": 30,
+    "base_happiness": 140,
+    "growth_rate_id": 3,
+    "gender_rate": 8
+  },
+  "243": {
+    "id": 243,
+    "identifier": "raikou",
+    "name": "Raikou",
+    "height": 19,
+    "weight": 1780,
+    "base_experience": 261,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 75,
+      "special_attack": 115,
+      "special_defense": 100,
+      "speed": 115
+    },
+    "generation": 2,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "244": {
+    "id": 244,
+    "identifier": "entei",
+    "name": "Entei",
+    "height": 21,
+    "weight": 1980,
+    "base_experience": 261,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 115,
+      "defense": 85,
+      "special_attack": 90,
+      "special_defense": 75,
+      "speed": 100
+    },
+    "generation": 2,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "245": {
+    "id": 245,
+    "identifier": "suicune",
+    "name": "Suicune",
+    "height": 20,
+    "weight": 1870,
+    "base_experience": 261,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 75,
+      "defense": 115,
+      "special_attack": 90,
+      "special_defense": 115,
+      "speed": 85
+    },
+    "generation": 2,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "246": {
+    "id": 246,
+    "identifier": "larvitar",
+    "name": "Larvitar",
+    "height": 6,
+    "weight": 720,
+    "base_experience": 60,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 64,
+      "defense": 50,
+      "special_attack": 45,
+      "special_defense": 50,
+      "speed": 41
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "247": {
+    "id": 247,
+    "identifier": "pupitar",
+    "name": "Pupitar",
+    "height": 12,
+    "weight": 1520,
+    "base_experience": 144,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 84,
+      "defense": 70,
+      "special_attack": 65,
+      "special_defense": 70,
+      "speed": 51
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "248": {
+    "id": 248,
+    "identifier": "tyranitar",
+    "name": "Tyranitar",
+    "height": 20,
+    "weight": 2020,
+    "base_experience": 270,
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 134,
+      "defense": 110,
+      "special_attack": 95,
+      "special_defense": 100,
+      "speed": 61
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "249": {
+    "id": 249,
+    "identifier": "lugia",
+    "name": "Lugia",
+    "height": 52,
+    "weight": 2160,
+    "base_experience": 306,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 90,
+      "defense": 130,
+      "special_attack": 90,
+      "special_defense": 154,
+      "speed": 110
+    },
+    "generation": 2,
+    "capture_rate": 3,
+    "base_happiness": 0,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "250": {
+    "id": 250,
+    "identifier": "ho-oh",
+    "name": "Ho Oh",
+    "height": 38,
+    "weight": 1990,
+    "base_experience": 306,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 130,
+      "defense": 90,
+      "special_attack": 110,
+      "special_defense": 154,
+      "speed": 90
+    },
+    "generation": 2,
+    "capture_rate": 3,
+    "base_happiness": 0,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "251": {
+    "id": 251,
+    "identifier": "celebi",
+    "name": "Celebi",
+    "height": 6,
+    "weight": 50,
+    "base_experience": 270,
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "special_attack": 100,
+      "special_defense": 100,
+      "speed": 100
+    },
+    "generation": 2,
+    "capture_rate": 45,
+    "base_happiness": 100,
+    "growth_rate_id": 4,
+    "gender_rate": -1
+  },
+  "252": {
+    "id": 252,
+    "identifier": "treecko",
+    "name": "Treecko",
+    "height": 5,
+    "weight": 50,
+    "base_experience": 62,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special_attack": 65,
+      "special_defense": 55,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "253": {
+    "id": 253,
+    "identifier": "grovyle",
+    "name": "Grovyle",
+    "height": 9,
+    "weight": 216,
+    "base_experience": 142,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 45,
+      "special_attack": 85,
+      "special_defense": 65,
+      "speed": 95
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "254": {
+    "id": 254,
+    "identifier": "sceptile",
+    "name": "Sceptile",
+    "height": 17,
+    "weight": 522,
+    "base_experience": 239,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 65,
+      "special_attack": 105,
+      "special_defense": 85,
+      "speed": 120
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "255": {
+    "id": 255,
+    "identifier": "torchic",
+    "name": "Torchic",
+    "height": 4,
+    "weight": 25,
+    "base_experience": 62,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 60,
+      "defense": 40,
+      "special_attack": 70,
+      "special_defense": 50,
+      "speed": 45
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "256": {
+    "id": 256,
+    "identifier": "combusken",
+    "name": "Combusken",
+    "height": 9,
+    "weight": 195,
+    "base_experience": 142,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 60,
+      "special_attack": 85,
+      "special_defense": 60,
+      "speed": 55
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "257": {
+    "id": 257,
+    "identifier": "blaziken",
+    "name": "Blaziken",
+    "height": 19,
+    "weight": 520,
+    "base_experience": 239,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 70,
+      "special_attack": 110,
+      "special_defense": 70,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "258": {
+    "id": 258,
+    "identifier": "mudkip",
+    "name": "Mudkip",
+    "height": 4,
+    "weight": 76,
+    "base_experience": 62,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 70,
+      "defense": 50,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "259": {
+    "id": 259,
+    "identifier": "marshtomp",
+    "name": "Marshtomp",
+    "height": 7,
+    "weight": 280,
+    "base_experience": 142,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 70,
+      "special_attack": 60,
+      "special_defense": 70,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "260": {
+    "id": 260,
+    "identifier": "swampert",
+    "name": "Swampert",
+    "height": 15,
+    "weight": 819,
+    "base_experience": 241,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 110,
+      "defense": 90,
+      "special_attack": 85,
+      "special_defense": 90,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 1
+  },
+  "261": {
+    "id": 261,
+    "identifier": "poochyena",
+    "name": "Poochyena",
+    "height": 5,
+    "weight": 136,
+    "base_experience": 56,
+    "types": [
+      "dark"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55,
+      "defense": 35,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 35
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "262": {
+    "id": 262,
+    "identifier": "mightyena",
+    "name": "Mightyena",
+    "height": 10,
+    "weight": 370,
+    "base_experience": 147,
+    "types": [
+      "dark"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 70,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 127,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "263": {
+    "id": 263,
+    "identifier": "zigzagoon",
+    "name": "Zigzagoon",
+    "height": 4,
+    "weight": 175,
+    "base_experience": 56,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 30,
+      "defense": 41,
+      "special_attack": 30,
+      "special_defense": 41,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "264": {
+    "id": 264,
+    "identifier": "linoone",
+    "name": "Linoone",
+    "height": 5,
+    "weight": 325,
+    "base_experience": 147,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 70,
+      "defense": 61,
+      "special_attack": 50,
+      "special_defense": 61,
+      "speed": 100
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "265": {
+    "id": 265,
+    "identifier": "wurmple",
+    "name": "Wurmple",
+    "height": 3,
+    "weight": 36,
+    "base_experience": 56,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 45,
+      "defense": 35,
+      "special_attack": 20,
+      "special_defense": 30,
+      "speed": 20
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "266": {
+    "id": 266,
+    "identifier": "silcoon",
+    "name": "Silcoon",
+    "height": 6,
+    "weight": 100,
+    "base_experience": 72,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 35,
+      "defense": 55,
+      "special_attack": 25,
+      "special_defense": 25,
+      "speed": 15
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "267": {
+    "id": 267,
+    "identifier": "beautifly",
+    "name": "Beautifly",
+    "height": 10,
+    "weight": 284,
+    "base_experience": 178,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 70,
+      "defense": 50,
+      "special_attack": 100,
+      "special_defense": 50,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "268": {
+    "id": 268,
+    "identifier": "cascoon",
+    "name": "Cascoon",
+    "height": 7,
+    "weight": 115,
+    "base_experience": 72,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 35,
+      "defense": 55,
+      "special_attack": 25,
+      "special_defense": 25,
+      "speed": 15
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "269": {
+    "id": 269,
+    "identifier": "dustox",
+    "name": "Dustox",
+    "height": 12,
+    "weight": 316,
+    "base_experience": 173,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 70,
+      "special_attack": 50,
+      "special_defense": 90,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "270": {
+    "id": 270,
+    "identifier": "lotad",
+    "name": "Lotad",
+    "height": 5,
+    "weight": 26,
+    "base_experience": 44,
+    "types": [
+      "water",
+      "grass"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 30,
+      "special_attack": 40,
+      "special_defense": 50,
+      "speed": 30
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "271": {
+    "id": 271,
+    "identifier": "lombre",
+    "name": "Lombre",
+    "height": 12,
+    "weight": 325,
+    "base_experience": 119,
+    "types": [
+      "water",
+      "grass"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 50,
+      "special_attack": 60,
+      "special_defense": 70,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "272": {
+    "id": 272,
+    "identifier": "ludicolo",
+    "name": "Ludicolo",
+    "height": 15,
+    "weight": 550,
+    "base_experience": 216,
+    "types": [
+      "water",
+      "grass"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 70,
+      "defense": 70,
+      "special_attack": 90,
+      "special_defense": 100,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "273": {
+    "id": 273,
+    "identifier": "seedot",
+    "name": "Seedot",
+    "height": 5,
+    "weight": 40,
+    "base_experience": 44,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 50,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 30
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "274": {
+    "id": 274,
+    "identifier": "nuzleaf",
+    "name": "Nuzleaf",
+    "height": 10,
+    "weight": 280,
+    "base_experience": 119,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 70,
+      "defense": 40,
+      "special_attack": 60,
+      "special_defense": 40,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "275": {
+    "id": 275,
+    "identifier": "shiftry",
+    "name": "Shiftry",
+    "height": 13,
+    "weight": 596,
+    "base_experience": 216,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 60,
+      "special_attack": 90,
+      "special_defense": 60,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "276": {
+    "id": 276,
+    "identifier": "taillow",
+    "name": "Taillow",
+    "height": 3,
+    "weight": 23,
+    "base_experience": 54,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55,
+      "defense": 30,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 85
+    },
+    "generation": 3,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "277": {
+    "id": 277,
+    "identifier": "swellow",
+    "name": "Swellow",
+    "height": 7,
+    "weight": 198,
+    "base_experience": 159,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 60,
+      "special_attack": 75,
+      "special_defense": 50,
+      "speed": 125
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "278": {
+    "id": 278,
+    "identifier": "wingull",
+    "name": "Wingull",
+    "height": 6,
+    "weight": 95,
+    "base_experience": 54,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 30,
+      "special_attack": 55,
+      "special_defense": 30,
+      "speed": 85
+    },
+    "generation": 3,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "279": {
+    "id": 279,
+    "identifier": "pelipper",
+    "name": "Pelipper",
+    "height": 12,
+    "weight": 280,
+    "base_experience": 154,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 100,
+      "special_attack": 95,
+      "special_defense": 70,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "280": {
+    "id": 280,
+    "identifier": "ralts",
+    "name": "Ralts",
+    "height": 4,
+    "weight": 66,
+    "base_experience": 40,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 28,
+      "attack": 25,
+      "defense": 25,
+      "special_attack": 45,
+      "special_defense": 35,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 235,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "281": {
+    "id": 281,
+    "identifier": "kirlia",
+    "name": "Kirlia",
+    "height": 8,
+    "weight": 202,
+    "base_experience": 97,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 35,
+      "defense": 35,
+      "special_attack": 65,
+      "special_defense": 55,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "282": {
+    "id": 282,
+    "identifier": "gardevoir",
+    "name": "Gardevoir",
+    "height": 16,
+    "weight": 484,
+    "base_experience": 233,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 65,
+      "defense": 65,
+      "special_attack": 125,
+      "special_defense": 115,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "283": {
+    "id": 283,
+    "identifier": "surskit",
+    "name": "Surskit",
+    "height": 5,
+    "weight": 17,
+    "base_experience": 54,
+    "types": [
+      "bug",
+      "water"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 32,
+      "special_attack": 50,
+      "special_defense": 52,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "284": {
+    "id": 284,
+    "identifier": "masquerain",
+    "name": "Masquerain",
+    "height": 8,
+    "weight": 36,
+    "base_experience": 159,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 62,
+      "special_attack": 100,
+      "special_defense": 82,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "285": {
+    "id": 285,
+    "identifier": "shroomish",
+    "name": "Shroomish",
+    "height": 4,
+    "weight": 45,
+    "base_experience": 59,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 60,
+      "special_attack": 40,
+      "special_defense": 60,
+      "speed": 35
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "286": {
+    "id": 286,
+    "identifier": "breloom",
+    "name": "Breloom",
+    "height": 12,
+    "weight": 392,
+    "base_experience": 161,
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 130,
+      "defense": 80,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "287": {
+    "id": 287,
+    "identifier": "slakoth",
+    "name": "Slakoth",
+    "height": 8,
+    "weight": 240,
+    "base_experience": 56,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 60,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 30
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "288": {
+    "id": 288,
+    "identifier": "vigoroth",
+    "name": "Vigoroth",
+    "height": 14,
+    "weight": 465,
+    "base_experience": 154,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 80,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 90
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "289": {
+    "id": 289,
+    "identifier": "slaking",
+    "name": "Slaking",
+    "height": 20,
+    "weight": 1305,
+    "base_experience": 252,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": 160,
+      "defense": 100,
+      "special_attack": 95,
+      "special_defense": 65,
+      "speed": 100
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "290": {
+    "id": 290,
+    "identifier": "nincada",
+    "name": "Nincada",
+    "height": 5,
+    "weight": 55,
+    "base_experience": 53,
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "stats": {
+      "hp": 31,
+      "attack": 45,
+      "defense": 90,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "291": {
+    "id": 291,
+    "identifier": "ninjask",
+    "name": "Ninjask",
+    "height": 8,
+    "weight": 120,
+    "base_experience": 160,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 90,
+      "defense": 45,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 160
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "292": {
+    "id": 292,
+    "identifier": "shedinja",
+    "name": "Shedinja",
+    "height": 8,
+    "weight": 12,
+    "base_experience": 83,
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "stats": {
+      "hp": 1,
+      "attack": 90,
+      "defense": 45,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": -1
+  },
+  "293": {
+    "id": 293,
+    "identifier": "whismur",
+    "name": "Whismur",
+    "height": 6,
+    "weight": 163,
+    "base_experience": 48,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 51,
+      "defense": 23,
+      "special_attack": 51,
+      "special_defense": 23,
+      "speed": 28
+    },
+    "generation": 3,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "294": {
+    "id": 294,
+    "identifier": "loudred",
+    "name": "Loudred",
+    "height": 10,
+    "weight": 405,
+    "base_experience": 126,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 84,
+      "attack": 71,
+      "defense": 43,
+      "special_attack": 71,
+      "special_defense": 43,
+      "speed": 48
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "295": {
+    "id": 295,
+    "identifier": "exploud",
+    "name": "Exploud",
+    "height": 15,
+    "weight": 840,
+    "base_experience": 221,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 104,
+      "attack": 91,
+      "defense": 63,
+      "special_attack": 91,
+      "special_defense": 73,
+      "speed": 68
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "296": {
+    "id": 296,
+    "identifier": "makuhita",
+    "name": "Makuhita",
+    "height": 10,
+    "weight": 864,
+    "base_experience": 47,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 60,
+      "defense": 30,
+      "special_attack": 20,
+      "special_defense": 30,
+      "speed": 25
+    },
+    "generation": 3,
+    "capture_rate": 180,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 2
+  },
+  "297": {
+    "id": 297,
+    "identifier": "hariyama",
+    "name": "Hariyama",
+    "height": 23,
+    "weight": 2538,
+    "base_experience": 166,
+    "types": [
+      "fighting"
+    ],
+    "stats": {
+      "hp": 144,
+      "attack": 120,
+      "defense": 60,
+      "special_attack": 40,
+      "special_defense": 60,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 2
+  },
+  "298": {
+    "id": 298,
+    "identifier": "azurill",
+    "name": "Azurill",
+    "height": 2,
+    "weight": 20,
+    "base_experience": 38,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 40,
+      "special_attack": 20,
+      "special_defense": 40,
+      "speed": 20
+    },
+    "generation": 3,
+    "capture_rate": 150,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "299": {
+    "id": 299,
+    "identifier": "nosepass",
+    "name": "Nosepass",
+    "height": 10,
+    "weight": 970,
+    "base_experience": 75,
+    "types": [
+      "rock"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 135,
+      "special_attack": 45,
+      "special_defense": 90,
+      "speed": 30
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "300": {
+    "id": 300,
+    "identifier": "skitty",
+    "name": "Skitty",
+    "height": 6,
+    "weight": 110,
+    "base_experience": 52,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 45,
+      "defense": 45,
+      "special_attack": 35,
+      "special_defense": 35,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "301": {
+    "id": 301,
+    "identifier": "delcatty",
+    "name": "Delcatty",
+    "height": 11,
+    "weight": 326,
+    "base_experience": 140,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 65,
+      "defense": 65,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 90
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "302": {
+    "id": 302,
+    "identifier": "sableye",
+    "name": "Sableye",
+    "height": 5,
+    "weight": 110,
+    "base_experience": 133,
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 75,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "303": {
+    "id": 303,
+    "identifier": "mawile",
+    "name": "Mawile",
+    "height": 6,
+    "weight": 115,
+    "base_experience": 133,
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 85,
+      "special_attack": 55,
+      "special_defense": 55,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "304": {
+    "id": 304,
+    "identifier": "aron",
+    "name": "Aron",
+    "height": 4,
+    "weight": 600,
+    "base_experience": 66,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 70,
+      "defense": 100,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 30
+    },
+    "generation": 3,
+    "capture_rate": 180,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "305": {
+    "id": 305,
+    "identifier": "lairon",
+    "name": "Lairon",
+    "height": 9,
+    "weight": 1200,
+    "base_experience": 151,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 140,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "306": {
+    "id": 306,
+    "identifier": "aggron",
+    "name": "Aggron",
+    "height": 21,
+    "weight": 3600,
+    "base_experience": 239,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 180,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "307": {
+    "id": 307,
+    "identifier": "meditite",
+    "name": "Meditite",
+    "height": 6,
+    "weight": 112,
+    "base_experience": 56,
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 55,
+      "special_attack": 40,
+      "special_defense": 55,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 180,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "308": {
+    "id": 308,
+    "identifier": "medicham",
+    "name": "Medicham",
+    "height": 13,
+    "weight": 315,
+    "base_experience": 144,
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 75,
+      "special_attack": 60,
+      "special_defense": 75,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "309": {
+    "id": 309,
+    "identifier": "electrike",
+    "name": "Electrike",
+    "height": 6,
+    "weight": 152,
+    "base_experience": 59,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "special_attack": 65,
+      "special_defense": 40,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "310": {
+    "id": 310,
+    "identifier": "manectric",
+    "name": "Manectric",
+    "height": 15,
+    "weight": 402,
+    "base_experience": 166,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 75,
+      "defense": 60,
+      "special_attack": 105,
+      "special_defense": 60,
+      "speed": 105
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "311": {
+    "id": 311,
+    "identifier": "plusle",
+    "name": "Plusle",
+    "height": 4,
+    "weight": 42,
+    "base_experience": 142,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 40,
+      "special_attack": 85,
+      "special_defense": 75,
+      "speed": 95
+    },
+    "generation": 3,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "312": {
+    "id": 312,
+    "identifier": "minun",
+    "name": "Minun",
+    "height": 4,
+    "weight": 42,
+    "base_experience": 142,
+    "types": [
+      "electric"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 50,
+      "special_attack": 75,
+      "special_defense": 85,
+      "speed": 95
+    },
+    "generation": 3,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "313": {
+    "id": 313,
+    "identifier": "volbeat",
+    "name": "Volbeat",
+    "height": 7,
+    "weight": 177,
+    "base_experience": 151,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 73,
+      "defense": 75,
+      "special_attack": 47,
+      "special_defense": 85,
+      "speed": 85
+    },
+    "generation": 3,
+    "capture_rate": 150,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 0
+  },
+  "314": {
+    "id": 314,
+    "identifier": "illumise",
+    "name": "Illumise",
+    "height": 6,
+    "weight": 177,
+    "base_experience": 151,
+    "types": [
+      "bug"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 47,
+      "defense": 75,
+      "special_attack": 73,
+      "special_defense": 85,
+      "speed": 85
+    },
+    "generation": 3,
+    "capture_rate": 150,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 8
+  },
+  "315": {
+    "id": 315,
+    "identifier": "roselia",
+    "name": "Roselia",
+    "height": 3,
+    "weight": 20,
+    "base_experience": 140,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 45,
+      "special_attack": 100,
+      "special_defense": 80,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 150,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "316": {
+    "id": 316,
+    "identifier": "gulpin",
+    "name": "Gulpin",
+    "height": 4,
+    "weight": 103,
+    "base_experience": 60,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 43,
+      "defense": 53,
+      "special_attack": 43,
+      "special_defense": 53,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "317": {
+    "id": 317,
+    "identifier": "swalot",
+    "name": "Swalot",
+    "height": 17,
+    "weight": 800,
+    "base_experience": 163,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 73,
+      "defense": 83,
+      "special_attack": 73,
+      "special_defense": 83,
+      "speed": 55
+    },
+    "generation": 3,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "318": {
+    "id": 318,
+    "identifier": "carvanha",
+    "name": "Carvanha",
+    "height": 8,
+    "weight": 208,
+    "base_experience": 61,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 90,
+      "defense": 20,
+      "special_attack": 65,
+      "special_defense": 20,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 225,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "319": {
+    "id": 319,
+    "identifier": "sharpedo",
+    "name": "Sharpedo",
+    "height": 18,
+    "weight": 888,
+    "base_experience": 161,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 40,
+      "special_attack": 95,
+      "special_defense": 40,
+      "speed": 95
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "320": {
+    "id": 320,
+    "identifier": "wailmer",
+    "name": "Wailmer",
+    "height": 20,
+    "weight": 1300,
+    "base_experience": 80,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 70,
+      "defense": 35,
+      "special_attack": 70,
+      "special_defense": 35,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 125,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "321": {
+    "id": 321,
+    "identifier": "wailord",
+    "name": "Wailord",
+    "height": 145,
+    "weight": 3980,
+    "base_experience": 175,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 170,
+      "attack": 90,
+      "defense": 45,
+      "special_attack": 90,
+      "special_defense": 45,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "322": {
+    "id": 322,
+    "identifier": "numel",
+    "name": "Numel",
+    "height": 7,
+    "weight": 240,
+    "base_experience": 61,
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 40,
+      "special_attack": 65,
+      "special_defense": 45,
+      "speed": 35
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "323": {
+    "id": 323,
+    "identifier": "camerupt",
+    "name": "Camerupt",
+    "height": 19,
+    "weight": 2200,
+    "base_experience": 161,
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 100,
+      "defense": 70,
+      "special_attack": 105,
+      "special_defense": 75,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 150,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "324": {
+    "id": 324,
+    "identifier": "torkoal",
+    "name": "Torkoal",
+    "height": 5,
+    "weight": 804,
+    "base_experience": 165,
+    "types": [
+      "fire"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 140,
+      "special_attack": 85,
+      "special_defense": 70,
+      "speed": 20
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "325": {
+    "id": 325,
+    "identifier": "spoink",
+    "name": "Spoink",
+    "height": 7,
+    "weight": 306,
+    "base_experience": 66,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 25,
+      "defense": 35,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "326": {
+    "id": 326,
+    "identifier": "grumpig",
+    "name": "Grumpig",
+    "height": 9,
+    "weight": 715,
+    "base_experience": 165,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 45,
+      "defense": 65,
+      "special_attack": 90,
+      "special_defense": 110,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "327": {
+    "id": 327,
+    "identifier": "spinda",
+    "name": "Spinda",
+    "height": 11,
+    "weight": 50,
+    "base_experience": 126,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 60,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "328": {
+    "id": 328,
+    "identifier": "trapinch",
+    "name": "Trapinch",
+    "height": 7,
+    "weight": 150,
+    "base_experience": 58,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 100,
+      "defense": 45,
+      "special_attack": 45,
+      "special_defense": 45,
+      "speed": 10
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "329": {
+    "id": 329,
+    "identifier": "vibrava",
+    "name": "Vibrava",
+    "height": 11,
+    "weight": 153,
+    "base_experience": 119,
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 70,
+      "defense": 50,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "330": {
+    "id": 330,
+    "identifier": "flygon",
+    "name": "Flygon",
+    "height": 20,
+    "weight": 820,
+    "base_experience": 234,
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 80,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 100
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "331": {
+    "id": 331,
+    "identifier": "cacnea",
+    "name": "Cacnea",
+    "height": 4,
+    "weight": 513,
+    "base_experience": 67,
+    "types": [
+      "grass"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 40,
+      "special_attack": 85,
+      "special_defense": 40,
+      "speed": 35
+    },
+    "generation": 3,
+    "capture_rate": 190,
+    "base_happiness": 35,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "332": {
+    "id": 332,
+    "identifier": "cacturne",
+    "name": "Cacturne",
+    "height": 13,
+    "weight": 774,
+    "base_experience": 166,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 115,
+      "defense": 60,
+      "special_attack": 115,
+      "special_defense": 60,
+      "speed": 55
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 35,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "333": {
+    "id": 333,
+    "identifier": "swablu",
+    "name": "Swablu",
+    "height": 4,
+    "weight": 12,
+    "base_experience": 62,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 40,
+      "defense": 60,
+      "special_attack": 40,
+      "special_defense": 75,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "334": {
+    "id": 334,
+    "identifier": "altaria",
+    "name": "Altaria",
+    "height": 11,
+    "weight": 206,
+    "base_experience": 172,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 70,
+      "defense": 90,
+      "special_attack": 70,
+      "special_defense": 105,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "335": {
+    "id": 335,
+    "identifier": "zangoose",
+    "name": "Zangoose",
+    "height": 13,
+    "weight": 403,
+    "base_experience": 160,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 115,
+      "defense": 60,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 90
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "336": {
+    "id": 336,
+    "identifier": "seviper",
+    "name": "Seviper",
+    "height": 27,
+    "weight": 525,
+    "base_experience": 160,
+    "types": [
+      "poison"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 100,
+      "defense": 60,
+      "special_attack": 100,
+      "special_defense": 60,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "337": {
+    "id": 337,
+    "identifier": "lunatone",
+    "name": "Lunatone",
+    "height": 10,
+    "weight": 1680,
+    "base_experience": 161,
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 55,
+      "defense": 65,
+      "special_attack": 95,
+      "special_defense": 85,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": -1
+  },
+  "338": {
+    "id": 338,
+    "identifier": "solrock",
+    "name": "Solrock",
+    "height": 12,
+    "weight": 1540,
+    "base_experience": 161,
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 85,
+      "special_attack": 55,
+      "special_defense": 65,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": -1
+  },
+  "339": {
+    "id": 339,
+    "identifier": "barboach",
+    "name": "Barboach",
+    "height": 4,
+    "weight": 19,
+    "base_experience": 58,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 48,
+      "defense": 43,
+      "special_attack": 46,
+      "special_defense": 41,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "340": {
+    "id": 340,
+    "identifier": "whiscash",
+    "name": "Whiscash",
+    "height": 9,
+    "weight": 236,
+    "base_experience": 164,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 78,
+      "defense": 73,
+      "special_attack": 76,
+      "special_defense": 71,
+      "speed": 60
+    },
+    "generation": 3,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "341": {
+    "id": 341,
+    "identifier": "corphish",
+    "name": "Corphish",
+    "height": 6,
+    "weight": 115,
+    "base_experience": 62,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 43,
+      "attack": 80,
+      "defense": 65,
+      "special_attack": 50,
+      "special_defense": 35,
+      "speed": 35
+    },
+    "generation": 3,
+    "capture_rate": 205,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "342": {
+    "id": 342,
+    "identifier": "crawdaunt",
+    "name": "Crawdaunt",
+    "height": 11,
+    "weight": 328,
+    "base_experience": 164,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "stats": {
+      "hp": 63,
+      "attack": 120,
+      "defense": 85,
+      "special_attack": 90,
+      "special_defense": 55,
+      "speed": 55
+    },
+    "generation": 3,
+    "capture_rate": 155,
+    "base_happiness": 70,
+    "growth_rate_id": 6,
+    "gender_rate": 4
+  },
+  "343": {
+    "id": 343,
+    "identifier": "baltoy",
+    "name": "Baltoy",
+    "height": 5,
+    "weight": 215,
+    "base_experience": 60,
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 55,
+      "special_attack": 40,
+      "special_defense": 70,
+      "speed": 55
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "344": {
+    "id": 344,
+    "identifier": "claydol",
+    "name": "Claydol",
+    "height": 15,
+    "weight": 1080,
+    "base_experience": 175,
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 70,
+      "defense": 105,
+      "special_attack": 70,
+      "special_defense": 120,
+      "speed": 75
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": -1
+  },
+  "345": {
+    "id": 345,
+    "identifier": "lileep",
+    "name": "Lileep",
+    "height": 10,
+    "weight": 238,
+    "base_experience": 71,
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "stats": {
+      "hp": 66,
+      "attack": 41,
+      "defense": 77,
+      "special_attack": 61,
+      "special_defense": 87,
+      "speed": 23
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 1
+  },
+  "346": {
+    "id": 346,
+    "identifier": "cradily",
+    "name": "Cradily",
+    "height": 15,
+    "weight": 604,
+    "base_experience": 173,
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 81,
+      "defense": 97,
+      "special_attack": 81,
+      "special_defense": 107,
+      "speed": 43
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 1
+  },
+  "347": {
+    "id": 347,
+    "identifier": "anorith",
+    "name": "Anorith",
+    "height": 7,
+    "weight": 125,
+    "base_experience": 71,
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 95,
+      "defense": 50,
+      "special_attack": 40,
+      "special_defense": 50,
+      "speed": 75
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 1
+  },
+  "348": {
+    "id": 348,
+    "identifier": "armaldo",
+    "name": "Armaldo",
+    "height": 15,
+    "weight": 682,
+    "base_experience": 173,
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 100,
+      "special_attack": 70,
+      "special_defense": 80,
+      "speed": 45
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 1
+  },
+  "349": {
+    "id": 349,
+    "identifier": "feebas",
+    "name": "Feebas",
+    "height": 6,
+    "weight": 74,
+    "base_experience": 40,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 15,
+      "defense": 20,
+      "special_attack": 10,
+      "special_defense": 55,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "350": {
+    "id": 350,
+    "identifier": "milotic",
+    "name": "Milotic",
+    "height": 62,
+    "weight": 1620,
+    "base_experience": 189,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 60,
+      "defense": 79,
+      "special_attack": 100,
+      "special_defense": 125,
+      "speed": 81
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "351": {
+    "id": 351,
+    "identifier": "castform",
+    "name": "Castform",
+    "height": 3,
+    "weight": 8,
+    "base_experience": 147,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 70,
+      "defense": 70,
+      "special_attack": 70,
+      "special_defense": 70,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "352": {
+    "id": 352,
+    "identifier": "kecleon",
+    "name": "Kecleon",
+    "height": 10,
+    "weight": 220,
+    "base_experience": 154,
+    "types": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 70,
+      "special_attack": 60,
+      "special_defense": 120,
+      "speed": 40
+    },
+    "generation": 3,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "353": {
+    "id": 353,
+    "identifier": "shuppet",
+    "name": "Shuppet",
+    "height": 6,
+    "weight": 23,
+    "base_experience": 59,
+    "types": [
+      "ghost"
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 75,
+      "defense": 35,
+      "special_attack": 63,
+      "special_defense": 33,
+      "speed": 45
+    },
+    "generation": 3,
+    "capture_rate": 225,
+    "base_happiness": 35,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "354": {
+    "id": 354,
+    "identifier": "banette",
+    "name": "Banette",
+    "height": 11,
+    "weight": 125,
+    "base_experience": 159,
+    "types": [
+      "ghost"
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 115,
+      "defense": 65,
+      "special_attack": 83,
+      "special_defense": 63,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "355": {
+    "id": 355,
+    "identifier": "duskull",
+    "name": "Duskull",
+    "height": 8,
+    "weight": 150,
+    "base_experience": 59,
+    "types": [
+      "ghost"
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 40,
+      "defense": 90,
+      "special_attack": 30,
+      "special_defense": 90,
+      "speed": 25
+    },
+    "generation": 3,
+    "capture_rate": 190,
+    "base_happiness": 35,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "356": {
+    "id": 356,
+    "identifier": "dusclops",
+    "name": "Dusclops",
+    "height": 16,
+    "weight": 306,
+    "base_experience": 159,
+    "types": [
+      "ghost"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 70,
+      "defense": 130,
+      "special_attack": 60,
+      "special_defense": 130,
+      "speed": 25
+    },
+    "generation": 3,
+    "capture_rate": 90,
+    "base_happiness": 35,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "357": {
+    "id": 357,
+    "identifier": "tropius",
+    "name": "Tropius",
+    "height": 20,
+    "weight": 1000,
+    "base_experience": 161,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "stats": {
+      "hp": 99,
+      "attack": 68,
+      "defense": 83,
+      "special_attack": 72,
+      "special_defense": 87,
+      "speed": 51
+    },
+    "generation": 3,
+    "capture_rate": 200,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "358": {
+    "id": 358,
+    "identifier": "chimecho",
+    "name": "Chimecho",
+    "height": 6,
+    "weight": 10,
+    "base_experience": 159,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 50,
+      "defense": 80,
+      "special_attack": 95,
+      "special_defense": 90,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 4
+  },
+  "359": {
+    "id": 359,
+    "identifier": "absol",
+    "name": "Absol",
+    "height": 12,
+    "weight": 470,
+    "base_experience": 163,
+    "types": [
+      "dark"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "special_attack": 75,
+      "special_defense": 60,
+      "speed": 75
+    },
+    "generation": 3,
+    "capture_rate": 30,
+    "base_happiness": 35,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "360": {
+    "id": 360,
+    "identifier": "wynaut",
+    "name": "Wynaut",
+    "height": 6,
+    "weight": 140,
+    "base_experience": 52,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 23,
+      "defense": 48,
+      "special_attack": 23,
+      "special_defense": 48,
+      "speed": 23
+    },
+    "generation": 3,
+    "capture_rate": 125,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "361": {
+    "id": 361,
+    "identifier": "snorunt",
+    "name": "Snorunt",
+    "height": 7,
+    "weight": 168,
+    "base_experience": 60,
+    "types": [
+      "ice"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 50,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 190,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "362": {
+    "id": 362,
+    "identifier": "glalie",
+    "name": "Glalie",
+    "height": 15,
+    "weight": 2565,
+    "base_experience": 168,
+    "types": [
+      "ice"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 80,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 80
+    },
+    "generation": 3,
+    "capture_rate": 75,
+    "base_happiness": 70,
+    "growth_rate_id": 2,
+    "gender_rate": 4
+  },
+  "363": {
+    "id": 363,
+    "identifier": "spheal",
+    "name": "Spheal",
+    "height": 8,
+    "weight": 395,
+    "base_experience": 58,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 40,
+      "defense": 50,
+      "special_attack": 55,
+      "special_defense": 50,
+      "speed": 25
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "364": {
+    "id": 364,
+    "identifier": "sealeo",
+    "name": "Sealeo",
+    "height": 11,
+    "weight": 876,
+    "base_experience": 144,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 60,
+      "defense": 70,
+      "special_attack": 75,
+      "special_defense": 70,
+      "speed": 45
+    },
+    "generation": 3,
+    "capture_rate": 120,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "365": {
+    "id": 365,
+    "identifier": "walrein",
+    "name": "Walrein",
+    "height": 14,
+    "weight": 1506,
+    "base_experience": 239,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 80,
+      "defense": 90,
+      "special_attack": 95,
+      "special_defense": 90,
+      "speed": 65
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 70,
+    "growth_rate_id": 4,
+    "gender_rate": 4
+  },
+  "366": {
+    "id": 366,
+    "identifier": "clamperl",
+    "name": "Clamperl",
+    "height": 4,
+    "weight": 525,
+    "base_experience": 69,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 64,
+      "defense": 85,
+      "special_attack": 74,
+      "special_defense": 55,
+      "speed": 32
+    },
+    "generation": 3,
+    "capture_rate": 255,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "367": {
+    "id": 367,
+    "identifier": "huntail",
+    "name": "Huntail",
+    "height": 17,
+    "weight": 270,
+    "base_experience": 170,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 104,
+      "defense": 105,
+      "special_attack": 94,
+      "special_defense": 75,
+      "speed": 52
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "368": {
+    "id": 368,
+    "identifier": "gorebyss",
+    "name": "Gorebyss",
+    "height": 18,
+    "weight": 226,
+    "base_experience": 170,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 84,
+      "defense": 105,
+      "special_attack": 114,
+      "special_defense": 75,
+      "speed": 52
+    },
+    "generation": 3,
+    "capture_rate": 60,
+    "base_happiness": 70,
+    "growth_rate_id": 5,
+    "gender_rate": 4
+  },
+  "369": {
+    "id": 369,
+    "identifier": "relicanth",
+    "name": "Relicanth",
+    "height": 10,
+    "weight": 234,
+    "base_experience": 170,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 90,
+      "defense": 130,
+      "special_attack": 45,
+      "special_defense": 65,
+      "speed": 55
+    },
+    "generation": 3,
+    "capture_rate": 25,
+    "base_happiness": 70,
+    "growth_rate_id": 1,
+    "gender_rate": 1
+  },
+  "370": {
+    "id": 370,
+    "identifier": "luvdisc",
+    "name": "Luvdisc",
+    "height": 6,
+    "weight": 87,
+    "base_experience": 116,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 43,
+      "attack": 30,
+      "defense": 55,
+      "special_attack": 40,
+      "special_defense": 65,
+      "speed": 97
+    },
+    "generation": 3,
+    "capture_rate": 225,
+    "base_happiness": 70,
+    "growth_rate_id": 3,
+    "gender_rate": 6
+  },
+  "371": {
+    "id": 371,
+    "identifier": "bagon",
+    "name": "Bagon",
+    "height": 6,
+    "weight": 421,
+    "base_experience": 60,
+    "types": [
+      "dragon"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 75,
+      "defense": 60,
+      "special_attack": 40,
+      "special_defense": 30,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "372": {
+    "id": 372,
+    "identifier": "shelgon",
+    "name": "Shelgon",
+    "height": 11,
+    "weight": 1105,
+    "base_experience": 147,
+    "types": [
+      "dragon"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 100,
+      "special_attack": 60,
+      "special_defense": 50,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "373": {
+    "id": 373,
+    "identifier": "salamence",
+    "name": "Salamence",
+    "height": 15,
+    "weight": 1026,
+    "base_experience": 270,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 135,
+      "defense": 80,
+      "special_attack": 110,
+      "special_defense": 80,
+      "speed": 100
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": 4
+  },
+  "374": {
+    "id": 374,
+    "identifier": "beldum",
+    "name": "Beldum",
+    "height": 6,
+    "weight": 952,
+    "base_experience": 60,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55,
+      "defense": 80,
+      "special_attack": 35,
+      "special_defense": 60,
+      "speed": 30
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "375": {
+    "id": 375,
+    "identifier": "metang",
+    "name": "Metang",
+    "height": 12,
+    "weight": 2025,
+    "base_experience": 147,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 100,
+      "special_attack": 55,
+      "special_defense": 80,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "376": {
+    "id": 376,
+    "identifier": "metagross",
+    "name": "Metagross",
+    "height": 16,
+    "weight": 5500,
+    "base_experience": 270,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 135,
+      "defense": 130,
+      "special_attack": 95,
+      "special_defense": 90,
+      "speed": 70
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "377": {
+    "id": 377,
+    "identifier": "regirock",
+    "name": "Regirock",
+    "height": 17,
+    "weight": 2300,
+    "base_experience": 261,
+    "types": [
+      "rock"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 200,
+      "special_attack": 50,
+      "special_defense": 100,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "378": {
+    "id": 378,
+    "identifier": "regice",
+    "name": "Regice",
+    "height": 18,
+    "weight": 1750,
+    "base_experience": 261,
+    "types": [
+      "ice"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 50,
+      "defense": 100,
+      "special_attack": 100,
+      "special_defense": 200,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "379": {
+    "id": 379,
+    "identifier": "registeel",
+    "name": "Registeel",
+    "height": 19,
+    "weight": 2050,
+    "base_experience": 261,
+    "types": [
+      "steel"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 75,
+      "defense": 150,
+      "special_attack": 75,
+      "special_defense": 150,
+      "speed": 50
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 35,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "380": {
+    "id": 380,
+    "identifier": "latias",
+    "name": "Latias",
+    "height": 14,
+    "weight": 400,
+    "base_experience": 270,
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 90,
+      "special_attack": 110,
+      "special_defense": 130,
+      "speed": 110
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 90,
+    "growth_rate_id": 1,
+    "gender_rate": 8
+  },
+  "381": {
+    "id": 381,
+    "identifier": "latios",
+    "name": "Latios",
+    "height": 20,
+    "weight": 600,
+    "base_experience": 270,
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 90,
+      "defense": 80,
+      "special_attack": 130,
+      "special_defense": 110,
+      "speed": 110
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 90,
+    "growth_rate_id": 1,
+    "gender_rate": 0
+  },
+  "382": {
+    "id": 382,
+    "identifier": "kyogre",
+    "name": "Kyogre",
+    "height": 45,
+    "weight": 3520,
+    "base_experience": 302,
+    "types": [
+      "water"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 90,
+      "special_attack": 150,
+      "special_defense": 140,
+      "speed": 90
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 0,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "383": {
+    "id": 383,
+    "identifier": "groudon",
+    "name": "Groudon",
+    "height": 35,
+    "weight": 9500,
+    "base_experience": 302,
+    "types": [
+      "ground"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 150,
+      "defense": 140,
+      "special_attack": 100,
+      "special_defense": 90,
+      "speed": 90
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 0,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "384": {
+    "id": 384,
+    "identifier": "rayquaza",
+    "name": "Rayquaza",
+    "height": 70,
+    "weight": 2065,
+    "base_experience": 306,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 150,
+      "defense": 90,
+      "special_attack": 150,
+      "special_defense": 90,
+      "speed": 95
+    },
+    "generation": 3,
+    "capture_rate": 45,
+    "base_happiness": 0,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "385": {
+    "id": 385,
+    "identifier": "jirachi",
+    "name": "Jirachi",
+    "height": 3,
+    "weight": 11,
+    "base_experience": 270,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "special_attack": 100,
+      "special_defense": 100,
+      "speed": 100
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 100,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  },
+  "386": {
+    "id": 386,
+    "identifier": "deoxys-normal",
+    "name": "Deoxys Normal",
+    "height": 17,
+    "weight": 608,
+    "base_experience": 270,
+    "types": [
+      "psychic"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 150,
+      "defense": 50,
+      "special_attack": 150,
+      "special_defense": 50,
+      "speed": 150
+    },
+    "generation": 3,
+    "capture_rate": 3,
+    "base_happiness": 0,
+    "growth_rate_id": 1,
+    "gender_rate": -1
+  }
+}
